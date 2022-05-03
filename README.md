@@ -30,7 +30,7 @@ Where: <br>
 - ```N``` = Number of Non-Excluded NFTs in Collection X with a Secondary Market Sale
 - ```D``` = Divisor<sub>old</sub> * (Index Price<sub>new</sub> / Index Price<sub>old</sub>)
 
-For the purposes of this calculation, assume that each collection's Index Price begins with a Divisor 
+For the purposes of normalization, assume that each collection's Index Price begins with a Divisor 
 value of ```First Secondary-Market Sale Price of any NFT in the Collection / $1,000```. When the second 
 NFT in the Index Price records its first secondary market sale, the Divisor is adjusted. The same happens 
 when the third NFT in the Index Price records its first secondary market sale, and the fourth, and so on.
@@ -38,6 +38,24 @@ when the third NFT in the Index Price records its first secondary market sale, a
 #### Exclusions
 Each NFT must have at least 2 sales in the last year, and at least one in the last 6 months, in order to
 be included in the index price calculation. 
+
+#### Example
+- NFT 1
+> Suppose that the first BYAC to record a public online sale is the #1 Ape. Its first sale is $500. <br>
+> **Divisor:** ```$500 / 1000 == $0.50```<br>
+> **Index Price:** ```$500 / (1 * $0.50) == $1,000```
+
+- NFT 2
+> Suppose that the second BYAC to record a public online sale is the #2 Ape. Its first sale is $300. <br>
+> **Index Price<sub>old</sub> =** ```$500 / (1 * $0.50) == $1000```<br>
+> **Index Price<sub>new</sub> =** ```($500 + $300) / (2 * $0.50) == $800```<br>
+> **Divisor<sub>new</sub> =** ```$0.50 * ($800 / $1000) == $0.40```<br>
+> **Adjusted Index Price:** ```($500 + $300) / (2 * $0.40) == $1000```<br>
+
+- NFT 2 (2nd Resale)
+> Suppose that the second BYAC to record a public online resells at a later date for $750. <br>
+> **Index Price:** ```($500 + $750) / (2 * $0.40) == $1562.50```<br>
+
 
 ### Part 2. Calcualte the Index Ratios
 Next we must calculate an "index ratio" for each NFT in the collection, calculated as follows. <br>
