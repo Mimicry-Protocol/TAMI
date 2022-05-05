@@ -26,18 +26,23 @@ Each NFT must have at least 2 sales in the last year, and at least one in the la
 - NFT 1
 > Suppose that the first BYAC to record a public online sale is the #1 Ape. Its first sale is $500. <br>
 > **Divisor:** ```$500 / 1000 == $0.50```<br>
-> **Index Price:** ```$500 / (1 * $0.50) == $1,000```
+> **Index Price<sub>date1</sub>:** ```$500 / (1 * $0.50) == $1,000```
 
 - NFT 2
 > Suppose that the second BYAC to record a public online sale is the #2 Ape. Its first sale is $300. <br>
-> **Index Price<sub>old</sub> =** ```$500 / (1 * $0.50) == $1000```<br>
-> **Index Price<sub>new</sub> =** ```($500 + $300) / (2 * $0.50) == $800```<br>
+> **Index Price<sub>date2</sub> =** ```($500 + $300) / (2 * $0.50) == $800```<br>
 > **Divisor<sub>new</sub> =** ```$0.50 * ($800 / $1000) == $0.40```<br>
-> **Adjusted Index Price:** ```($500 + $300) / (2 * $0.40) == $1000```<br>
+> **Divisor-Adjusted Index Price<sub>date2</sub>:** ```($500 + $300) / (2 * $0.40) == $1000```<br>
 
 - NFT 2 (2nd Resale)
 > Suppose that the second BYAC to record a public online resells at a later date for $750. <br>
-> **Index Price:** ```($500 + $750) / (2 * $0.40) == $1562.50```<br>
+> **Index Price<sub>date3</sub>:** ```($500 + $750) / (2 * $0.40) == $1562.50```<br>
+
+- NFT 3
+> Suppose that the third BYAC to record a public online sale is the #3 Ape. Its first sale is $400. <br>
+> **Index Price<sub>date4</sub> =** ```($500 + $750 + $400) / (3 * $0.40) == $1375```<br>
+> **Divisor<sub>new</sub> =** ```$0.40 * ($1375 / $1000) == $0.55```<br>
+> **Divisor-Adjusted Index Price<sub>date4</sub>:** ```($500 + $750 + $400) / (3 * $0.55) == $1000```<br>
 
 
 ### Part 2. Calcualte the Index Ratios
@@ -48,6 +53,11 @@ Where: <br>
 - ```V```  = NFT Value on Date of Last Sale
 - ```IP``` = Index Price on Date of Last Sale
 
+#### Example
+- NFT 1: ```$500 / $1000.00 == .50```
+- NFT 2: ```$750 / $1562.50 == .48```
+- NFT 3: ```$400 / $1375.00 == .290909```
+
 ### Part 3. Calculate the Time-Adjusted Market Index
 The second to last step is to determine the time-adjusted values of every non-excluded NFT in the collection, calculated as follows. <br>
 ```TAV = IR * IP```
@@ -56,8 +66,16 @@ Where: <br>
 - ```IR``` = Each NFT's Index Ratio
 - ```IV``` = The Index Price of the Collection
 
+#### Example
+- NFT 1: ```.50 * $1375 == $687.50```
+- NFT 2: ```.48 * $1375 == $660.00```
+- NFT 3: ```.290909 * $1375 == $400```
+
 And then finally we must sum all the TAVs to calculate the Time-Adjusted Market Index: <br><br>
 **TAMI** = TAV<sub>1</sub> + TAV<sub>2</sub> + TAV<sub>3</sub> + etc.
+
+#### Example
+- ```$687.50 + $660 + $400 == $1747.50```
 
 ## Advantages to this Methodology
 Time-Adjusted Market Indexes offer an analytical lens through which to appraise NFT collections. Unlike an opaque and closed-source AI model, this open-source methodology is fully transparent and reproducible by any market participant. This methodology is also quite resistant to price manipulation, unlike a calculation that is based on floor prices. 
