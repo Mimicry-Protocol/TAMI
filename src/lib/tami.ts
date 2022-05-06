@@ -78,10 +78,18 @@ export function createIndexValueHistory(
   return result;
 }
 
+/**
+ * Given a list of IndexValueHistoryItem, returns the index value of the last item.
+ */
 export function getIndexValue(indexValueHistory: IndexValueHistoryItem[]) {
   return indexValueHistory[indexValueHistory.length - 1].indexValue;
 }
 
+/**
+ * Given a list of IndexValueHistoryItem, calculates the index ratio for the last transaction
+ * of each item in the collection. Returns a list of objects where each object is the IndexValueHistoryItem
+ * with an additional `indexRatio` property added.
+ */
 export function getIndexRatios(indexValueHistory: IndexValueHistoryItem[]) {
   const lastSaleMap = indexValueHistory.reduce<
     Record<Transaction['itemId'], IndexValueHistoryItem>
@@ -99,6 +107,10 @@ export function getIndexRatios(indexValueHistory: IndexValueHistoryItem[]) {
   });
 }
 
+/**
+ * Given a list of transactions for a given collection, sorted in chronological order,
+ * this calculates the Time Adjusted Market Index for that collection.
+ */
 export function tami(transactionHistory: Transaction[]) {
   const indexValueHistory = createIndexValueHistory(transactionHistory);
   const indexValue = getIndexValue(indexValueHistory);
