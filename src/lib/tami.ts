@@ -15,7 +15,7 @@ type IndexValueHistoryItem = {
 /**
  * Given a list of transactions sorted in chronological order, this crates a list that contains
  * the index value at the time of each transaction, and includes the transaction as well.
- * @see {@link https://drive.google.com/file/d/1rOY3tagsT7axRRxZWECh-0zWoMbaYbNp/view}
+ * @see {@link https://github.com/Mimicry-Protocol/TAMI/blob/main/reference/card-ladder-white-paper.pdf}
  */
 export function createIndexValueHistory(
   transactionHistory: Transaction[]
