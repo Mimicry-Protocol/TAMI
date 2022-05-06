@@ -1,11 +1,11 @@
 {
-  "name": "tempppp",
-  "version": "1.0.0",
-  "description": "xxx",
+  "name": "tami",
+  "version": "0.0.1",
+  "description": "Calculates the Time Adjusted Market Index value of a collection of tradable assets",
   "main": "build/main/index.js",
   "typings": "build/main/index.d.ts",
   "module": "build/module/index.js",
-  "repository": "https://github.com/dgca/tempppp",
+  "repository": "https://github.com/Mimicry-Protocol/TAMI",
   "license": "MIT",
   "keywords": [],
   "scripts": {
