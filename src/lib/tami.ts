@@ -34,7 +34,7 @@ export function createIndexValueHistory(
 
     transactionMap[transaction.itemId] = transaction;
 
-    const cardCount = Object.keys(transactionMap).length;
+    const itemCount = Object.keys(transactionMap).length;
 
     const allLastSoldValue = Object.values(transactionMap).reduce(
       (acc, { price }) => {
@@ -43,7 +43,7 @@ export function createIndexValueHistory(
       0
     );
 
-    const indexValue = allLastSoldValue / (cardCount * lastDivisor);
+    const indexValue = allLastSoldValue / (itemCount * lastDivisor);
 
     if (i === 0) {
       lastIndexValue = indexValue;
@@ -62,7 +62,7 @@ export function createIndexValueHistory(
       ? lastDivisor * (indexValue / lastIndexValue)
       : lastDivisor;
 
-    const weightedIndexValue = allLastSoldValue / (cardCount * nextDivisor);
+    const weightedIndexValue = allLastSoldValue / (itemCount * nextDivisor);
 
     lastIndexValue = weightedIndexValue;
     lastDivisor = nextDivisor;
