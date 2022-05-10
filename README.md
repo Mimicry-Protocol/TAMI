@@ -66,7 +66,7 @@ We'll also ignore the exclusion rules to focus on the calculation itself. Assume
 
 Given this information, let's see how each sale affects the Index Value:
 
-**Transaction 1 (excluded)**
+**Transaction 1**
 
 * **Name**: Lavender
 * **Price:** $500
