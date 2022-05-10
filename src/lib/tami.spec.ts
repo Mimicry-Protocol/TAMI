@@ -1,4 +1,5 @@
 import test from 'ava';
+import { sub } from 'date-fns';
 
 import {
   createIndexValueHistory,
@@ -7,76 +8,96 @@ import {
   tami,
 } from './tami';
 
+const now = new Date();
+const yesterday = sub(now, {
+  days: 1,
+});
+const twoYearsAgo = sub(now, {
+  years: 2,
+});
+
 const mockTransactionHistory = [
-  {
-    price: 455,
-    itemId: 1,
-  },
-  {
-    price: 126,
-    itemId: 2,
-  },
-  {
-    price: 177.5,
-    itemId: 2,
-  },
+  // Lavender should be excluded since she did not have two transactions in the past year
+  { itemId: 'Lavender', price: 500, timestamp: yesterday },
+  { itemId: 'Hyacinth', price: 700, timestamp: yesterday },
+  { itemId: 'Hyacinth', price: 400, timestamp: yesterday },
+  { itemId: 'Mars', price: 612, timestamp: yesterday },
+  { itemId: 'Mars', price: 1200, timestamp: yesterday },
+  // Nyx should be excluded since she did not have two transactions in the past year
+  { itemId: 'Nyx', price: 612, timestamp: twoYearsAgo },
+  { itemId: 'Nyx', price: 1200, timestamp: yesterday },
 ];
 
 const expectedValues = {
   indexValueHistory: [
     {
-      itemId: 1,
-      price: 455,
-      indexValue: 455,
+      itemId: 'Hyacinth',
+      price: 700,
+      indexValue: 1.4,
       transaction: {
-        price: 455,
-        itemId: 1,
+        itemId: 'Hyacinth',
+        price: 700,
+        timestamp: yesterday,
       },
     },
     {
-      itemId: 2,
-      price: 126,
-      indexValue: 455.00000000000006,
+      itemId: 'Hyacinth',
+      price: 400,
+      indexValue: 0.8,
       transaction: {
-        price: 126,
-        itemId: 2,
+        itemId: 'Hyacinth',
+        price: 400,
+        timestamp: yesterday,
       },
     },
     {
-      itemId: 2,
-      price: 177.5,
-      indexValue: 495.33132530120486,
+      itemId: 'Mars',
+      price: 612,
+      indexValue: 0.8,
       transaction: {
-        price: 177.5,
-        itemId: 2,
+        itemId: 'Mars',
+        price: 612,
+        timestamp: yesterday,
+      },
+    },
+    {
+      itemId: 'Mars',
+      price: 1200,
+      indexValue: 1.2648221343873518,
+      transaction: {
+        itemId: 'Mars',
+        price: 1200,
+        timestamp: yesterday,
       },
     },
   ],
-  indexValue: 495.33132530120486,
+  indexValue: 1.2648221343873518,
   indexRatios: [
     {
-      itemId: 1,
-      price: 455,
-      indexValue: 455,
+      itemId: 'Hyacinth',
+      price: 400,
+      indexValue: 0.8,
       transaction: {
-        price: 455,
-        itemId: 1,
+        itemId: 'Hyacinth',
+        price: 400,
+        timestamp: yesterday,
       },
-      indexRatio: 1,
+      indexRatio: 500,
     },
     {
-      itemId: 2,
-      price: 177.5,
-      indexValue: 495.33132530120486,
+      itemId: 'Mars',
+      price: 1200,
+      indexValue: 1.2648221343873518,
       transaction: {
-        price: 177.5,
-        itemId: 2,
+        itemId: 'Mars',
+        price: 1200,
+        timestamp: yesterday,
       },
-      indexRatio: 0.3583460018242627,
+      indexRatio: 948.75,
     },
   ],
-  timeAdjustedValues: [495.33132530120486, 177.5],
-  timeAdjustedMarketIndex: 672.8313253012049,
+  timeAdjustedValues: [632.4110671936759, 1200],
+  timeAdjustedMarketIndex: 1832.411067193676,
 };
 
 test('createIndexValueHistory', (t) => {

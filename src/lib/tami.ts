@@ -1,6 +1,9 @@
+import { isAfter, sub } from 'date-fns';
+
 type Transaction = {
   price: number;
   itemId: number | string;
+  timestamp: Date;
 };
 
 type TransactionMap = Record<Transaction['itemId'], Transaction>;
@@ -11,6 +14,71 @@ type IndexValueHistoryItem = {
   indexValue: number;
   transaction: Transaction;
 };
+
+/**
+ * Given a list of transactions, this returns only transactions that have at least 2 sales in the last year,
+ * and at least one sale in the last 6 months.
+ */
+export function filterValidTransactions(
+  transactionHistory: Transaction[]
+): Transaction[] {
+  const now = new Date();
+  const oneYearAgo = sub(now, {
+    years: 1,
+  });
+  const sixMonthsAgo = sub(now, {
+    years: 1,
+  });
+
+  const inclusionMap: Record<
+    Transaction['itemId'],
+    {
+      pastYearSaleCount: number;
+      hasSaleInLastSixMonths: boolean;
+      isValid: boolean;
+    }
+  > = {};
+
+  for (const transaction of transactionHistory) {
+    const { itemId, timestamp } = transaction;
+
+    if (!inclusionMap[itemId]) {
+      inclusionMap[itemId] = {
+        pastYearSaleCount: 0,
+        hasSaleInLastSixMonths: false,
+        isValid: false,
+      };
+    }
+
+    const currentMapItem = inclusionMap[itemId];
+
+    if (currentMapItem.isValid) {
+      continue;
+    }
+
+    const pastYearSaleCount = currentMapItem.pastYearSaleCount ?? 0;
+
+    const isWithinSixMonths = isAfter(timestamp, sixMonthsAgo);
+
+    if (!isWithinSixMonths && isAfter(timestamp, oneYearAgo)) {
+      currentMapItem.pastYearSaleCount = pastYearSaleCount + 1;
+      continue;
+    }
+
+    if (isWithinSixMonths) {
+      currentMapItem.hasSaleInLastSixMonths = true;
+      currentMapItem.pastYearSaleCount = pastYearSaleCount + 1;
+    }
+
+    if (isWithinSixMonths && currentMapItem.pastYearSaleCount >= 2) {
+      currentMapItem.isValid = true;
+    }
+  }
+
+  return transactionHistory.filter((transaction) => {
+    return inclusionMap[transaction.itemId].isValid;
+  });
+}
 
 /**
  * Given a list of transactions sorted in chronological order, this crates a list that contains
@@ -112,7 +180,8 @@ export function getIndexRatios(indexValueHistory: IndexValueHistoryItem[]) {
  * this calculates the Time Adjusted Market Index for that collection.
  */
 export function tami(transactionHistory: Transaction[]) {
-  const indexValueHistory = createIndexValueHistory(transactionHistory);
+  const validTransactions = filterValidTransactions(transactionHistory);
+  const indexValueHistory = createIndexValueHistory(validTransactions);
   const indexValue = getIndexValue(indexValueHistory);
   const indexRatios = getIndexRatios(indexValueHistory);
   const timeAdjustedValues = indexRatios.map((item) => {
