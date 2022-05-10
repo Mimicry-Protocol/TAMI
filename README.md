@@ -8,14 +8,14 @@ A universal mechanism for calculating the estimated value of a collection of ass
 import {tami} from '@mimicry/tami';
 
 const transactions = [
-  { itemId: 'Lavender', timestamp: 1593129600000, price: 500 },
-  { itemId: 'Hyacinth', timestamp: 1600992000000, price: 700 },
-  { itemId: 'Hyacinth', timestamp: 1614211200000, price: 400 },
-  { itemId: 'Mars', timestamp: 1624406400000, price: 612 },
-  { itemId: 'Mars', timestamp: 1639008000000, price: 1200 },
+  { itemId: 'Lavender', timestamp: new Date(1593129600000), price: 500 },
+  { itemId: 'Hyacinth', timestamp: new Date(1600992000000), price: 700 },
+  { itemId: 'Hyacinth', timestamp: new Date(1614211200000), price: 400 },
+  { itemId: 'Mars', timestamp: new Date(1624406400000), price: 612 },
+  { itemId: 'Mars', timestamp: new Date(1639008000000), price: 1200 },
 ];
 
-const timeAdjustedMarketValue = tami(transactions); // 2276.3888888888887
+const timeAdjustedMarketValue = tami(transactions);
 ```
 
 ## Motivation
@@ -66,7 +66,7 @@ We'll also ignore the exclusion rules to focus on the calculation itself. Assume
 
 Given this information, let's see how each sale affects the Index Value:
 
-**Transaction 1 (excluded)**
+**Transaction 1**
 
 * **Name**: Lavender
 * **Price:** $500
