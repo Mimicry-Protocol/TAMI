@@ -1,6 +1,6 @@
 # Time-Adjusted Market Index (TAMI)
 
-A universal mechanism for calculating the estimated value of a collection of assets. This project is based on the [Card Ladder Value](https://drive.google.com/file/d/1rOY3tagsT7axRRxZWECh-0zWoMbaYbNp/view) algorithm and the [Index Mathmatics Methodology](https://www.spglobal.com/spdji/en/documents/methodologies/methodology-index-math.pdf) published by S&P Dow Jones Indices, a division of S&P Global.
+A universal mechanism for calculating the estimated value of a collection of assets. This project is based on the [Card Ladder Value](https://github.com/Mimicry-Protocol/TAMI/blob/main/reference/card-ladder-white-paper.pdf) algorithm and the [Index Mathmatics Methodology](https://github.com/Mimicry-Protocol/TAMI/blob/main/reference/methodology-index-math.pdf) published by S&P Dow Jones Indices, a division of S&P Global.
 
 ## Usage
 
@@ -54,7 +54,7 @@ Pretend we want to calculate the value of the [Crypto Coven](https://www.cryptoc
 * Hyacinth
 * Mars
 
-We'll also ignore the exlusion rules to focus on the calculation itself. Assume the entire secondary market purchase history of the Crypto Coven project looks like this:
+We'll also ignore the exclusion rules to focus on the calculation itself. Assume the entire secondary market purchase history of the Crypto Coven project looks like this:
 
 | # | name | price |
 |-|-|-|
