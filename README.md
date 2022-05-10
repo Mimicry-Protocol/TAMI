@@ -1,87 +1,190 @@
 # Time-Adjusted Market Index (TAMI)
+
 A universal mechanism for calculating the estimated value of a collection of assets. This project is based on the [Card Ladder Value](https://drive.google.com/file/d/1rOY3tagsT7axRRxZWECh-0zWoMbaYbNp/view) algorithm and the [Index Mathmatics Methodology](https://www.spglobal.com/spdji/en/documents/methodologies/methodology-index-math.pdf) published by S&P Dow Jones Indices, a division of S&P Global.
 
+## Usage
+
+```tsx
+import {tami} from '@mimicry/tami';
+
+const transactions = [
+  { itemId: 'Lavender', timestamp: 1593129600000, price: 500 },
+  { itemId: 'Hyacinth', timestamp: 1600992000000, price: 700 },
+  { itemId: 'Hyacinth', timestamp: 1614211200000, price: 400 },
+  { itemId: 'Mars', timestamp: 1624406400000, price: 612 },
+  { itemId: 'Mars', timestamp: 1639008000000, price: 1200 },
+];
+
+const timeAdjustedMarketValue = tami(transactions); // 2276.3888888888887
+```
+
 ## Motivation
+
 Prior to the development of this tool, there was no standardized way to transparently value a collection of NFTs. Various data providers such as [ArtCentral](https://artcentral.io), [UpShot](https://upshot.xyz/), [bitsCrunch](https://bitscrunch.com/), [NFTGo](https://nftgo.io/), [Gallop](https://www.higallop.com/), [Banksea](https://banksea.finance/), and others have developed their own proprietary market cap methodology. This fragmentation serves some users, like traders seeking alpha, but it does not serve the best interests of all users. For example, opaque AI solutions are not sufficient for users that wish to rely upon a trustless reference price for NFTfi lending and derivative instruments. Moreover, market caps calculated using the floor price of a collection are too easily manipulated. This is especially dangerous when considered in conjunction with derivative protocols for NFT collections.
 
 **Speical Note:** _While this tool was created with NFT collections in mind, it will work for any generic basket of non-fungible assets such as trading cards, houses, music licenses, etc._
 
 ## How it Works
+
 ### Part 1. Calculate the Index Price
+
 #### Methodology
-We first calculate an "index price" for an NFT collection, calculated as follows. <br>
-```Index Price = S / (N * D)```
 
-Where: <br> 
-- ```S``` = Sum of the Last Sold Value of Every Non-Excluded NFT in Collection X
-- ```N``` = Number of Non-Excluded NFTs in Collection X with a Secondary Market Sale
-- ```D``` = Divisor<sub>old</sub> * (Index Price<sub>new</sub> / Index Price<sub>old</sub>)
+We first calculate an **Index Price** for an NFT collection, calculated as follows:
 
-For the purposes of normalization, assume that each collection's Index Price begins with a Divisor value of ```First Secondary-Market Sale Price of any NFT in the Collection / $1,000```. When the second NFT in the Index Price records its first secondary market sale, the Divisor is adjusted. The same happens when the third NFT in the Index Price records its first secondary market sale, and the fourth, and so on.
+`Index Price = S / (N * D)`
+
+Where:
+
+- `S` = Sum of the Last Sold Value of Every Non-Excluded NFT in Collection X
+- `N` = Number of Non-Excluded NFTs in Collection X with a Secondary Market Sale
+- `D` = Divisor<sub>old</sub> * (Index Price<sub>new</sub> / Index Price<sub>old</sub>)
+
+When the Index Price is first calculated, we begin with a Divisor value of 1. When the second NFT in the collection records its first secondary market sale, the Divisor is adjusted. The same happens when the third NFT in the Index Price records its first secondary market sale, and the fourth, and so on.
 
 #### Exclusions
-Each NFT must have at least 2 sales in the last year, and at least one in the last 6 months, in order to be included in the index price calculation. 
+
+Each NFT must have at least 2 sales in the last year, and at least one in the last 6 months, in order to be included in the Index Price calculation. 
 
 #### Example
-- NFT 1
-> Suppose that the first BYAC to record a public online sale is the #1 Ape. Its first sale is $500. <br>
-> **Divisor:** ```$500 / 1000 == $0.50```<br>
-> **Index Price<sub>date1</sub>:** ```$500 / (1 * $0.50) == $1,000```
 
-- NFT 2
-> Suppose that the second BYAC to record a public online sale is the #2 Ape. Its first sale is $300. <br>
-> **Index Price<sub>date2</sub> =** ```($500 + $300) / (2 * $0.50) == $800```<br>
-> **Divisor<sub>new</sub> =** ```$0.50 * ($800 / $1000) == $0.40```<br>
-> **Divisor-Adjusted Index Price<sub>date2</sub>:** ```($500 + $300) / (2 * $0.40) == $1000```<br>
+Pretend we want to calculate the value of the [Crypto Coven](https://www.cryptocoven.xyz/) NFT project. For simplicity's sake, we'll say the collection only has three NFTs:
 
-- NFT 2 (2nd Resale)
-> Suppose that the second BYAC to record a public online resells at a later date for $750. <br>
-> **Index Price<sub>date3</sub>:** ```($500 + $750) / (2 * $0.40) == $1562.50```<br>
+* Lavender
+* Hyacinth
+* Mars
 
-- NFT 3
-> Suppose that the third BYAC to record a public online sale is the #3 Ape. Its first sale is $400. <br>
-> **Index Price<sub>date4</sub> =** ```($500 + $750 + $400) / (3 * $0.40) == $1375```<br>
-> **Divisor<sub>new</sub> =** ```$0.40 * ($1375 / $1000) == $0.55```<br>
-> **Divisor-Adjusted Index Price<sub>date4</sub>:** ```($500 + $750 + $400) / (3 * $0.55) == $1000```<br>
+We'll also ignore the exlusion rules to focus on the calculation itself. Assume the entire secondary market purchase history of the Crypto Coven project looks like this:
 
+| # | name | price |
+|-|-|-|
+| 1 | Lavender | $500 |
+| 2 | Hyacinth | $700 |
+| 3 | Hyacinth | $400 |
+| 4 | Mars | $612 |
+| 5 | Mars | $1200 |
+
+Given this information, let's see how each sale affects the Index Value:
+
+**Transaction 1 (excluded)**
+
+* **Name**: Lavender
+* **Price:** $500
+* **Unique NFTs sold**: `1`
+* **Divisor<sub>old</sub>:** `1 (initial value)`
+* **Index Price<sub>old</sub>**: `n/a`
+* **Index Price<sub>new</sub>**: `$500 / (1 * 1) = $500`
+* **Divisor<sub>new</sub>:** `1` _(we keep 1 as the new Divisor value after the initial transaction)_
+
+**Transaction 2**
+
+* **Name**: Hyacinth _(we have a first secondary market sale 🧙‍♀️)_
+* **Price:** $700
+* **Unique NFTs sold**: `2`
+* **Divisor<sub>old</sub>:** `1`
+* **Index Price<sub>old</sub>**: `$500`
+* **Index Price<sub>new</sub>**: `($500 + $700) / (2 * 1) = $600`
+* **Divisor<sub>new</sub>:** `1 * ($600 / $500) = 1.2`
+* **Divisor Adjusted Index Price:** `($500 + $700) / (2 * 1.2) = $500` 
+  * _Note that a first secondary market sale does not affect the index price due to the divisor_
+
+**Transaction 3**
+
+* **Name**: Hyacinth
+* **Price:** $400
+* **Unique NFTs sold**: `2`
+* **Divisor<sub>old</sub>:** `1.2`
+* **Index Price<sub>old</sub>**: ~~`$500`~~
+  * _Unused, since we only use this to adjust the divisor, and we only adjust the divisor when there is a first secondary market sale_
+* **Index Price<sub>new</sub>**: `($500 + $400) / (2 * 1.2) = $375`
+* **Divisor<sub>new</sub>:** `1.2`
+
+**Transaction 4**
+
+* **Name**: Mars _(first secondary market sale 🎉)_
+* **Price:** $612
+* **Unique NFTs sold**: `3`
+* **Divisor<sub>old</sub>:** `1.2`
+* **Index Price<sub>old</sub>**: `$375`
+* **Index Price<sub>new</sub>**: `($500 + $400 + $612) / (3 * 1.2) = $420`
+* **Divisor<sub>new</sub>:** `1.2 * ($420 / $375) = 1.344`
+* **Divisor Adjusted Index Price:** `($500 + $400 + $612) / (3 * 1.344) = $375`
+
+**Transaction 5**
+
+* **Name**: Mars
+* **Price:** $1200
+* **Unique NFTs sold**: `3`
+* **Divisor<sub>old</sub>:** `1.344`
+* **Index Price<sub>old</sub>**: ~~`$375`~~
+* **Index Price<sub>new</sub>**: `($500 + $400 + $1200) / (3 * 1.344) = $520.83`
+* **Divisor<sub>new</sub>:** `1.344`
+
+**Result:**
+The Index Price of this collection is **$520.83**
+
+The index price of the collection at each transaction looks like this:
+
+| # | name | price | index price |
+|-|-|-|-|
+| 1 | Lavender | $500 | $500 |
+| 2 | Hyacinth | $700 | $500 |
+| 3 | Hyacinth | $400 | $375 |
+| 4 | Mars | $612 | $375 |
+| 5 | Mars | $1200 | $520.83 |
 
 ### Part 2. Calcualte the Index Ratios
-Next we must calculate an "index ratio" for each NFT in the collection, calculated as follows. <br>
-```Index Ratio = V / IP```
 
-Where: <br>
-- ```V```  = NFT Value on Date of Last Sale
-- ```IP``` = Index Price on Date of Last Sale
+Next we must calculate an "index ratio" for each NFT in the collection, calculated as follows:
+
+`Index Ratio = V / IP`
+
+Where:
+- `V`  = NFT Value on Date of Last Sale
+- `IP` = Index Price on Date of Last Sale
 
 #### Example
-- NFT 1: ```$500 / $1000.00 == .50```
-- NFT 2: ```$750 / $1562.50 == .48```
-- NFT 3: ```$400 / $1375.00 == .290909```
+
+| name | price | index price | index ratio |
+|-|-|-|-|
+| Lavender | $500 | $500 | 1 |
+| Hyacinth | $400 | $375 | 1.066... |
+| Mars | $1200 | $520.83 | 2.304 |
 
 ### Part 3. Calculate the Time-Adjusted Market Index
-The second to last step is to determine the time-adjusted values of every non-excluded NFT in the collection, calculated as follows. <br>
-```TAV = IR * IP```
 
-Where: <br>
-- ```IR``` = Each NFT's Index Ratio
-- ```IV``` = The Index Price of the Collection
+The second to last step is to determine the time-adjusted values of every non-excluded NFT in the collection, calculated as follows:
+
+`TAV = IR * IP`
+
+Where:
+
+- `IR` = Each NFT's Index Ratio
+- `IV` = The Index Price of the Collection
 
 #### Example
-- NFT 1: ```.50 * $1375 == $687.50```
-- NFT 2: ```.48 * $1375 == $660.00```
-- NFT 3: ```.290909 * $1375 == $400```
 
-And then finally we must sum all the TAVs to calculate the Time-Adjusted Market Index: <br><br>
+**Collection Index Price:** $520.83
+
+| name | index ratio | time-adjusted values |
+|-|-|-|
+| Lavender | 1 | `$520.83 * 1 = $520.83` |
+| Hyacinth | 1.066... | `$520.83 * 1.066... = $555.56` |
+| Mars | 2.304 | `$520.83 * 2.304 = $1199.99` |
+
+And then finally we must sum all the TAVs to calculate the Time-Adjusted Market Index:
+
 **TAMI** = TAV<sub>1</sub> + TAV<sub>2</sub> + TAV<sub>3</sub> + etc.
 
-#### Example
-- ```$687.50 + $660 + $400 == $1747.50```
+I.e. the Time Adjusted Market Index in this example is: **$2276.38**
 
 ## Advantages to this Methodology
+
 Time-Adjusted Market Indexes offer an analytical lens through which to appraise NFT collections. Unlike an opaque and closed-source AI model, this open-source methodology is fully transparent and reproducible by any market participant. This methodology is also quite resistant to price manipulation, unlike a calculation that is based on floor prices. 
 
 
 ## Pitfalls and Shortcomings
+
 The limitations of this approach are worth noting.
 
 From a practical point of view, TAMIs are limited in scope by the number of NFTs that comprise them. Some indexes may have thousands of NFTs while others will have a few dozen.
@@ -92,8 +195,8 @@ Third, TAMIs are calculated based on the "last sold" value of every NFT in the i
 
 These three plausible shortcomings of TAMIs are not exhaustive; it is wise to contemplate all conceivable shortcomings when utilizing a TAMI to perform analysis.
 
-
-
 ## List of Web3 Supporters in Favor of this Methodology
+
 The aim of this project is to acheive industry-wide adoption of a standardized and transparent methodology for appraising the value of an NFT collection. Please create a pull request on behalf of your organization if you'd like to be included in the list below.
+
 - [Mimicry Protocol](https://twitter.com/mimicryprotocol)
