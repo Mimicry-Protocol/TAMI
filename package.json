@@ -1,5 +1,5 @@
 {
-  "name": "tami",
+  "name": "@mimicry/tami",
   "version": "0.0.1",
   "description": "Calculates the Time Adjusted Market Index value of a collection of tradable assets",
   "main": "build/main/index.js",
