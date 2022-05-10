@@ -16,8 +16,8 @@ type IndexValueHistoryItem = {
 };
 
 /**
- * Given a list of transactions, this returns only transactions that have at least 2 sales in the last year,
- * and at least one sale in the last 6 months.
+ * Given a list of transactions sorted in chronological order, this returns only transactions
+ * that have at least 2 sales in the last year, and at least one sale in the last 6 months.
  */
 export function filterValidTransactions(
   transactionHistory: Transaction[]
@@ -56,21 +56,25 @@ export function filterValidTransactions(
       continue;
     }
 
-    const pastYearSaleCount = currentMapItem.pastYearSaleCount ?? 0;
-
-    const isWithinSixMonths = isAfter(timestamp, sixMonthsAgo);
-
-    if (!isWithinSixMonths && isAfter(timestamp, oneYearAgo)) {
-      currentMapItem.pastYearSaleCount = pastYearSaleCount + 1;
+    // If the transaction did not occur within the last year, it does not affect
+    // whether the item is valid or not, so we skip it
+    if (!isAfter(timestamp, oneYearAgo)) {
       continue;
     }
 
-    if (isWithinSixMonths) {
-      currentMapItem.hasSaleInLastSixMonths = true;
-      currentMapItem.pastYearSaleCount = pastYearSaleCount + 1;
+    const pastYearSaleCount = currentMapItem.pastYearSaleCount ?? 0;
+    currentMapItem.pastYearSaleCount = pastYearSaleCount + 1;
+
+    // If the transaction did not occur within the last six months, since we already
+    // incremented the `pastYearSaleCount`, we keep going
+    if (!isAfter(timestamp, sixMonthsAgo)) {
+      continue;
     }
 
-    if (isWithinSixMonths && currentMapItem.pastYearSaleCount >= 2) {
+    currentMapItem.hasSaleInLastSixMonths = true;
+
+    // If the item has 2 or more sales in the last year, it's valid :-)
+    if (currentMapItem.pastYearSaleCount >= 2) {
       currentMapItem.isValid = true;
     }
   }
