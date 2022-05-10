@@ -15,7 +15,7 @@ const transactions = [
   { itemId: 'Mars', timestamp: 1639008000000, price: 1200, timestamp: new Date() },
 ];
 
-const timeAdjustedMarketValue = tami(transactions); // 2276.3888888888887
+const timeAdjustedMarketValue = tami(transactions);
 ```
 
 ## Motivation
