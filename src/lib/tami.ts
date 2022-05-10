@@ -16,8 +16,17 @@ type IndexValueHistoryItem = {
 };
 
 /**
- * Given a list of transactions sorted in chronological order, this returns only transactions
- * that have at least 2 sales in the last year, and at least one sale in the last 6 months.
+ * Given a list of transactions, this returns those transactions sorted in chronological order.
+ */
+function sortTransactions(transactionHistory: Transaction[]): Transaction[] {
+  return transactionHistory.slice().sort((a, b) => {
+    return a.timestamp.valueOf() - b.timestamp.valueOf();
+  });
+}
+
+/**
+ * Given a list of transactions, this returns only transactions that have at least
+ * 2 sales in the last year, and at least one sale in the last 6 months.
  */
 export function filterValidTransactions(
   transactionHistory: Transaction[]
@@ -27,7 +36,7 @@ export function filterValidTransactions(
     years: 1,
   });
   const sixMonthsAgo = sub(now, {
-    years: 1,
+    months: 6,
   });
 
   const inclusionMap: Record<
@@ -85,8 +94,8 @@ export function filterValidTransactions(
 }
 
 /**
- * Given a list of transactions sorted in chronological order, this crates a list that contains
- * the index value at the time of each transaction, and includes the transaction as well.
+ * Given a list of transactions, this crates a list that contains the index value at the
+ * time of each transaction, and includes the transaction as well.
  * @see {@link https://github.com/Mimicry-Protocol/TAMI/blob/main/reference/card-ladder-white-paper.pdf}
  */
 export function createIndexValueHistory(
@@ -180,11 +189,12 @@ export function getIndexRatios(indexValueHistory: IndexValueHistoryItem[]) {
 }
 
 /**
- * Given a list of transactions for a given collection, sorted in chronological order,
- * this calculates the Time Adjusted Market Index for that collection.
+ * Given a list of transactions for a given collection, this calculates the
+ * Time Adjusted Market Index for that collection.
  */
 export function tami(transactionHistory: Transaction[]) {
-  const validTransactions = filterValidTransactions(transactionHistory);
+  const sortedTransactions = sortTransactions(transactionHistory);
+  const validTransactions = filterValidTransactions(sortedTransactions);
   const indexValueHistory = createIndexValueHistory(validTransactions);
   const indexValue = getIndexValue(indexValueHistory);
   const indexRatios = getIndexRatios(indexValueHistory);
