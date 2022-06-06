@@ -200,3 +200,4 @@ These three plausible shortcomings of TAMIs are not exhaustive; it is wise to co
 The aim of this project is to acheive industry-wide adoption of a standardized and transparent methodology for appraising the value of an NFT collection. **Please edit this README and create a pull request on behalf of your organization if you'd like to be included in the list below.**
 
 - [Mimicry Protocol](https://twitter.com/mimicryprotocol)
+- [Tellor](https://twitter.com/wearetellor)
