@@ -193,11 +193,17 @@ export function getIndexRatios(indexValueHistory: IndexValueHistoryItem[]) {
 /**
  * Given a list of transactions for a given collection, this calculates the
  * Time Adjusted Market Index for that collection.
+ * @returns TAMI if it's able to be calculated. Otherwise, it returns null.
  */
-export function tami(transactionHistory: Transaction[]) {
+export function tami(transactionHistory: Transaction[]): number | null {
   const sortedTransactions = sortTransactions(transactionHistory);
   const validTransactions = filterValidTransactions(sortedTransactions);
   const indexValueHistory = createIndexValueHistory(validTransactions);
+
+  if (indexValueHistory.length === 0) {
+    return null;
+  }
+
   const indexValue = getIndexValue(indexValueHistory);
   const indexRatios = getIndexRatios(indexValueHistory);
   const timeAdjustedValues = indexRatios.map((item) => {

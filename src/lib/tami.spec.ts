@@ -149,7 +149,12 @@ test('getIndexValue', (t) => {
   t.is(indexValue, expectedValues.indexValue);
 });
 
-test('tami', (t) => {
+test('tami with transaction data', (t) => {
   const value = tami(validTransactions);
   t.is(value, expectedValues.timeAdjustedMarketIndex);
+});
+
+test('tami with empty transaction data', (t) => {
+  const value = tami([]);
+  t.is(value, null);
 });
