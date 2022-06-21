@@ -1,1 +1,1 @@
-export * from './lib/tami';
+export * from './lib/tami/tami';

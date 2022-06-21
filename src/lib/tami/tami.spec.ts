@@ -1,12 +1,14 @@
 import test from 'ava';
 import { sub } from 'date-fns';
 
+import { filterValidTransactions } from '../utils/filterValidTransactions';
+import { sortTransactions } from '../utils/sortTransactions';
+
+import { dynamicTami } from './dynamicTami';
 import {
   createIndexValueHistory,
-  filterValidTransactions,
   getIndexRatios,
   getIndexValue,
-  sortTransactions,
   tami,
 } from './tami';
 
@@ -157,4 +159,18 @@ test('tami with transaction data', (t) => {
 test('tami with empty transaction data', (t) => {
   const value = tami([]);
   t.is(value, null);
+});
+
+test('dynamic tami', (t) => {
+  const value = dynamicTami(validTransactions);
+
+  const originalTamiValueExpectedValue = expectedValues.timeAdjustedMarketIndex;
+
+  const [min, max] = [value, originalTamiValueExpectedValue].sort();
+  const difference = max - min;
+
+  const percentageDeviation = (difference / max) * 100;
+  const allowance = 0.0001;
+
+  t.true(percentageDeviation < allowance);
 });
