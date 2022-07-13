@@ -6,13 +6,12 @@ import salesDataSet_Small from './__mocks__/sales_small_set.json';
 import { filterExtremeOutliers } from './filterExtremeOutliers';
 
 type mockDataObject = {
-  itemId: number | string;
   timestamp: number;
   price: number;
 };
 
 const cleanTimeStamps = (item: mockDataObject) => ({
-  itemId: item.itemId,
+  itemId: '???', // not required for testing filter, so fake it
   timestamp: new Date(item.timestamp),
   price: item.price,
 });

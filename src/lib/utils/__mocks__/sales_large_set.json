@@ -1,501 +1,622 @@
 [
   {
-    "itemId": "b87b6958ca5a7da09fb921108a303ba0a2f242ca4a103b2061c71d53678c95cf",
+    "timestamp": 1656619143,
+    "price": 144
+  },
+  {
+    "timestamp": 1656618312,
+    "price": 132
+  },
+  {
+    "timestamp": 1656617904,
+    "price": 153
+  },
+  {
+    "timestamp": 1656617866,
+    "price": 1.1
+  },
+  {
+    "timestamp": 1656617857,
+    "price": 154
+  },
+  {
+    "timestamp": 1656617793,
+    "price": 155
+  },
+  {
+    "timestamp": 1656617749,
+    "price": 155
+  },
+  {
+    "timestamp": 1656617663,
+    "price": 155
+  },
+  {
+    "timestamp": 1656617649,
+    "price": 156
+  },
+  {
+    "timestamp": 1656617549,
+    "price": 157
+  },
+  {
+    "timestamp": 1656617521,
+    "price": 158
+  },
+  {
+    "timestamp": 1656617336,
+    "price": 159
+  },
+  {
+    "timestamp": 1656617299,
+    "price": 160
+  },
+  {
+    "timestamp": 1656617252,
+    "price": 161
+  },
+  {
+    "timestamp": 1656617118,
+    "price": 161
+  },
+  {
+    "timestamp": 1656617096,
+    "price": 162
+  },
+  {
+    "timestamp": 1656617070,
+    "price": 163
+  },
+  {
+    "timestamp": 1656616960,
+    "price": 163
+  },
+  {
+    "timestamp": 1656616922,
+    "price": 164
+  },
+  {
+    "timestamp": 1656616862,
+    "price": 165
+  },
+  {
+    "timestamp": 1656616815,
+    "price": 166
+  },
+  {
+    "timestamp": 1656616733,
+    "price": 167
+  },
+  {
+    "timestamp": 1656616631,
+    "price": 168
+  },
+  {
+    "timestamp": 1656616589,
+    "price": 169
+  },
+  {
+    "timestamp": 1656616526,
+    "price": 169
+  },
+  {
+    "timestamp": 1656616469,
+    "price": 170
+  },
+  {
+    "timestamp": 1656616425,
+    "price": 171
+  },
+  {
+    "timestamp": 1656616389,
+    "price": 172
+  },
+  {
+    "timestamp": 1656616333,
+    "price": 173
+  },
+  {
+    "timestamp": 1656616287,
+    "price": 174
+  },
+  {
+    "timestamp": 1656616264,
+    "price": 175
+  },
+  {
+    "timestamp": 1656616174,
+    "price": 176
+  },
+  {
+    "timestamp": 1656616067,
+    "price": 177
+  },
+  {
+    "timestamp": 1656616024,
+    "price": 177
+  },
+  {
+    "timestamp": 1656615972,
+    "price": 178
+  },
+  {
+    "timestamp": 1656615901,
+    "price": 179
+  },
+  {
+    "timestamp": 1656615725,
+    "price": 180
+  },
+  {
+    "timestamp": 1656615673,
+    "price": 181
+  },
+  {
+    "timestamp": 1656615524,
+    "price": 175
+  },
+  {
+    "timestamp": 1656583575,
+    "price": 80.38947
+  },
+  {
+    "timestamp": 1656583337,
+    "price": 82.03007
+  },
+  {
+    "timestamp": 1656583288,
+    "price": 83.70415
+  },
+  {
+    "timestamp": 1656583173,
+    "price": 85.4124
+  },
+  {
+    "timestamp": 1656581814,
+    "price": 87.15551
+  },
+  {
+    "timestamp": 1656581720,
+    "price": 88.93419
+  },
+  {
+    "timestamp": 1656581641,
+    "price": 90.74918
+  },
+  {
+    "timestamp": 1656581503,
+    "price": 92.6012
+  },
+  {
+    "timestamp": 1656579507,
+    "price": 94.49102
+  },
+  {
+    "timestamp": 1656579400,
+    "price": 96.41941
+  },
+  {
+    "timestamp": 1656576835,
+    "price": 93.43028
+  },
+  {
+    "timestamp": 1656573613,
+    "price": 2.3
+  },
+  {
+    "timestamp": 1656571883,
+    "price": 169
+  },
+  {
+    "timestamp": 1656571756,
+    "price": 170
+  },
+
+  {
+    "timestamp": 1656419143,
+    "price": 144
+  },
+  {
+    "timestamp": 1656418312,
+    "price": 132
+  },
+  {
     "timestamp": 1656417904,
     "price": 153
   },
   {
-    "itemId": "db15b581b23a3206682c756f6fae77a8f760bd193a9415ff1f6d5ac3c54611f2",
     "timestamp": 1656417866,
-    "price": 4.8
+    "price": 1.1
   },
   {
-    "itemId": "d735578c7e61a5acc3a186cb532bb1838c6ad2f04d6793cab3a5b63b85d8a64f",
     "timestamp": 1656417857,
     "price": 154
   },
   {
-    "itemId": "2862a31b6afc48b259b521836459d9f08e15d901229e43284359644e581ee896",
     "timestamp": 1656417793,
     "price": 155
   },
   {
-    "itemId": "2f037bc0df2ade41a568d38f4b8f2f557d2ff3c00cb83e3fb6ecab53299c591c",
     "timestamp": 1656417749,
     "price": 155
   },
   {
-    "itemId": "c464d37bd2c1da2540d31b5e091cce7642fa326c449cad2adabae4d79ca1194e",
     "timestamp": 1656417663,
     "price": 155
   },
   {
-    "itemId": "b2a0857f7233ef373fa3ebc13eb14c547f5ff1c7ef52ec28488cab9df8990995",
     "timestamp": 1656417649,
     "price": 156
   },
   {
-    "itemId": "453e18c115d945caa4e300e1bd98bc6d072bc8a12dff4e183756258ba9e4b122",
     "timestamp": 1656417549,
     "price": 157
   },
   {
-    "itemId": "b7d2990ed8abd31a0aebc5d167eeeda97734e7ba6bf223e82867db9c1945ae1e",
     "timestamp": 1656417521,
     "price": 158
   },
   {
-    "itemId": "7b20d40edb86ec971572a37d0b6ee1f3cfcf786fdad0aa1269ccbf949902e05a",
     "timestamp": 1656417336,
     "price": 159
   },
   {
-    "itemId": "87165631be535f13f407a367b7d427f8ea7f72649120dcd2ee1250b813a042ab",
     "timestamp": 1656417299,
     "price": 160
   },
   {
-    "itemId": "4f2b3ea0c1d771b35c2c99f9e6e1a1f6b7832029016cef38fd01d9412cc69da3",
     "timestamp": 1656417252,
     "price": 161
   },
   {
-    "itemId": "b5b28e3072fea7b34b9b2b18f146e054284c39eb14919073d6116e18f7979676",
     "timestamp": 1656417118,
     "price": 161
   },
   {
-    "itemId": "29d9dcf4b040dcf4c36939d2ece2d833d43fc557ea0880d14a7b1ef4bbff6aaf",
     "timestamp": 1656417096,
     "price": 162
   },
   {
-    "itemId": "70fb81e0e77cda16c8b71106b4cd83b3138e68c73ae7a3f9860eeb1287596175",
     "timestamp": 1656417070,
     "price": 163
   },
   {
-    "itemId": "17361e1b74e7002718c20a0337f066d991bdfc8591a8ecc4a5d3bed60f4c933d",
     "timestamp": 1656416960,
     "price": 163
   },
   {
-    "itemId": "9dd4cf25c4fde909c59f5ed76c9c5df0af5e9a84ba19fed562c7124d0e061e63",
     "timestamp": 1656416922,
     "price": 164
   },
   {
-    "itemId": "8a3bec6f81007790450013150db571c7a996215624fab899626922126e4ac00e",
     "timestamp": 1656416862,
     "price": 165
   },
   {
-    "itemId": "6db1a982fdddd646ec93729ab1f0c2fb5aec652c4eb097b5ea300f075f9b7bba",
     "timestamp": 1656416815,
     "price": 166
   },
   {
-    "itemId": "77f7ce6f8c419aba62a1f60b6b05fe3409cb573b7e244ccc3e9be851c57adc78",
     "timestamp": 1656416733,
     "price": 167
   },
   {
-    "itemId": "e27a1c976739f90ecb16dcb4a2928459f4e5af2ab32083b0f7158cc6cfe100e1",
     "timestamp": 1656416631,
     "price": 168
   },
   {
-    "itemId": "0328305edf098df93eed95567e3b342459231040f42eff674b701c99f96d093a",
     "timestamp": 1656416589,
     "price": 169
   },
   {
-    "itemId": "bc5f81ce5f24aaf9cbed4048d5a9440802d292d80e6ba028b861eb7b35c7f8c6",
     "timestamp": 1656416526,
     "price": 169
   },
   {
-    "itemId": "379d9ddd454e97526dfb18ed8000f742e508c9b49f896ef0e01a29f64913c4e5",
     "timestamp": 1656416469,
     "price": 170
   },
   {
-    "itemId": "b206e476c78aea86b3ae29b8768cd238d7ba4ba676657a228d4ccbf8c6a6e3f8",
     "timestamp": 1656416425,
     "price": 171
   },
   {
-    "itemId": "f6c8404190f7671784990362467dc920733b970b0260dd2d9c344d545c5d0e15",
     "timestamp": 1656416389,
     "price": 172
   },
   {
-    "itemId": "c4f281ddb7e16e95708f2a899b93e2a14dd855fde4be31dade4afc9cab918c3f",
     "timestamp": 1656416333,
     "price": 173
   },
   {
-    "itemId": "deb98cc6dfef413c7be7ff4f18c776c0d5a771994d8cd868c7d95987087cef82",
     "timestamp": 1656416287,
     "price": 174
   },
   {
-    "itemId": "dd951bc78bc171d4efada7e68c6f489b352d4da54599ef1f06082d47f6a7d776",
     "timestamp": 1656416264,
     "price": 175
   },
   {
-    "itemId": "95341de32c592a9adbb0729552f7459f1fafb22cd38a393c2d8eb6d41f297360",
     "timestamp": 1656416174,
     "price": 176
   },
   {
-    "itemId": "45943b88d67fd2fe28bba9a061f67151200545dab06591616166e8d66c8488ab",
     "timestamp": 1656416067,
     "price": 177
   },
   {
-    "itemId": "6696b783862eec2d401d677ed27f1dae854f06fc0d1299860579e94bfa594172",
     "timestamp": 1656416024,
     "price": 177
   },
   {
-    "itemId": "74ab18a0aa383a77d5ca0a45e351cd0756f107b5799c0c9d47400825e36d1544",
     "timestamp": 1656415972,
     "price": 178
   },
   {
-    "itemId": "2529f79052b34631b70147125c828f124e3665b474713c071381b2f668f493d5",
     "timestamp": 1656415901,
     "price": 179
   },
   {
-    "itemId": "0a33ff801aca0758a7d9c669fcc7a6ecf7631a6ff36475d108ceacfae80b0682",
     "timestamp": 1656415725,
     "price": 180
   },
   {
-    "itemId": "0a2312bd66bd64f9c0cc646e79a778fd294ec6d72ac90d77ea5d9ce35483b75a",
     "timestamp": 1656415673,
     "price": 181
   },
   {
-    "itemId": "88d408eea9b7d9bf74019af11e2d146ab740ec834a78d757731e5feb7abde575",
     "timestamp": 1656415524,
     "price": 175
   },
   {
-    "itemId": "8c594629e8484eb3c8b4b4e3ddc8a5ffcf358551f10857c2a7b23b0848f8e849",
     "timestamp": 1656383575,
     "price": 80.38947
   },
   {
-    "itemId": "9838e4397c50c85669bc254766f9f6139bc15eb4dab0c1e1bc884baf418e8d7d",
     "timestamp": 1656383337,
     "price": 82.03007
   },
   {
-    "itemId": "7ff72121969460963355515dc800a3b087379cdd19354180bc587a5a699bc014",
     "timestamp": 1656383288,
     "price": 83.70415
   },
   {
-    "itemId": "300bce93b2ac40b23cb1f516fb7f40a378a45b28e99a5e7d1a78f507f8f6933b",
     "timestamp": 1656383173,
     "price": 85.4124
   },
   {
-    "itemId": "8119cb038fa1ae3c396075fac8e8c443b678b9530f3bee766811efcce48ec880",
     "timestamp": 1656381814,
     "price": 87.15551
   },
   {
-    "itemId": "dfdd5780fd87cff78e03fbbf560f7295b5914679c5f911dc21c7c2f6c9010d65",
     "timestamp": 1656381720,
     "price": 88.93419
   },
   {
-    "itemId": "bf3af41d16f304f11b23de37bfc85c118eefca76a2591a73cefd8d63a11bcb88",
     "timestamp": 1656381641,
     "price": 90.74918
   },
   {
-    "itemId": "08f052037d58ff0155c0cac64aacc09355ed9135d2081c63a5d30eb67248ce2b",
     "timestamp": 1656381503,
     "price": 92.6012
   },
   {
-    "itemId": "3a994dfe6113777c25fa6fbdb8288fa3534f7145b21fa62e88d5135f9f0aa5be",
     "timestamp": 1656379507,
     "price": 94.49102
   },
   {
-    "itemId": "da98c691b032e4cf0a16a708cbc4047aecc2f392a22770ba5eeacb3a60e128af",
     "timestamp": 1656379400,
     "price": 96.41941
   },
   {
-    "itemId": "b79d4cd9003211fc45ede834266e71220006dd9c1ec0751288f3218b6d3f2f56",
     "timestamp": 1656376835,
     "price": 93.43028
   },
   {
-    "itemId": "707282bce63f6c604abb448e1deb140deaf2131b4eb368859745c9af34e4520a",
     "timestamp": 1656373613,
-    "price": 7.23
+    "price": 2.3
   },
   {
-    "itemId": "068c7f6b6341addccb942ad8fe5a8554c95e0b9e7d9fed0d3f6639dea9c6eeb2",
     "timestamp": 1656371883,
     "price": 169
   },
   {
-    "itemId": "12b460ce95007996bd27fd82d7fcd6138e16835da49a259842ba2719b48c5701",
     "timestamp": 1656371756,
     "price": 170
   },
   {
-    "itemId": "d518ff8c661b44667a9d00587a721da06395d03acf71d6f6b25d6fa1b503be12",
     "timestamp": 1656371734,
     "price": 171
   },
   {
-    "itemId": "b4e8677d1b4ad06ef718a6e6beb074018058de3c2d68c53769f8f59266209fa7",
     "timestamp": 1656371570,
     "price": 172
   },
   {
-    "itemId": "ebbfe47f1468af0187f33e3a99f1efb0d72eeee25d778a65dddfea051d2bd08d",
     "timestamp": 1656361452,
     "price": 4.93
   },
   {
-    "itemId": "ac45e13e900dee12aef376a23d6c0a5d517ad9bbba8eefa2689c875af1d24f86",
     "timestamp": 1656360011,
     "price": 4.8
   },
   {
-    "itemId": "fcc8aebed68d2c592c235381721d293da2e381773c0bd11f8a2375403b6c4bad",
     "timestamp": 1656358326,
     "price": 18.69
   },
   {
-    "itemId": "c282ca6da0863061577943b9747e336d9f4576dffe0824ce67f57c0914ae1dba",
     "timestamp": 1656356618,
     "price": 173
   },
   {
-    "itemId": "8ee6ce48e025e176daf2e4db2b55dc99ed1e9ec6e08bbe0298cbc7414dadc770",
     "timestamp": 1656356547,
     "price": 173
   },
   {
-    "itemId": "b901ffa5679d98f78574ea5323dbb648b08433f02fad86073d0b9a7e6807eca2",
     "timestamp": 1656356034,
     "price": 174
   },
   {
-    "itemId": "0d660a82966e56d3c9e3a017cf564d2d03db19798354997082c14827758dc2d0",
     "timestamp": 1656354145,
     "price": 175
   },
   {
-    "itemId": "c730f4f528691679f7d81018238736d573405cdc43902abeb327207d4c8613c2",
     "timestamp": 1656344933,
     "price": 176
   },
   {
-    "itemId": "041deb63ab0039c8b0a8a354c50a4d48774057e82beb2134e9d688ce20f9d341",
     "timestamp": 1656344683,
     "price": 177
   },
   {
-    "itemId": "d863cf2d02f2c548671e1ac0ef7ebbb6a1dd40827deb08ff106f352259c9fb9e",
     "timestamp": 1656344157,
     "price": 178
   },
   {
-    "itemId": "01b6ca6bf5f6b94a726eceed64a03a2c0144d53a01f670316401ae0fe55f206c",
     "timestamp": 1656344151,
     "price": 179
   },
   {
-    "itemId": "87cc1cc17c9db03830bc37f36e1e5dc4f78c3305ab91194a3c41e54800470a95",
     "timestamp": 1656344065,
     "price": 180
   },
   {
-    "itemId": "a4b1bfd58af7bbc6e965e19d804ce86459be7862f3d894b5a6f1f7cdfe6073f8",
     "timestamp": 1656344052,
     "price": 180
   },
   {
-    "itemId": "c1037f52a8938d715af5c52d07622cab3e82cc4a7ec9ca9e0caff4508fda791a",
     "timestamp": 1656343984,
     "price": 181
   },
   {
-    "itemId": "a495722bff283a37d7cd9a92a67f0d7c62f49532cf89691b83f4980848f479e1",
     "timestamp": 1656343901,
     "price": 183
   },
   {
-    "itemId": "3215e490bfc4dcd2d40b2c20f5458dc8866e0dbcfe8f327e78789423fc6fdb26",
     "timestamp": 1656343407,
-    "price": 4.6
+    "price": 136
   },
   {
-    "itemId": "0744abff7eeb231a33fc57a323f2e87714bd8e64e5b5433da7fceec35f454fe9",
     "timestamp": 1656327580,
-    "price": 5.49
+    "price": 143
   },
   {
-    "itemId": "afc5bb5e76cf1f0a74138b95fae2856b9607ce747f2d4d35640e05870b8520de",
     "timestamp": 1656323902,
     "price": 4.6
   },
   {
-    "itemId": "4a66b6ed1f29f199f3be45d32a15bed594cd08162eb76ecd2ebd990f0c93d537",
     "timestamp": 1656310065,
     "price": 4.99
   },
   {
-    "itemId": "153df97be2d0e5bd8f3e1c4230006eec48d636c649a145b85bf0db3cd4f4b228",
     "timestamp": 1656268660,
     "price": 5.3
   },
   {
-    "itemId": "cb437c7908b9dc420cd75964602ffee3686e445ddbe495542c642ea0ce336612",
     "timestamp": 1656268182,
     "price": 4.98
   },
   {
-    "itemId": "2fbfa8661b042d2a2d4d5e678a5e01efcfa73e0aa432396ba8d9e031472109f2",
     "timestamp": 1656267887,
     "price": 5.2
   },
   {
-    "itemId": "d6b51c7bdb55f02f7876dd3c5a22c8d694a5ae4011107207f1d18b9c8796ae74",
     "timestamp": 1656267654,
-    "price": 4.98
+    "price": 145
   },
   {
-    "itemId": "744fa61a61eb7dcf91c51ba659622ebdd1bee69e2cb1356c15fb5f469470dd8b",
     "timestamp": 1656266311,
-    "price": 4.9
+    "price": 137
   },
   {
-    "itemId": "b26e4757047991fba6b0c61388fb5f9922cd80b09da8a67cd7c2f620be90bf17",
     "timestamp": 1656266193,
-    "price": 4.9
+    "price": 103
   },
   {
-    "itemId": "a6aa1fe3d8bce805bcfa25600fa7867227a2dbc2bebcf24849ebb858642b1da2",
     "timestamp": 1656265978,
     "price": 4.87
   },
   {
-    "itemId": "cf525b621d22908a44ce1c54705e6658b2bb691ef307af06f2126310d765a179",
     "timestamp": 1656265978,
-    "price": 4.85
+    "price": 124
   },
   {
-    "itemId": "fdd6ed6247a33548f61217dde422f260db3351020fec99ccd6726a121e710fe7",
     "timestamp": 1656265889,
-    "price": 4.92
+    "price": 187
   },
   {
-    "itemId": "826f6cd63193d342b832c072659459c96947bf9fce0a621c9152cae4e9c0850c",
     "timestamp": 1656265858,
-    "price": 4.85
+    "price": 111
   },
   {
-    "itemId": "a4edd09e118b85f60e44fd689523cfeb87fcffc9fea164448200df3c4f266a93",
     "timestamp": 1656265712,
-    "price": 4.829
+    "price": 123
   },
   {
-    "itemId": "b3254709c4cb26eadeef9d4227fd5161246c3d6ce1de430580ada7b2382c51fd",
     "timestamp": 1656258002,
     "price": 4.99
   },
   {
-    "itemId": "9197d27381c09e727625228b8b3814edd6aaaa588dcbbef98e58808de62741f2",
     "timestamp": 1656256944,
     "price": 4.8
   },
   {
-    "itemId": "1b95ff6485719a3ac3e1547b3d38b379f32000fabe08fac1ccb0826c7ad68e9b",
     "timestamp": 1656253930,
     "price": 154
   },
   {
-    "itemId": "417fc29d9788de8b812c87b44cb4c690bfd3c248fa262be6f2161a23b63e56f1",
     "timestamp": 1656253527,
     "price": 4.89
   },
   {
-    "itemId": "191a441eaa7b85ac4a1b04db46030e66c153d5c468c21dbe5eb42e181adcb2ba",
     "timestamp": 1656253457,
     "price": 155
   },
   {
-    "itemId": "5173d07f430e0b26bfa0e8633054a6eed01257d1ddc00c7b14c9a96be628d5ca",
     "timestamp": 1656253391,
     "price": 156
   },
   {
-    "itemId": "950749274c2908c4dd06ab2324514452bb412ab41d5a2634dca8f020847d1227",
     "timestamp": 1656253286,
     "price": 157
   },
   {
-    "itemId": "80989d9fca056f3d945db218d664e1fff7820d4f40dc8fc5a12cef8079517e48",
     "timestamp": 1656253224,
     "price": 4.49
   },
   {
-    "itemId": "3e6772cd4d32a32e2bbeac8dee06b079375a8d85d6601df52c2713eb8b00b25d",
     "timestamp": 1656253224,
     "price": 158
   },
   {
-    "itemId": "274e7e0d383ef34d7a5ed13ceb7b96fb57153b41f7a46e78ab904e22ac1fd2db",
     "timestamp": 1656253143,
     "price": 158
   },
   {
-    "itemId": "5290ca2d725f85f940900904fa100d1d61661831d40dff3601b1707d4f2e391c",
     "timestamp": 1656252979,
     "price": 158
   },
   {
-    "itemId": "a45e132b0923d72da6e4dc9a0f50816d6f367186dc2f91fd7687014b25601e49",
     "timestamp": 1656252937,
     "price": 159
   },
   {
-    "itemId": "6df44889de2a328f8b03dfbd773795c8b3ab6adbd6f084aad227a349f9d323ae",
     "timestamp": 1656252887,
     "price": 160
   },
   {
-    "itemId": "a1a77818226af584814e1c14d39954ccca4c7682f71d42d3222e99a43a5d8b48",
     "timestamp": 1656252834,
     "price": 161
   },
   {
-    "itemId": "783cadf0ee095db819a1ef878816a83582a9d5a83571793af0e7bc4c2c8b697f",
     "timestamp": 1656252499,
     "price": 5.98
   },
   {
-    "itemId": "371fffe4155375713b724551438dfce914c981c8f7132448a9bbe04632d7386f",
     "timestamp": 1656251576,
     "price": 162
   },
   {
-    "itemId": "676a91dd4a60092d7a23fd238647d63323ade24943acbea074615bc2eb623e6e",
     "timestamp": 1656251443,
     "price": 163
   }
