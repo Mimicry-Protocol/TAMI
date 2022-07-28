@@ -4,53 +4,38 @@ const MINIMUM_SAMPLE_SET = 100;
 const LOWER_CUTOFF_THRESHOLD = 0.05;
 
 /**
- * Given a list of transactions, this filters out transactions that are
- * considered "extreme outliers".
+ * Given a list of transactions, this function will filter out transactions that are considered "extreme outliers".
+ *
+ * Extreme outliers are: all sales below 5% of the current average price to date.
  *
  * @param transactionHistory
  */
 export function filterExtremeOutliers(
   transactionHistory: Transaction[]
 ): Transaction[] {
-  const filteredTransactions = [];
-
-  for (let i = 0; i < transactionHistory.length; i++) {
-    const currentTransaction = transactionHistory[i];
-
-    // minimum sample set threshold not reached, don't trigger filter logic
-    if (i < MINIMUM_SAMPLE_SET) {
-      filteredTransactions.push(currentTransaction);
-    } else {
-      // transaction history to date, excluding the current transaction itself
-      const transactionHistoryToDate = transactionHistory.slice(0, i);
-
-      if (keepSaleTransaction(currentTransaction, transactionHistoryToDate)) {
-        filteredTransactions.push(currentTransaction);
-      }
-    }
+  // don't filter if minimum sample set requirement is not reached
+  if (transactionHistory.length <= MINIMUM_SAMPLE_SET) {
+    return transactionHistory;
   }
 
-  return filteredTransactions;
+  const avg = calculateAveragePrice(transactionHistory);
+  return transactionHistory.filter(
+    // keep sales whose price is above the cutoff threshold
+    (item) => item.price > avg * LOWER_CUTOFF_THRESHOLD
+  );
 }
 
-/**
- * Given a single sale transaction and a history of sales to date, determine if
- * the given transaction should be kept in the list or rejected as an extreme
- * outlier.
- *
- * @param transaction
- * @param transactionHistoryToDate
- */
-function keepSaleTransaction(
-  transaction: Transaction,
+function calculateAveragePrice(
   transactionHistoryToDate: Transaction[]
-) {
-  const sum = transactionHistoryToDate.reduce((acc, cur) => {
-    return acc + cur.price;
-  }, 0);
+): number {
+  if (transactionHistoryToDate.length === 0) {
+    return 0;
+  }
 
-  const mean = (1 / transactionHistoryToDate.length) * sum;
-  const cutoff = LOWER_CUTOFF_THRESHOLD * mean;
+  let sum = 0;
+  for (let i = 0; i < transactionHistoryToDate.length; i++) {
+    sum += transactionHistoryToDate[i].price;
+  }
 
-  return transaction.price > cutoff;
+  return sum / transactionHistoryToDate.length;
 }
