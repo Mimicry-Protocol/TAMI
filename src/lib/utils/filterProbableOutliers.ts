@@ -36,7 +36,7 @@ export function filterProbableOutliers(
   return filteredData;
 }
 
-export function calculateRunningAverage(prices, window) {
+export function calculateRunningAverage(prices: Transaction[], window: number) {
   if (!prices || prices.length < window) {
     return [];
   }
@@ -49,7 +49,10 @@ export function calculateRunningAverage(prices, window) {
   while (++index < length) {
     const windowSlice = prices.slice(index - window, index);
     const sum = windowSlice.reduce((prev, curr) => prev + curr.price, 0);
-    SMA.push({ timestamp: prices.timestamp, price: sum / window });
+    SMA.push({
+      // timestamp: prices.timestamp,
+      price: sum / window,
+    });
   }
 
   return SMA;
