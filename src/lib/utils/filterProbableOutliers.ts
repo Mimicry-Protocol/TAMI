@@ -18,16 +18,17 @@ const UPPER_CUTOFF_THRESHOLD = 1.75;
 export function filterProbableOutliers(
   transactionHistory: Transaction[]
 ): Transaction[] {
-  const SMA = calculateRunningAverage(transactionHistory, WINDOW_SIZE);
+  const runningAvg = calculateRunningAverage(transactionHistory, WINDOW_SIZE);
   // TODO: calculate robust average
 
   const filteredData: Transaction[] = [];
-  const startFrom = transactionHistory.length - SMA.length;
+  const startFrom = transactionHistory.length - runningAvg.length;
 
   for (let i = startFrom, j = 0; i < transactionHistory.length; i++, j++) {
     if (
-      transactionHistory[i].price < SMA[j].price * UPPER_CUTOFF_THRESHOLD &&
-      transactionHistory[i].price > SMA[j].price * LOWER_CUTOFF_THRESHOLD
+      transactionHistory[i].price <
+        runningAvg[j].price * UPPER_CUTOFF_THRESHOLD &&
+      transactionHistory[i].price > runningAvg[j].price * LOWER_CUTOFF_THRESHOLD
     ) {
       filteredData.push(transactionHistory[i]);
     }
@@ -44,16 +45,16 @@ export function calculateRunningAverage(prices: Transaction[], window: number) {
   let index = window - 1;
   const length = prices.length + 1;
 
-  const SMA = [];
+  const runningAvg = [];
 
   while (++index < length) {
     const windowSlice = prices.slice(index - window, index);
     const sum = windowSlice.reduce((prev, curr) => prev + curr.price, 0);
-    SMA.push({
+    runningAvg.push({
       // timestamp: prices.timestamp,
       price: sum / window,
     });
   }
 
-  return SMA;
+  return runningAvg;
 }
