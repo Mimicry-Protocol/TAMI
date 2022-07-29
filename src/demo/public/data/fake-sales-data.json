@@ -1,0 +1,62 @@
+[
+  {
+    "itemId": "1",
+    "timestamp": 1658716345,
+    "price": 100
+  },
+  {
+    "itemId": "2",
+    "timestamp": 1658716355,
+    "price": 110
+  },
+  {
+    "itemId": "3",
+    "timestamp": 1658716365,
+    "price": 2
+  },
+  {
+    "itemId": "4",
+    "timestamp": 1658716375,
+    "price": 100
+  },
+  {
+    "itemId": "5",
+    "timestamp": 1658716385,
+    "price": 110
+  },
+  {
+    "itemId": "6",
+    "timestamp": 1658716395,
+    "price": 100
+  },
+  {
+    "itemId": "7",
+    "timestamp": 1658716405,
+    "price": 10
+  },
+  {
+    "itemId": "8",
+    "timestamp": 1658716415,
+    "price": 110
+  },
+  {
+    "itemId": "9",
+    "timestamp": 1658716425,
+    "price": 100
+  },
+  {
+    "itemId": "10",
+    "timestamp": 1658716435,
+    "price": 110
+  },
+  {
+    "itemId": "11",
+    "timestamp": 1658716445,
+    "price": 1
+  },
+  {
+    "itemId": "12",
+    "timestamp": 1658716455,
+    "price": 100
+  }
+]

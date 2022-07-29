@@ -1,0 +1,5002 @@
+[
+  {
+    "itemId": "03ee9f973912617a8f4418a5c9861234a28e7672906b704c680ced9f65c8744d",
+    "timestamp": "2022-04-09T03:00:18.000Z",
+    "price": 0.99
+  },
+  {
+    "itemId": "e27e704b567e67d4dd52e26cd6a9eacc6f61d768ff40573c61434c6b6a62d053",
+    "timestamp": "2022-04-09T08:51:28.000Z",
+    "price": 0.8
+  },
+  {
+    "itemId": "c77d2a56425b60bd2c87b95be6291d25901cf8eef795d0b3b15073471a821ff6",
+    "timestamp": "2022-04-09T16:54:06.000Z",
+    "price": 1.5
+  },
+  {
+    "itemId": "acc1650c82dcb896685f775740ec5cf0adcb7b6039954821e64a8e044535b5fe",
+    "timestamp": "2022-04-09T17:39:36.000Z",
+    "price": 2
+  },
+  {
+    "itemId": "8b64e6cfae4666b6aba6cc1ac335f985be693e138f5f349d84aa11856fbf0c5e",
+    "timestamp": "2022-04-09T19:22:08.000Z",
+    "price": 0.88
+  },
+  {
+    "itemId": "3b2668f0cbe8139110dbc1b058012f16d096cde26a78c2354bb6a3f73087663c",
+    "timestamp": "2022-04-09T20:22:00.000Z",
+    "price": 0.8
+  },
+  {
+    "itemId": "4ee6057da11ad41dda525307f477540f3146d01fe6d711bd86cd71af84e9c3e2",
+    "timestamp": "2022-04-09T23:17:04.000Z",
+    "price": 0.75
+  },
+  {
+    "itemId": "5ffe79547d95e24eea58982b7d7145e3d350a6a92b80b10c07d3a319a7c6104c",
+    "timestamp": "2022-04-10T15:31:18.000Z",
+    "price": 0.582
+  },
+  {
+    "itemId": "012272ae9e4747605a71a00ff7665e2ecf9f717cb3cdd3c12c66dbc7e72bfc72",
+    "timestamp": "2022-04-10T15:45:25.000Z",
+    "price": 0.739
+  },
+  {
+    "itemId": "d1b4ed11668f1b480805a04e0b7eae252670fdd26d316e73fa5680f29fe59636",
+    "timestamp": "2022-04-10T17:32:43.000Z",
+    "price": 1.2
+  },
+  {
+    "itemId": "9e940dd5576a82c717834aba807312f9b9676be375fe2f68a2fa9905c8e1b383",
+    "timestamp": "2022-04-10T20:40:03.000Z",
+    "price": 0.75
+  },
+  {
+    "itemId": "ea003c7b14f44ed4a8ac315b9127eb0df53ec15749f4191f8dbae5de1765087a",
+    "timestamp": "2022-04-10T21:06:15.000Z",
+    "price": 0.75
+  },
+  {
+    "itemId": "d6062b752958765a6d4eb953ad082d116ed584ce13a932fd54075a92147b27ff",
+    "timestamp": "2022-04-10T22:21:20.000Z",
+    "price": 0.7
+  },
+  {
+    "itemId": "25bfbbac08ffed11fae98fecbb2dbdec830bb1d6d4408321a5e90534762dd523",
+    "timestamp": "2022-04-10T22:24:14.000Z",
+    "price": 0.582
+  },
+  {
+    "itemId": "fd9fbe048930a80e3806cb462ac6a5cdfb0ce7b198c1dbe34f2f874f9480bbd7",
+    "timestamp": "2022-04-10T22:32:29.000Z",
+    "price": 0.65
+  },
+  {
+    "itemId": "94c2532a39bb36de8e6d8f8d862b4819ad1df0dabf51e2064ba14c6584cb80f9",
+    "timestamp": "2022-04-11T00:25:56.000Z",
+    "price": 0.749
+  },
+  {
+    "itemId": "29194eefdd9bee886cc99e8e1da03174dd80b52a08602cdf9a643083bd04e5b5",
+    "timestamp": "2022-04-11T08:36:01.000Z",
+    "price": 0.65
+  },
+  {
+    "itemId": "ef14dec6a3f956e44aec06f2cac906a8c42e4a7e416a3db741b93c0801dcf887",
+    "timestamp": "2022-04-11T08:53:09.000Z",
+    "price": 1
+  },
+  {
+    "itemId": "79a8a005bf1dd90b27690cde185d5dfd6c04e40769887f4f2adb926419ad0274",
+    "timestamp": "2022-04-11T10:08:17.000Z",
+    "price": 0.7
+  },
+  {
+    "itemId": "b6eaddeb9200942d5a5b548321d0b045262c14e7e03289d9aab1ecbc9e85b6cd",
+    "timestamp": "2022-04-11T10:44:45.000Z",
+    "price": 1.1
+  },
+  {
+    "itemId": "2b7791b8bc3f0fa1bf90b3fec2f7d32d179132b4f3ecd2c6d5e45569f072a89d",
+    "timestamp": "2022-04-11T10:46:24.000Z",
+    "price": 1
+  },
+  {
+    "itemId": "9bd51532d9fad8a6b6426f7479d29079da75db6c2ec8d076511d3fdb14eb4614",
+    "timestamp": "2022-04-11T10:57:16.000Z",
+    "price": 0.582
+  },
+  {
+    "itemId": "7b0fc995ad7b594bbe272b2c97e6f5ac4bea2671d68d7d9284dcfaaf6e1c3332",
+    "timestamp": "2022-04-11T12:08:33.000Z",
+    "price": 0.699
+  },
+  {
+    "itemId": "81573eda2462a6ea29c5f6dba9e508ceb783a7bb2dd29ca9d739f7845193e171",
+    "timestamp": "2022-04-11T12:45:49.000Z",
+    "price": 1
+  },
+  {
+    "itemId": "c5345b44e6a7e3bea357040f1e1061ebd9207399f042eedd8b012fc3bdcfa666",
+    "timestamp": "2022-04-11T13:20:39.000Z",
+    "price": 0.75
+  },
+  {
+    "itemId": "92dd50c6e643623087b339060fb54f3ba3ef9d842c5d1ca262d7e6e1a5fae440",
+    "timestamp": "2022-04-11T14:00:58.000Z",
+    "price": 3.1
+  },
+  {
+    "itemId": "4155e038032aeca04b264a72a06fbcf6c4cdc058d46d3fea6a0d408ff984ba90",
+    "timestamp": "2022-04-11T15:59:01.000Z",
+    "price": 0.78
+  },
+  {
+    "itemId": "db62e056a6b5093edf7b2603283b61bdb0439e2e9070f9aff5e69c30f3a6cdd5",
+    "timestamp": "2022-04-11T16:12:01.000Z",
+    "price": 0.7
+  },
+  {
+    "itemId": "d044f0fb0043b23280a3956fa50fe12430dfc2f6190225252d8eaaa893e2022a",
+    "timestamp": "2022-04-11T16:39:16.000Z",
+    "price": 0.658
+  },
+  {
+    "itemId": "119c97bcba08ee6f25512de0bedfc7ec463a1509c4a2903433dc227930e81f8e",
+    "timestamp": "2022-04-11T16:41:59.000Z",
+    "price": 0.689
+  },
+  {
+    "itemId": "619c13bcdd2c87643b87ae03f0b894f3306b01b4c68aeff0ffb1b0ca935c7927",
+    "timestamp": "2022-04-11T17:33:54.000Z",
+    "price": 0.6888
+  },
+  {
+    "itemId": "da0238481b8e8b12567658b5b0a67b7bbbf2a1621d4f0aac13dd3a2f88fb712e",
+    "timestamp": "2022-04-11T18:42:02.000Z",
+    "price": 0.53
+  },
+  {
+    "itemId": "eca7cfb03f2f309f2fcabede394370e4fa8f6b5ad12222264ec60294429b635e",
+    "timestamp": "2022-04-11T20:51:57.000Z",
+    "price": 0.8
+  },
+  {
+    "itemId": "f6a95c2d76cfcc27f2ee7d976d20836480cf278fba36f9f2f48b775cd6f298e0",
+    "timestamp": "2022-04-11T21:04:30.000Z",
+    "price": 0.75
+  },
+  {
+    "itemId": "3225a1ebc306c49832c0e16d63063b5954987c0de2811d14b497cdafcc7940de",
+    "timestamp": "2022-04-11T21:08:55.000Z",
+    "price": 0.75
+  },
+  {
+    "itemId": "ee3815a196a08a896d31fe8ee2be2f1f5ab4c51916592df9b832a6eefafb5998",
+    "timestamp": "2022-04-11T22:33:57.000Z",
+    "price": 0.95
+  },
+  {
+    "itemId": "c1402195721110269aa14dd2b19a2021c24857c4d7a129a651171f26be972cb4",
+    "timestamp": "2022-04-11T23:57:46.000Z",
+    "price": 0.679
+  },
+  {
+    "itemId": "14960a815bfb86701b0a90405c5618ff4bf25c04ab592da41406e4f68e6c939d",
+    "timestamp": "2022-04-12T00:32:51.000Z",
+    "price": 0.89
+  },
+  {
+    "itemId": "87fbd6c45f597f87fdba4ca8cc3465d22f4f97afa97b6ba3403f7ab187bccfd7",
+    "timestamp": "2022-04-12T03:21:27.000Z",
+    "price": 0.67
+  },
+  {
+    "itemId": "5bdde589e6412c36e6c0bb73acec3ab0ce10b5f6c07f8672bc232ba9373a1452",
+    "timestamp": "2022-04-12T03:52:03.000Z",
+    "price": 0.95
+  },
+  {
+    "itemId": "dbf00f01661d8c2154f5a12f0c4203a6a7901d41c42c8a64a06c75ec62a01b34",
+    "timestamp": "2022-04-12T04:30:58.000Z",
+    "price": 0.7
+  },
+  {
+    "itemId": "f58799e01820828562f8d466d85114ad1eb43492a67f99b08a870841b4eb41f8",
+    "timestamp": "2022-04-12T10:32:17.000Z",
+    "price": 1.3
+  },
+  {
+    "itemId": "de4a9085296e9de03e73dace4a8ac7cba72945c93a71f29dc140ea26db1ca24e",
+    "timestamp": "2022-04-12T10:44:03.000Z",
+    "price": 2
+  },
+  {
+    "itemId": "a671fe142bb23924169148f578255735b34a8952853f72b421bf81625076aa07",
+    "timestamp": "2022-04-12T12:51:16.000Z",
+    "price": 1.2
+  },
+  {
+    "itemId": "9e1418fc3961b95fb85bb5b6a1e5a8677b97d8359c3f8abe41e81d07c219cbdf",
+    "timestamp": "2022-04-12T12:52:02.000Z",
+    "price": 1.3
+  },
+  {
+    "itemId": "acbd28a13af130997cfc871312ba13255f0351f6c523163c0e4ba6ee42548836",
+    "timestamp": "2022-04-12T14:45:47.000Z",
+    "price": 1
+  },
+  {
+    "itemId": "06afb4cee48b850e36efd6cc485a19f4084e3c3e2a2f60353d16bd5062ced5c2",
+    "timestamp": "2022-04-12T15:10:38.000Z",
+    "price": 0.88
+  },
+  {
+    "itemId": "eb3233b435ec58057c19f115d9affcfa4447cf323aff994a6db3677ed1358afc",
+    "timestamp": "2022-04-12T16:21:20.000Z",
+    "price": 0.7
+  },
+  {
+    "itemId": "df95f5803ca6125c06755228fd90620a793943597471839716c4b6a48a066068",
+    "timestamp": "2022-04-12T23:35:02.000Z",
+    "price": 1.3
+  },
+  {
+    "itemId": "f4c5ba364dfd067825d7d663014479506c7fea1d5c38eda7bf7874eb817d1dc4",
+    "timestamp": "2022-04-13T03:33:16.000Z",
+    "price": 0.84
+  },
+  {
+    "itemId": "67834871746fa90dd2e3503701b596a58b34d52d3862abe8910d561a0489fa52",
+    "timestamp": "2022-04-13T12:33:36.000Z",
+    "price": 0.95
+  },
+  {
+    "itemId": "ff77ddec11643e7a8c5caea069ae1737fe296d54377791e5593081f30329ba67",
+    "timestamp": "2022-04-13T16:34:15.000Z",
+    "price": 0.7
+  },
+  {
+    "itemId": "c9da94a7d3897b17d7e02b46d0fbfd368fd32cf5aaee421cc477db2656141d87",
+    "timestamp": "2022-04-13T18:11:06.000Z",
+    "price": 0.69
+  },
+  {
+    "itemId": "d51c22e8b0975e4cad3086b6e256a07d0ddc1e9247d99072b082673b9499685b",
+    "timestamp": "2022-04-13T21:16:28.000Z",
+    "price": 0.88
+  },
+  {
+    "itemId": "cfb1e8e51bca46db743cb5fcfbcfb4958622169d762a74e0c598e63bcdfc1868",
+    "timestamp": "2022-04-13T23:41:25.000Z",
+    "price": 0.64
+  },
+  {
+    "itemId": "421799043621b32146ee4329ee99e36930127e7c2040204fd30067c0ce1d061d",
+    "timestamp": "2022-04-14T01:47:12.000Z",
+    "price": 0.725
+  },
+  {
+    "itemId": "37538aa8bed76e53d1499a2b27fdc6d35411489b673dd618d4396349e93ebce2",
+    "timestamp": "2022-04-14T03:28:31.000Z",
+    "price": 0.65
+  },
+  {
+    "itemId": "482fdcd8c6c01d636265a182b544ea117d43e9e4c4907d8b5f2ce676e8409a48",
+    "timestamp": "2022-04-14T03:38:11.000Z",
+    "price": 0.65
+  },
+  {
+    "itemId": "122cba7d876a6d480a8b288346442cc8e7d8bbc420f3737986749c9e2a1d6fcc",
+    "timestamp": "2022-04-14T10:43:06.000Z",
+    "price": 0.695
+  },
+  {
+    "itemId": "c2110821448264d3ed8ba9e0d522aefb7a04487ab40792ff0211eab0877957de",
+    "timestamp": "2022-04-14T10:52:09.000Z",
+    "price": 0.685
+  },
+  {
+    "itemId": "c76d7ea601120bcb7a871dbcd3f1f3763da3b5d1c7ba5e2bcf241decb8af495f",
+    "timestamp": "2022-04-14T15:16:58.000Z",
+    "price": 1
+  },
+  {
+    "itemId": "2d5bb119e8f5d02329391f1c362992aee8bb642df0defeff7380675e47a3608d",
+    "timestamp": "2022-04-14T15:17:45.000Z",
+    "price": 0.99
+  },
+  {
+    "itemId": "49c7267292443bd7c6cc487333a310bcf5121655dd29932d45895a8e475c6324",
+    "timestamp": "2022-04-14T17:33:59.000Z",
+    "price": 0.8
+  },
+  {
+    "itemId": "9b1ba93e24eb6396b11abf686eee713f493b15f0eb435dba5f81ef97409f8f47",
+    "timestamp": "2022-04-15T00:57:25.000Z",
+    "price": 1
+  },
+  {
+    "itemId": "f7452c8324eef916f47dc66b1bf1bb9b7d3faa296ed2a72414348af936df15c2",
+    "timestamp": "2022-04-15T01:36:32.000Z",
+    "price": 0.6
+  },
+  {
+    "itemId": "ed6d7c09dc591147e5ea82f273f76ca7893de51679ebec4fed423eb77c292740",
+    "timestamp": "2022-04-15T01:41:11.000Z",
+    "price": 0.63
+  },
+  {
+    "itemId": "c0d228676cf6c9c4ea9bbfff661fc6055cc8f676ef3de8c26647928fbefdcf87",
+    "timestamp": "2022-04-15T04:05:40.000Z",
+    "price": 0.57
+  },
+  {
+    "itemId": "b9cfbb3cd4145e512dc2ad18df81896df53c9ae9b80d2b89c255bd540e4c3461",
+    "timestamp": "2022-04-15T04:28:25.000Z",
+    "price": 0.6
+  },
+  {
+    "itemId": "d8c7943a4a256f4cf06e244d69c86caec5e0af0ece9348bd1d5e1c3cd24f2b54",
+    "timestamp": "2022-04-15T04:30:30.000Z",
+    "price": 0.65
+  },
+  {
+    "itemId": "e646bc3bd41bf6649e0b0925734e87fdf304f6e59679ab25f84d03026f8a96a6",
+    "timestamp": "2022-04-15T06:54:51.000Z",
+    "price": 0.62
+  },
+  {
+    "itemId": "4503c3c1b5c61b10ced9ee70e2b826b0be7d51eebb988cdad010910eba8e3fa3",
+    "timestamp": "2022-04-15T07:59:31.000Z",
+    "price": 0.6
+  },
+  {
+    "itemId": "cb567fc2fffeb5a16e4442db3ed077f51bd59a042942d5d012780e316f794e85",
+    "timestamp": "2022-04-15T08:09:41.000Z",
+    "price": 0.619
+  },
+  {
+    "itemId": "363c46ae57f3cf99d599baace5c5e34393abdcbd20bc43a71d70cc8412dd73d2",
+    "timestamp": "2022-04-15T08:36:40.000Z",
+    "price": 0.75
+  },
+  {
+    "itemId": "3525c6aed011ca551cb41708ffb6b627778bf80c685f6a923be4f203192b9fa0",
+    "timestamp": "2022-04-15T08:38:15.000Z",
+    "price": 0.69
+  },
+  {
+    "itemId": "97c43e236d7224db9321c540b9ee98c7c3515d93b48e47c7e69788c02641643d",
+    "timestamp": "2022-04-15T08:40:43.000Z",
+    "price": 0.635
+  },
+  {
+    "itemId": "88e208bf31ba320196a3128e2af9dd35ae544a236483dc8c0f9e64872d9f0fc3",
+    "timestamp": "2022-04-15T09:36:29.000Z",
+    "price": 0.877
+  },
+  {
+    "itemId": "a134b6fce4ef459e5786029cfbf579c3e6a4a89fdd2179575985d2a2361bee95",
+    "timestamp": "2022-04-15T09:39:29.000Z",
+    "price": 0.41875
+  },
+  {
+    "itemId": "7a9d3df6f61d0ccdda959439412c1a9162cab96df41049ae73b5231e12aed46d",
+    "timestamp": "2022-04-15T10:07:07.000Z",
+    "price": 0.6
+  },
+  {
+    "itemId": "6b385a8ae9731f77ec74b4d3064095b140909544ea51c4d0fd40336be782bc08",
+    "timestamp": "2022-04-15T11:05:26.000Z",
+    "price": 0.7
+  },
+  {
+    "itemId": "3fce1b6a6c30b5c68b8fd50c66899bea9efdfc0936ddc58525932aa1e6cca461",
+    "timestamp": "2022-04-15T11:18:15.000Z",
+    "price": 0.63
+  },
+  {
+    "itemId": "f0e8cdb52712b0955bd7363e4d32552008f2a6c898b127f98e379d80c057fa7f",
+    "timestamp": "2022-04-15T12:13:43.000Z",
+    "price": 0.8
+  },
+  {
+    "itemId": "90448fb16879f59681e2ecc58acca398c3c6c7d5846d05512db10e56721d6768",
+    "timestamp": "2022-04-15T13:33:51.000Z",
+    "price": 0.632
+  },
+  {
+    "itemId": "a481d2b07b46d5998f3166cc6a61a0f9e5471818d29cd3dd782ccb1a234b7537",
+    "timestamp": "2022-04-15T16:47:58.000Z",
+    "price": 0.69
+  },
+  {
+    "itemId": "ace6b17fc244edb5ab715f0a3deb4a0be7d9e4fb4c14670a7cfa189c3f4fa79e",
+    "timestamp": "2022-04-15T16:59:40.000Z",
+    "price": 1.3
+  },
+  {
+    "itemId": "50a1e8cdc1a91c6fede9337c9ba867025070efcd2a7a653992b582692c9e2281",
+    "timestamp": "2022-04-15T17:32:10.000Z",
+    "price": 2
+  },
+  {
+    "itemId": "a2d50d4b20e11492131c421071631defef65f2ba4085774b56b4015326ccb027",
+    "timestamp": "2022-04-15T20:02:43.000Z",
+    "price": 2.2
+  },
+  {
+    "itemId": "5d759413594e4875f76f2dbcff7c50e42fe983e4b658d433cdee8ab6d37319e8",
+    "timestamp": "2022-04-15T20:30:16.000Z",
+    "price": 0.65
+  },
+  {
+    "itemId": "9b80260aaf86bc07951868e9a4ce2f9929a00ba920c585fca3ab1b4fa3075d1e",
+    "timestamp": "2022-04-15T20:30:16.000Z",
+    "price": 0.64
+  },
+  {
+    "itemId": "f7b3b5d44a61550251b336230d2c896ea52ba1df9afbc6f4be57963899cd7195",
+    "timestamp": "2022-04-15T20:55:21.000Z",
+    "price": 0.7
+  },
+  {
+    "itemId": "4c29ac638cb475255f1625c5a67f973e6fca0609d367b51120075f39006de2e6",
+    "timestamp": "2022-04-15T22:09:26.000Z",
+    "price": 0.699
+  },
+  {
+    "itemId": "74fca5e6aa56c8ab3fd9eef677804f36d4bb8a547f5911f3099c3d0623998127",
+    "timestamp": "2022-04-16T00:05:16.000Z",
+    "price": 0.648
+  },
+  {
+    "itemId": "bacec3f7c5fe15acb4b51a73323f620dae12569ddfca28bf5d928c8d7f71d6bb",
+    "timestamp": "2022-04-16T03:05:10.000Z",
+    "price": 0.7
+  },
+  {
+    "itemId": "b69cb613c33a8d478b285e028f49c228cd0e0ca02dddcd0666730feb27b8c3f9",
+    "timestamp": "2022-04-16T03:08:43.000Z",
+    "price": 0.895
+  },
+  {
+    "itemId": "342649caeb23a44c901c3a17700c86b149ff7e43a13c832bd8b6a8024b72c1a3",
+    "timestamp": "2022-04-16T03:28:46.000Z",
+    "price": 0.65
+  },
+  {
+    "itemId": "5ed5165ee5429a8f989260e3221476137e44ccc57d5fd76fa74b67c14a171ba5",
+    "timestamp": "2022-04-16T04:13:48.000Z",
+    "price": 0.79
+  },
+  {
+    "itemId": "52c21cbf1f774026cb68ae3ea1ddf7d36be50db6d070ca0655394ee318ebc358",
+    "timestamp": "2022-04-16T05:37:04.000Z",
+    "price": 0.915
+  },
+  {
+    "itemId": "39d505342458e4d765fc23e22b943ce44177eb043a03373ba830efff6fdc8ff0",
+    "timestamp": "2022-04-16T05:54:08.000Z",
+    "price": 0.65
+  },
+  {
+    "itemId": "7be83d905dbb47a82b66aaa8b157f7eb8d6b11a7ccd9656d5500974d17023a81",
+    "timestamp": "2022-04-16T07:45:48.000Z",
+    "price": 0.75
+  },
+  {
+    "itemId": "8388b7f59f65c45510b9e8021bddfe9dbed97d74f52f08e0be5ec87218d7aca6",
+    "timestamp": "2022-04-16T08:55:24.000Z",
+    "price": 0.65
+  },
+  {
+    "itemId": "52e2bda76fdf0ff7cab6f8f65d0dd79d47a784e815afb47fd11e95460af6cbc4",
+    "timestamp": "2022-04-16T08:58:27.000Z",
+    "price": 0.85
+  },
+  {
+    "itemId": "bdf1678a5dbef02f0d3dde8217632215982fa73cdaefc50a5da0fbb22b11adff",
+    "timestamp": "2022-04-16T09:06:51.000Z",
+    "price": 0.65
+  },
+  {
+    "itemId": "f0ee7a1ec61901fb73ba0350f1990bef5a547b56cfae8eaf7d81d339d0b55d44",
+    "timestamp": "2022-04-16T10:17:17.000Z",
+    "price": 0.56
+  },
+  {
+    "itemId": "62424cf39dead626f5e31a209c790359ac11dbccba4fa1a0827d8a7bf242ebbe",
+    "timestamp": "2022-04-16T10:27:58.000Z",
+    "price": 0.883
+  },
+  {
+    "itemId": "fa91363941fd627bfecbd21ba54a581f66d501c4bbf3dd94f310a29df4458c1d",
+    "timestamp": "2022-04-16T11:35:31.000Z",
+    "price": 0.65
+  },
+  {
+    "itemId": "c6cd512a19cb7bd9aea3d33a5ac162cfa5de0ddb2ffce91e006776bd9b31a924",
+    "timestamp": "2022-04-16T14:58:04.000Z",
+    "price": 0.8
+  },
+  {
+    "itemId": "992d74d680ccbc704d168c16e6015aa14d65ebf544af32e36c84a649fbf5e121",
+    "timestamp": "2022-04-16T15:02:36.000Z",
+    "price": 0.417
+  },
+  {
+    "itemId": "55d9f3a90546a99eba18afa89fa358710e78a720f246e850f34190c016001a43",
+    "timestamp": "2022-04-16T17:16:34.000Z",
+    "price": 0.666
+  },
+  {
+    "itemId": "f9743e0c8a980de4683bb1efe2f51c8cfadb8cfda3e51e1d84f23c7f6bc6dfad",
+    "timestamp": "2022-04-16T17:17:49.000Z",
+    "price": 0.88
+  },
+  {
+    "itemId": "975cb5b75eee02a1f66cbad019a9aec8b29aee1d3c58fd60c8287c350dd9e4b2",
+    "timestamp": "2022-04-16T18:28:53.000Z",
+    "price": 0.7
+  },
+  {
+    "itemId": "f53380e0e457d1f84856ccd5e430d8b788b8b9b40d361467e473150675cb142d",
+    "timestamp": "2022-04-16T19:29:35.000Z",
+    "price": 0.69
+  },
+  {
+    "itemId": "1dca447418218490fb2a2378126aa368f4fce4eda8501fc862ead35fb05f0dcd",
+    "timestamp": "2022-04-16T19:31:19.000Z",
+    "price": 0.7
+  },
+  {
+    "itemId": "8b1787f5e9133e8ee1e474ab1929e40d1475e96a570365429c10e4ee385ba140",
+    "timestamp": "2022-04-17T01:49:08.000Z",
+    "price": 0.7
+  },
+  {
+    "itemId": "601fdafe51b312ecad4d8aa8a4bd0883d62561b28b271887078861a841dca180",
+    "timestamp": "2022-04-17T04:14:08.000Z",
+    "price": 0.8
+  },
+  {
+    "itemId": "39eb1434b38614d226e85173cbba9b3cf80809d5bb6d5bfc73f070bb0e76ed97",
+    "timestamp": "2022-04-17T05:14:50.000Z",
+    "price": 0.65
+  },
+  {
+    "itemId": "cf2919e305dc0e5b236f1e35e56504d25aad5b86e20cf3f9448b7f99f41a167b",
+    "timestamp": "2022-04-17T06:09:48.000Z",
+    "price": 2
+  },
+  {
+    "itemId": "b777fe3526c187fbe0c7a4278c533899c055109589de39b9867742f3927285c5",
+    "timestamp": "2022-04-17T14:14:22.000Z",
+    "price": 0.65
+  },
+  {
+    "itemId": "a5c891d5e0ac2909f22fa16cb25f2a1ea60d126fcdc70119835822d3bb682a47",
+    "timestamp": "2022-04-17T16:28:52.000Z",
+    "price": 0.541
+  },
+  {
+    "itemId": "5c220d39c6d4862655a9965f9f277e34755486e1dba965c92d99e8915d9514d4",
+    "timestamp": "2022-04-17T17:13:05.000Z",
+    "price": 0.639
+  },
+  {
+    "itemId": "dce15ffd61eb71017745bae045bdd461d1a35d0c1948150051c2eb7f69c85259",
+    "timestamp": "2022-04-17T18:45:27.000Z",
+    "price": 0.65
+  },
+  {
+    "itemId": "01dd07c59ee5eb5fa5bdda21e74b01fa4451516257a03478fb5522e759d87037",
+    "timestamp": "2022-04-17T19:10:52.000Z",
+    "price": 1.234
+  },
+  {
+    "itemId": "b67c4436a2e6398308ca62d43a769b002a20c236401d47f79c0f055d86942ce4",
+    "timestamp": "2022-04-17T19:23:04.000Z",
+    "price": 0.54
+  },
+  {
+    "itemId": "3f6d09930bc1fe9db8186fa4daeca35bb3eafd06a8f1f9c41d4af7dccd604e39",
+    "timestamp": "2022-04-18T04:41:26.000Z",
+    "price": 0.6
+  },
+  {
+    "itemId": "ec0ddad3f599590c089b5531fd0dcb466ac52e6b48c6d43f52f72d8cc5354d32",
+    "timestamp": "2022-04-18T06:01:20.000Z",
+    "price": 0.633
+  },
+  {
+    "itemId": "823f6a91fef0f63d0b0836b26678e3739073311c0dfdfa708f0adf2fa55a5637",
+    "timestamp": "2022-04-18T06:01:20.000Z",
+    "price": 0.638
+  },
+  {
+    "itemId": "1970c01b3ef4212160eb3f349a064713ea635e62f53c828f31320c82fe5f51e7",
+    "timestamp": "2022-04-18T07:43:31.000Z",
+    "price": 0.62
+  },
+  {
+    "itemId": "3aeb9fe2253ede83cb58f1d1607e4276eaad0089af7eae492cc635e92728c606",
+    "timestamp": "2022-04-18T07:54:47.000Z",
+    "price": 0.63
+  },
+  {
+    "itemId": "f7a1ddd55d28b3e8c38f66761aed83565c071b783abdec6872b4a0fa0588c439",
+    "timestamp": "2022-04-18T09:04:41.000Z",
+    "price": 0.634
+  },
+  {
+    "itemId": "fefd4b93ae517ee668014ac34c71af745fa349d9dd67c0daf45b71a6052be334",
+    "timestamp": "2022-04-18T09:11:03.000Z",
+    "price": 0.634
+  },
+  {
+    "itemId": "db07266ec7f3ea3aecd206bfe169a36bb2543858990f78878850c4c4056d617a",
+    "timestamp": "2022-04-18T09:40:06.000Z",
+    "price": 0.7
+  },
+  {
+    "itemId": "12bbd6104b9b50d4cdfea403c2d3d016e095bb3b809ccf288f7714e82ae165c0",
+    "timestamp": "2022-04-18T11:59:50.000Z",
+    "price": 0.69
+  },
+  {
+    "itemId": "7676710de8a98d5a8a72bd6926b18ce1e71d0971c33f36292cf425413276e59d",
+    "timestamp": "2022-04-18T12:10:01.000Z",
+    "price": 0.989
+  },
+  {
+    "itemId": "94d8b89728968f41b49dd50e7b99d249c05eea26b7639735ca2cbf973a41f064",
+    "timestamp": "2022-04-18T13:13:08.000Z",
+    "price": 0.4575
+  },
+  {
+    "itemId": "3d5fc08995752eba81b9da3817e3c8e077f85df123d69110da374fd37f0f0528",
+    "timestamp": "2022-04-18T14:34:24.000Z",
+    "price": 0.46
+  },
+  {
+    "itemId": "1108db860c6b5d8d6fade8f900a6f53208be6c54a357a35472dbac88dda911f3",
+    "timestamp": "2022-04-18T14:56:29.000Z",
+    "price": 0.635
+  },
+  {
+    "itemId": "e6c0a9b0e2bac5b63e36378de8ceca155f30dd076167f4a2e9ca559435a946bd",
+    "timestamp": "2022-04-18T16:31:24.000Z",
+    "price": 0.633
+  },
+  {
+    "itemId": "94c7d2e8c7861b67dadff4fdde4aac295e635313de52cb51f20fe65b499ee3b9",
+    "timestamp": "2022-04-18T16:34:53.000Z",
+    "price": 0.75
+  },
+  {
+    "itemId": "22fd44ab79505610a283a13b618b132301026f9a559b9ea5ba8d4a42c617a5fd",
+    "timestamp": "2022-04-18T18:36:53.000Z",
+    "price": 0.69
+  },
+  {
+    "itemId": "8808d59d6476e47a450ee68f133a4efb792965328afea40f017d537969715e7d",
+    "timestamp": "2022-04-18T18:43:35.000Z",
+    "price": 0.65
+  },
+  {
+    "itemId": "00475ae7ccbdc09792d8bda0d345c3d4cb5cb12e85a1d4d09f53c09b8fbd22e7",
+    "timestamp": "2022-04-18T22:54:13.000Z",
+    "price": 0.51
+  },
+  {
+    "itemId": "4ab070c3d7d2eae5abb7e777199482ffa0dc274336ddf2f2fed7205c68db7fa7",
+    "timestamp": "2022-04-19T00:30:46.000Z",
+    "price": 0.6
+  },
+  {
+    "itemId": "25b5efaddd2ba14aec8ac9a03b5970be40acb6e782a5211d6d8282a0a1ab2dcb",
+    "timestamp": "2022-04-19T00:41:21.000Z",
+    "price": 0.65
+  },
+  {
+    "itemId": "fe3deaf9e75c5bd028793926a4b14be0c9ae1fa3c9aab3002b3655d8bbccb65d",
+    "timestamp": "2022-04-19T00:44:44.000Z",
+    "price": 0.64
+  },
+  {
+    "itemId": "f6f8273107d6d43bb3a93226b07a599de0afe94dca2a9c83c9d3d29bd689554c",
+    "timestamp": "2022-04-19T00:44:53.000Z",
+    "price": 0.64
+  },
+  {
+    "itemId": "153d122292cd8e7ef231e70458535375fca38564a9ecaf0c89591660d4b5fa39",
+    "timestamp": "2022-04-19T00:45:39.000Z",
+    "price": 0.666
+  },
+  {
+    "itemId": "b57c990df99a90c4c4787d2e569621b93e33b5ab1e1cf9767a680e220abed312",
+    "timestamp": "2022-04-19T03:42:10.000Z",
+    "price": 0.635
+  },
+  {
+    "itemId": "072c0e2ba0e50fb056b53ea484e591dc2365780515664d6add58d9e434132716",
+    "timestamp": "2022-04-19T05:46:23.000Z",
+    "price": 0.642
+  },
+  {
+    "itemId": "bca6c842806dd3d331f34b7660f00df57282bc5adc88b26ed35fadc499ef4569",
+    "timestamp": "2022-04-19T07:19:35.000Z",
+    "price": 2.2
+  },
+  {
+    "itemId": "a0f5ea475cb1b3fbf8feef8e084f88c72ceb8f1efd58cb0474574fec62a956eb",
+    "timestamp": "2022-04-19T09:08:35.000Z",
+    "price": 0.64
+  },
+  {
+    "itemId": "0344359a216c31e2e5bde6be4013f1beb407756cec3bbdf4a79d1c326785285e",
+    "timestamp": "2022-04-19T14:42:54.000Z",
+    "price": 0.6889
+  },
+  {
+    "itemId": "bf92011c03daacb7678a13312919b1316a200ce6c2ee8afdd59b6b6374ca0e79",
+    "timestamp": "2022-04-19T18:48:09.000Z",
+    "price": 0.69
+  },
+  {
+    "itemId": "f1b5b98a4dbc20fc30a11e3edc5fcf5e0716fe151983571f1fc14df72562f436",
+    "timestamp": "2022-04-19T20:32:01.000Z",
+    "price": 0.511
+  },
+  {
+    "itemId": "c13315d230266b51fc6dcc192a7da0edd3ed5bd980849a8b9a161c571cebb8ba",
+    "timestamp": "2022-04-19T20:33:04.000Z",
+    "price": 0.51
+  },
+  {
+    "itemId": "5de55e9def2b2d5973dc66554e6dbc4520b8b50d34feb51a32c6f962911d7c45",
+    "timestamp": "2022-04-19T21:02:58.000Z",
+    "price": 0.55
+  },
+  {
+    "itemId": "e88f654ff79b47a39cb507a6bbc7df03933deb2d0892f414427c667c87c1a4e9",
+    "timestamp": "2022-04-19T22:43:07.000Z",
+    "price": 0.99
+  },
+  {
+    "itemId": "1b9d93c9f82279f060dd1f5618dbc4ab3c7a9d04e19b73285f62628b2832f919",
+    "timestamp": "2022-04-20T05:05:38.000Z",
+    "price": 0.9
+  },
+  {
+    "itemId": "a35284fdfad4f3a058cb9e498bab02336fc720ae03f3d0246c6d9781c3798938",
+    "timestamp": "2022-04-20T05:52:17.000Z",
+    "price": 0.735
+  },
+  {
+    "itemId": "20bee661b29573764fe47fce4cfee05bc297948902318b8c17891a673140159f",
+    "timestamp": "2022-04-20T06:43:12.000Z",
+    "price": 0.6882
+  },
+  {
+    "itemId": "b847870eeb5768f65620ce2db00c3c8afd41e42424b1cbb807951ff3aaf66ddc",
+    "timestamp": "2022-04-20T07:11:15.000Z",
+    "price": 0.6
+  },
+  {
+    "itemId": "99049b577650e68e8ead4a2ce177bedcf56201fb586730f6d4678f439f5c0347",
+    "timestamp": "2022-04-20T10:24:55.000Z",
+    "price": 0.58
+  },
+  {
+    "itemId": "00d620bae118ad296e1e542a111aa5d7ad8d7ba434485ab730308882fa19d23c",
+    "timestamp": "2022-04-20T11:05:14.000Z",
+    "price": 0.5
+  },
+  {
+    "itemId": "e8a59af91fde08a236beb4bae7e2224962628e602c19834564b32ace5aa648f2",
+    "timestamp": "2022-04-20T13:29:33.000Z",
+    "price": 0.416
+  },
+  {
+    "itemId": "198e8476dc2248b495de92c722f9918dcdac0682369ca4a1f94224555b6e88ae",
+    "timestamp": "2022-04-20T13:39:11.000Z",
+    "price": 0.4561
+  },
+  {
+    "itemId": "c81266905f5662f940983ff40f8436a77e74fcab29934a2a6db14a1f2f7c3512",
+    "timestamp": "2022-04-20T14:35:59.000Z",
+    "price": 0.42
+  },
+  {
+    "itemId": "cb7219bba74b10158ed88d04e18c3865a8002a100b85595d093553e3a90f01cd",
+    "timestamp": "2022-04-20T14:47:40.000Z",
+    "price": 0.6
+  },
+  {
+    "itemId": "629dd70780bcfdfb9f9264e86b71f741d2d4db0247e6a88adfbfd7ea1d84dcc1",
+    "timestamp": "2022-04-20T14:47:40.000Z",
+    "price": 1.4
+  },
+  {
+    "itemId": "62585a51731236d09ee09f56961314e3f4e1b35023c05809157f72f67b715d41",
+    "timestamp": "2022-04-20T14:59:32.000Z",
+    "price": 0.639
+  },
+  {
+    "itemId": "78a135b1caf0e66a914c0e27a4af7201dd7b0e06ca0b52413645f54b76988211",
+    "timestamp": "2022-04-20T18:53:40.000Z",
+    "price": 0.5
+  },
+  {
+    "itemId": "2159090bcd5faa6dc9d97d2c7bcbfb03bca1a9ad341493446c597b5bcb99f280",
+    "timestamp": "2022-04-20T19:56:10.000Z",
+    "price": 0.49
+  },
+  {
+    "itemId": "8d4714147407270714fa77d37796fe1f0e4161744735cfd98dae99e98bf61c44",
+    "timestamp": "2022-04-20T20:57:18.000Z",
+    "price": 0.5
+  },
+  {
+    "itemId": "9c3bb741abfe0ee9003ae10a74039f647f5c5af6ad5de86fa21d8968a9de90a1",
+    "timestamp": "2022-04-20T21:26:42.000Z",
+    "price": 0.45
+  },
+  {
+    "itemId": "3a03f4d2f04f2bf382c3d9cf94b422447aff947bfff1723023b70d77284f9bb0",
+    "timestamp": "2022-04-20T21:28:08.000Z",
+    "price": 0.6
+  },
+  {
+    "itemId": "31517998c09098007b80c264189490b2fd823bc88183a366dde1826a6ee2ec8c",
+    "timestamp": "2022-04-20T21:48:34.000Z",
+    "price": 1.4
+  },
+  {
+    "itemId": "bea59b410d034ac5baae1c7c5f46f17fd68cf7cea3bb2e03fbd049c133770e12",
+    "timestamp": "2022-04-20T22:35:53.000Z",
+    "price": 0.5
+  },
+  {
+    "itemId": "f1560f160840ba7a8537b19b25de837b64ca0136835f3da1297e089b8abdd9dd",
+    "timestamp": "2022-04-20T23:01:16.000Z",
+    "price": 0.479
+  },
+  {
+    "itemId": "375df93296603c0088cbd9e208ea93ca1d00ff72abab9f2ba96d46dfa3cbdf89",
+    "timestamp": "2022-04-21T02:22:12.000Z",
+    "price": 0.35947
+  },
+  {
+    "itemId": "cafcbcd4e41df95fa213a4bf20d9ecad39724156b4e241211973cb3b7176b2df",
+    "timestamp": "2022-04-21T02:48:05.000Z",
+    "price": 0.5
+  },
+  {
+    "itemId": "5ed73d79448c7afdadcc55c57bcdaa233090e766c782e9ba7ce68f323f1a468c",
+    "timestamp": "2022-04-21T04:10:16.000Z",
+    "price": 0.5
+  },
+  {
+    "itemId": "4cbb7012feb6ab1e4810f80665b4094ec00ad80ddeff90929e1f25736f32337b",
+    "timestamp": "2022-04-21T05:10:14.000Z",
+    "price": 0.65
+  },
+  {
+    "itemId": "4cbbd88935ebe77f6fb6cbe4064ba703a24d14b0cac3e800e5f817a36031d916",
+    "timestamp": "2022-04-21T05:51:56.000Z",
+    "price": 0.5
+  },
+  {
+    "itemId": "b77be55054a42828bf2d9530c02aa6f222bba4a468fcfb217c32e5cd22daf21b",
+    "timestamp": "2022-04-21T05:53:01.000Z",
+    "price": 0.49
+  },
+  {
+    "itemId": "2053154d773051beb6663940971ad6da07475e6f5f1dd8162ba692296df38254",
+    "timestamp": "2022-04-21T05:56:37.000Z",
+    "price": 0.679
+  },
+  {
+    "itemId": "64a597345403a9083e74da4d34131c835d3ffda9151290ae48c5ac0ee2deb8ad",
+    "timestamp": "2022-04-21T06:57:30.000Z",
+    "price": 0.6888
+  },
+  {
+    "itemId": "da0a56d3ebe0a147adb253afa2571d239c3ccc01294ddc46179dfa2efa378635",
+    "timestamp": "2022-04-21T09:58:00.000Z",
+    "price": 0.7
+  },
+  {
+    "itemId": "55cdcb21832ebc6f4aff82869b8981575cf099131f243599e6c1f89d7201aaa3",
+    "timestamp": "2022-04-21T11:14:17.000Z",
+    "price": 0.49
+  },
+  {
+    "itemId": "960cce94e826afabe3ff2dd8b915646e7fbbf2f10159e66c49e27719646e112e",
+    "timestamp": "2022-04-21T11:28:24.000Z",
+    "price": 0.49
+  },
+  {
+    "itemId": "3d87607bdc622883d15b47231a92f43b68d75634f9b3f5c2d0807e8cb3fc41f9",
+    "timestamp": "2022-04-21T14:11:34.000Z",
+    "price": 0.59
+  },
+  {
+    "itemId": "898dc9589a3047b869ca88197ba63243b97a03d3b669113651f91e89143af8d9",
+    "timestamp": "2022-04-21T14:34:19.000Z",
+    "price": 0.6
+  },
+  {
+    "itemId": "44cd5c69072ecaa4b8927a4752a2d6c1a11a9f933bedb7f699103c38e9cc9c8e",
+    "timestamp": "2022-04-21T20:27:05.000Z",
+    "price": 0.59
+  },
+  {
+    "itemId": "b7704682de12605a4db4bd159bfe839b6176820fab3dd297fe53b7d2ac5752ef",
+    "timestamp": "2022-04-21T20:34:18.000Z",
+    "price": 0.6
+  },
+  {
+    "itemId": "3cf51fbe334bae51584454b98c00b3fae6314567bd10ef458f56741b9b065bcf",
+    "timestamp": "2022-04-21T20:45:55.000Z",
+    "price": 0.5
+  },
+  {
+    "itemId": "5e40d5d1d25c09003cb7083ae3725b666d186ec5be2272ae9833d23873eb4aad",
+    "timestamp": "2022-04-21T22:42:17.000Z",
+    "price": 0.7
+  },
+  {
+    "itemId": "243f33b6eecb0ef102f2f18836b187abef18575b2e2c87aa2d51afa4ce267875",
+    "timestamp": "2022-04-21T22:50:40.000Z",
+    "price": 0.695
+  },
+  {
+    "itemId": "578fe40e061adfda9c939d37db6363a24e49b54c12fb9ae0be44cd7ca0daff34",
+    "timestamp": "2022-04-21T23:54:28.000Z",
+    "price": 0.54
+  },
+  {
+    "itemId": "f9dec79e3142dd1e06ccafa10238ad373497534ba321b17461fd4748ead6d48d",
+    "timestamp": "2022-04-22T02:16:20.000Z",
+    "price": 0.55
+  },
+  {
+    "itemId": "c00a6c121c7da0dc9d59d8317f50f20f752121a2f51f2f9c680afb46f132c098",
+    "timestamp": "2022-04-22T03:49:49.000Z",
+    "price": 1
+  },
+  {
+    "itemId": "58d000ecb210e65d828c0a0bf4937d07f586f64d954439f1b93cb360650c4621",
+    "timestamp": "2022-04-22T07:57:41.000Z",
+    "price": 0.75
+  },
+  {
+    "itemId": "7e6e7bee35e829ab17a495fafc8577359d505ce76a9987f5b031eb1dee3971bc",
+    "timestamp": "2022-04-22T09:28:46.000Z",
+    "price": 0.79
+  },
+  {
+    "itemId": "b544a1903d22ebff11f6cd0d701b215af7ce499f100b4759a99ea36dfbd8e330",
+    "timestamp": "2022-04-22T11:10:45.000Z",
+    "price": 0.55
+  },
+  {
+    "itemId": "03722a50542cd06b3d7b2ff76c5a45ebff58680b962cc08e7df8b01fea75f150",
+    "timestamp": "2022-04-22T14:38:01.000Z",
+    "price": 0.6969
+  },
+  {
+    "itemId": "5af5908fe7e36f622102468bfb5924f574b9d80d7768e203e5e5ae4b7c397f00",
+    "timestamp": "2022-04-22T16:14:37.000Z",
+    "price": 0.59
+  },
+  {
+    "itemId": "2f38ad92c818ff3549c515bf55bd8eb4023ba5cb0ba538af39e736e2897ed749",
+    "timestamp": "2022-04-22T17:56:00.000Z",
+    "price": 0.7
+  },
+  {
+    "itemId": "a2cc1e60e227d58debe4e5a306e068084e00701054d3a77bc19a27c8ca8cb48d",
+    "timestamp": "2022-04-22T22:33:40.000Z",
+    "price": 0.426
+  },
+  {
+    "itemId": "3053da93783463b26233ff9f29d2d4f73b4c30f5510c634c824730f943dc4616",
+    "timestamp": "2022-04-23T00:01:51.000Z",
+    "price": 0.425
+  },
+  {
+    "itemId": "2575ea97615d2806235b07d7ae85b9ea2a0a10e0a38bb6e35b98fc21de63c466",
+    "timestamp": "2022-04-23T05:42:57.000Z",
+    "price": 1
+  },
+  {
+    "itemId": "e0ef762171c78c63d10a43d2425a6361eb81c22bfde5fa4474d09f9b9aa57f60",
+    "timestamp": "2022-04-23T06:13:05.000Z",
+    "price": 0.6
+  },
+  {
+    "itemId": "9828901f0f662cf9f91cd038f24ca4d79174a302581c9ee96e7ec5b68a5d89bd",
+    "timestamp": "2022-04-23T07:08:10.000Z",
+    "price": 0.5
+  },
+  {
+    "itemId": "e6c3239535f7649553d3f24aa6b7cfc95db7ead7832d0be3be5fa8cba05ae470",
+    "timestamp": "2022-04-23T12:29:22.000Z",
+    "price": 0.89
+  },
+  {
+    "itemId": "b77bab2618ba8fddca8f1f3a9eeb51ee575446e6418b4e728cd301e4c6dbb47f",
+    "timestamp": "2022-04-23T12:40:02.000Z",
+    "price": 0.625
+  },
+  {
+    "itemId": "7010952e06b68e3c91dc5b293afdb4eb8120fb5b9fcf0e239f8d066170816924",
+    "timestamp": "2022-04-23T14:49:14.000Z",
+    "price": 0.65
+  },
+  {
+    "itemId": "9078fbf87c533b941b40cc3589a6ea766f6823d1e927742bff7869871037ad98",
+    "timestamp": "2022-04-23T17:12:40.000Z",
+    "price": 0.55
+  },
+  {
+    "itemId": "6a0dabe1aa7f5bf35cd4958285df6b9ff8de9b0c2e5a66dce41484250c8f062b",
+    "timestamp": "2022-04-23T17:22:29.000Z",
+    "price": 0.8
+  },
+  {
+    "itemId": "0ceb97d84cb275d39ca6e4470498360d2901b425fad3bdb3a6e99e565fbd90e9",
+    "timestamp": "2022-04-23T18:23:03.000Z",
+    "price": 1
+  },
+  {
+    "itemId": "b535f4b27415bbf31b5a5fcaf770d733f61953c4ae959ffcbbfbaada6119f252",
+    "timestamp": "2022-04-23T18:32:33.000Z",
+    "price": 0.59
+  },
+  {
+    "itemId": "fa17b6be615a072d9259039f31551f5f4fe2c157851dab055f74776df61df04b",
+    "timestamp": "2022-04-23T18:59:02.000Z",
+    "price": 0.535
+  },
+  {
+    "itemId": "28dd5ffa8e0ba704c5c76f1546b6e572c50ca608a2635fa74fbc0bee3fbf1d3c",
+    "timestamp": "2022-04-23T21:32:47.000Z",
+    "price": 0.55
+  },
+  {
+    "itemId": "d67d0e0bd2401183826db522ad52dec037c7940d5f70b70b03215dc23c364839",
+    "timestamp": "2022-04-23T22:51:14.000Z",
+    "price": 0.5
+  },
+  {
+    "itemId": "27cce38d8fa6a43c3f3f205f3007fa86fc6c34b0b200fdf4dca8864688b3d45b",
+    "timestamp": "2022-04-24T01:09:22.000Z",
+    "price": 0.75
+  },
+  {
+    "itemId": "e410ea565389f36b94389999c3932d0e7ed1e7fbfaeb9df4613ff0bd2f61bb4b",
+    "timestamp": "2022-04-24T02:49:08.000Z",
+    "price": 0.4311
+  },
+  {
+    "itemId": "e0ed2bed4da3c8d5c0ed71b06804484532b9f599c5ed62bb6de9c861450fe7e5",
+    "timestamp": "2022-04-24T03:01:44.000Z",
+    "price": 0.788
+  },
+  {
+    "itemId": "f82987eabb663fb59745999768fad1eac289cb918115dc7f0996598ff09a2951",
+    "timestamp": "2022-04-24T03:53:55.000Z",
+    "price": 0.4404
+  },
+  {
+    "itemId": "c6e26b0031a18283d5e1bd30db93ce958f995c14a7c078d16fe84f9586cd08fc",
+    "timestamp": "2022-04-24T08:38:52.000Z",
+    "price": 0.53
+  },
+  {
+    "itemId": "40d6bd3c9fa0d0fee7bc697324fb3a10bddac209e383de298a8143d02827c4f2",
+    "timestamp": "2022-04-24T13:46:22.000Z",
+    "price": 0.6
+  },
+  {
+    "itemId": "52c3e871409467d3cb16099fbd9ae90561f05719de042e9bd1e229b14a18d429",
+    "timestamp": "2022-04-24T14:05:50.000Z",
+    "price": 0.55
+  },
+  {
+    "itemId": "9388ca7c3813dd744175e3b17f6c69ec213a492c4325c02ccfdc3aaf5dda3499",
+    "timestamp": "2022-04-24T16:43:47.000Z",
+    "price": 0.43
+  },
+  {
+    "itemId": "2375c92e23f9b100ddf14dee50641c98cd25eccf5d70a60ed8d6831543fa27f4",
+    "timestamp": "2022-04-24T16:49:06.000Z",
+    "price": 0.4104
+  },
+  {
+    "itemId": "6ed09daf061642e971049181727c4f32643710aed5c3bd12441a51d83874c9c3",
+    "timestamp": "2022-04-24T18:10:50.000Z",
+    "price": 0.46
+  },
+  {
+    "itemId": "3f68bc40c390693cb189ae44ff1301d8cf4504e0eae2d1bce704fc628948b6d0",
+    "timestamp": "2022-04-24T18:55:57.000Z",
+    "price": 0.46
+  },
+  {
+    "itemId": "d5ab40809dd60e45af1298b465761d81e724125d057e2ab87fbebb8a970aef49",
+    "timestamp": "2022-04-24T19:10:00.000Z",
+    "price": 1.337
+  },
+  {
+    "itemId": "c33d7e91ec55611c5ce90db99119acae65da6d1039a579e8ae6526b33a4f24d7",
+    "timestamp": "2022-04-24T20:31:08.000Z",
+    "price": 0.49
+  },
+  {
+    "itemId": "6f3f3aec58a746d5b84a6e00b134b7de2a31801b232f9440e4877fbf24790f90",
+    "timestamp": "2022-04-24T20:57:52.000Z",
+    "price": 0.5
+  },
+  {
+    "itemId": "57aaeb77bd0110c7ff0df6f8966fc08d63f617f62bb4da4259d172c0d5f3e393",
+    "timestamp": "2022-04-24T23:53:37.000Z",
+    "price": 0.45
+  },
+  {
+    "itemId": "bf2369574b50980e27ddcc48a1c276fd7871c05393e1dafefb0bf12aa24a78f1",
+    "timestamp": "2022-04-25T03:48:21.000Z",
+    "price": 0.51
+  },
+  {
+    "itemId": "3fc4eb367a034d712aed7b165f6cdc5fafa27f7510f68e8a64094da7aae5b5da",
+    "timestamp": "2022-04-25T04:10:25.000Z",
+    "price": 0.5
+  },
+  {
+    "itemId": "c37ed5ba11f02d34f3f0e27428c5afcbd6877a90a71776f58f4f20e9be1d4e18",
+    "timestamp": "2022-04-25T04:22:49.000Z",
+    "price": 0.7
+  },
+  {
+    "itemId": "5992289d6fd13b10dc0d0880158a251869137996bfa87b3233cf1d264817de85",
+    "timestamp": "2022-04-25T05:12:46.000Z",
+    "price": 0.99
+  },
+  {
+    "itemId": "77e90e3c13313029b7517d3dd00096c120b55acad7536c8e1def5352df11f92a",
+    "timestamp": "2022-04-25T08:13:18.000Z",
+    "price": 0.45
+  },
+  {
+    "itemId": "b9bfe1e7b47659602d26f510a34a134a8736f75e13883e0f72ccfdcb4bb8b69b",
+    "timestamp": "2022-04-25T08:49:16.000Z",
+    "price": 0.9
+  },
+  {
+    "itemId": "3cec3144350b143f4295be88bde5976cc9c0c348bfd2e6a578d7df3160aa5357",
+    "timestamp": "2022-04-25T09:29:22.000Z",
+    "price": 1.1
+  },
+  {
+    "itemId": "e2ccac91fbf5917f080881c5ffbabd0e33446051a421fe6ef84f9c715b2d29c2",
+    "timestamp": "2022-04-25T10:51:43.000Z",
+    "price": 0.49
+  },
+  {
+    "itemId": "ac24bc65d62b7432154cd3d227ef3e644101037b47bebfdb8c52b034cd3f34e3",
+    "timestamp": "2022-04-25T12:48:28.000Z",
+    "price": 0.75
+  },
+  {
+    "itemId": "f202e485f73bbf65149e8c6ff6c378605cbf09aa313a012390ffc96b646f0fd9",
+    "timestamp": "2022-04-25T13:10:16.000Z",
+    "price": 0.75
+  },
+  {
+    "itemId": "94d6e2999737a04988d3400538237bef02d671f688cc32a3ba99b6573df63cd6",
+    "timestamp": "2022-04-25T15:03:40.000Z",
+    "price": 0.4499
+  },
+  {
+    "itemId": "6b3bb8256cf9fcba731135cb78d392946b873698b8da513e74084bf1bc2f17e2",
+    "timestamp": "2022-04-25T18:24:49.000Z",
+    "price": 0.526
+  },
+  {
+    "itemId": "167c532bac2c08255e47af2307c54f9cdacf0613907797c4565d0dc031a5af2b",
+    "timestamp": "2022-04-25T18:24:49.000Z",
+    "price": 0.499
+  },
+  {
+    "itemId": "b796d3c47e57229837f58e3db301f1df6ef533d446944df9b202614595449be9",
+    "timestamp": "2022-04-25T18:31:23.000Z",
+    "price": 0.63
+  },
+  {
+    "itemId": "9f36e03cb64d11426872da79d5e53d4777317b304bee8c1d9f3b1c55dc08e3a4",
+    "timestamp": "2022-04-25T22:03:44.000Z",
+    "price": 0.426
+  },
+  {
+    "itemId": "d0bf9d3b22e98da68ab26e6b1e1873da8a369bbeed8215c9fe854efdc64f01d6",
+    "timestamp": "2022-04-25T22:05:17.000Z",
+    "price": 0.425
+  },
+  {
+    "itemId": "c8dd1d9cd5ce2474f64db8c96ad2ef3580e04636343b70a43c4cf3e151051220",
+    "timestamp": "2022-04-25T23:44:21.000Z",
+    "price": 0.51
+  },
+  {
+    "itemId": "d7a15545db4bf2d00a62118011ba8900962787c12403982090e475e1cc812e3d",
+    "timestamp": "2022-04-26T00:49:26.000Z",
+    "price": 0.755
+  },
+  {
+    "itemId": "2b0752f1ea25b28bb7373f1de38ff67737278882a93a3240fba493057a6466ec",
+    "timestamp": "2022-04-26T01:57:51.000Z",
+    "price": 0.75
+  },
+  {
+    "itemId": "ad13a5278de8363bf2a0bf80b94748493684f225a4e3dcf61fec000f6bd1dfcd",
+    "timestamp": "2022-04-26T03:17:33.000Z",
+    "price": 0.99
+  },
+  {
+    "itemId": "9e0529417321bfce2096668eb0285f63b05ecfebbbbdf01d8b0c501ed041c254",
+    "timestamp": "2022-04-26T15:57:58.000Z",
+    "price": 0.4
+  },
+  {
+    "itemId": "df1d8ad2ccda9fdbfe7d61f71286e32ca1ff01258e797a9befdf06a1cb759e1a",
+    "timestamp": "2022-04-26T17:36:52.000Z",
+    "price": 2
+  },
+  {
+    "itemId": "714fc5e7027208b51c964246e37eff41f1483caca96b9507fd197172e1a55d43",
+    "timestamp": "2022-04-26T17:38:57.000Z",
+    "price": 0.6
+  },
+  {
+    "itemId": "b72de9c7d8a0cbd0a8a20858c5a9f3e409ff3aa4fb42da15507c1b336f8684b7",
+    "timestamp": "2022-04-26T18:41:33.000Z",
+    "price": 0.5
+  },
+  {
+    "itemId": "0ab361756b9103fb79c1c2831f350a1825f8332071c93ee7607441fd1b87173f",
+    "timestamp": "2022-04-26T20:03:25.000Z",
+    "price": 0.5
+  },
+  {
+    "itemId": "ff38e246c4012c3b670ac9b6b429d10ba8345627373d95bd781354915512a6a9",
+    "timestamp": "2022-04-27T01:18:57.000Z",
+    "price": 0.5
+  },
+  {
+    "itemId": "c2598a90fd963213961b4567d155a08ad69d4c2e54bfb14b90803505b6efa440",
+    "timestamp": "2022-04-27T01:38:17.000Z",
+    "price": 0.5
+  },
+  {
+    "itemId": "1426556e6bf9c59512e3be3efc92ebecb0751e979ca176be598c310c7ae319d3",
+    "timestamp": "2022-04-27T08:03:49.000Z",
+    "price": 0.666
+  },
+  {
+    "itemId": "95378b13fbe908bb4d6673f5ac19f8ee497fd293ee81252bb3e3e3ad1a991989",
+    "timestamp": "2022-04-27T08:34:46.000Z",
+    "price": 0.94
+  },
+  {
+    "itemId": "82db237028b5baa4c421775aedf5499f8d3f3efae51b2128670e17573b5599b7",
+    "timestamp": "2022-04-27T12:21:49.000Z",
+    "price": 0.7
+  },
+  {
+    "itemId": "032fef3589b568ba382eb1e83c16d5afc19236a205707d91c69e0a6ba981d611",
+    "timestamp": "2022-04-27T12:27:11.000Z",
+    "price": 0.7
+  },
+  {
+    "itemId": "73ef5afa4cebd8871be867454bf054f7d0a5d58d00242d1baa12fcf65f2d0ec3",
+    "timestamp": "2022-04-27T14:28:52.000Z",
+    "price": 0.408
+  },
+  {
+    "itemId": "c1b7ed9c7bbc9a24ce9ca0eaab52c8d86e0945cad07d4b16d20e0e10f8ec72db",
+    "timestamp": "2022-04-27T16:52:07.000Z",
+    "price": 0.89
+  },
+  {
+    "itemId": "d7238740657589a6f8e0fc497d297666a90e7169ecaa1f344eb921eca41083ca",
+    "timestamp": "2022-04-27T17:51:59.000Z",
+    "price": 0.55
+  },
+  {
+    "itemId": "6f4685c89d0f37bf06d208dc2cb7e920a40c1d8048b8d3cc9cee549cab63a29f",
+    "timestamp": "2022-04-27T17:56:48.000Z",
+    "price": 0.496
+  },
+  {
+    "itemId": "1732ee4e135e7a998ca6ca9fec6761e4b2a13a3325c87b8131030c27572de4df",
+    "timestamp": "2022-04-27T18:11:55.000Z",
+    "price": 0.55
+  },
+  {
+    "itemId": "da596f6a25ca15821c59367e9fe49f38a51735e36bf2b6890a84967af193bbce",
+    "timestamp": "2022-04-27T21:09:46.000Z",
+    "price": 0.493
+  },
+  {
+    "itemId": "5701b9e2fcef97b757be38da1147b5278e193cd1525231f173faac247a28ac09",
+    "timestamp": "2022-04-27T22:24:42.000Z",
+    "price": 0.5
+  },
+  {
+    "itemId": "c7a9b4aa8e9fa07ecefa6d3ed86934eb299f6877c5696575719161c6ece8afbe",
+    "timestamp": "2022-04-28T01:12:18.000Z",
+    "price": 0.3396
+  },
+  {
+    "itemId": "92b73f0a6001f4279a85da313593725eae07e27a36f260a44c7b0ba11122f12a",
+    "timestamp": "2022-04-28T01:15:10.000Z",
+    "price": 0.3687
+  },
+  {
+    "itemId": "4a090a57508f5e8c25689679f49cce3f76713ab6a6d64b0fafbdc4cc277fb6ef",
+    "timestamp": "2022-04-28T01:16:09.000Z",
+    "price": 0.305
+  },
+  {
+    "itemId": "d57cc131eaf388d39e6584acd548d3118c926abf7a554cd06fc71848c3590f4c",
+    "timestamp": "2022-04-28T07:51:40.000Z",
+    "price": 0.549
+  },
+  {
+    "itemId": "468900461ace027b328aab5939bf93ceecab433717c982c4e54b5000c231b37b",
+    "timestamp": "2022-04-28T08:11:07.000Z",
+    "price": 0.5
+  },
+  {
+    "itemId": "7636e179611453f5123fd710be5b27732231d0f239f5bf2cc0d2aaea4604a86c",
+    "timestamp": "2022-04-28T08:35:54.000Z",
+    "price": 0.65
+  },
+  {
+    "itemId": "b1429da387104f2cbcf1477249535f1def2290996d2e89a8b0bea12264ff46c0",
+    "timestamp": "2022-04-28T18:24:25.000Z",
+    "price": 0.8
+  },
+  {
+    "itemId": "4350550076f30ba9439cecdc23598d5995e8aec3fc5920b2a37a535137b2b7f5",
+    "timestamp": "2022-04-28T23:32:23.000Z",
+    "price": 0.4359
+  },
+  {
+    "itemId": "90bff2d13aa9516b25b6b26a0c4a1fe1a541b10586f8caec08b06f56815e2329",
+    "timestamp": "2022-04-29T00:17:25.000Z",
+    "price": 0.4498
+  },
+  {
+    "itemId": "efa3ca72afbcb67ee2ee3c593b0ed28abb76d9d9c92c77124f61bb0a95668e79",
+    "timestamp": "2022-04-29T03:58:28.000Z",
+    "price": 0.99
+  },
+  {
+    "itemId": "3f8f39ab9a43bb01ca34b8ea2ea05b0dd1b0fcb3422a8a09f2767bb807a29e05",
+    "timestamp": "2022-04-29T05:27:24.000Z",
+    "price": 0.4368
+  },
+  {
+    "itemId": "111e317e6c0c4a44f7e2d3f935f5e4c626d2426d77e172908c0669909fdfd0ec",
+    "timestamp": "2022-04-29T07:30:33.000Z",
+    "price": 0.44
+  },
+  {
+    "itemId": "6882ca31d0ccccd64fbcc68b861a6006b7984b3a7fbdeb24f1834ffa97ce24d9",
+    "timestamp": "2022-04-29T09:48:35.000Z",
+    "price": 1
+  },
+  {
+    "itemId": "bef2ceeecc84523c4d86e431e6b937b124b0cd08f044e8f8a67c1c571f8e8f26",
+    "timestamp": "2022-04-29T10:05:26.000Z",
+    "price": 0.45
+  },
+  {
+    "itemId": "abf41c8a81fca84952c526f0812f73762c38e87a0f863dbf5b7d2565879922d9",
+    "timestamp": "2022-04-29T13:34:44.000Z",
+    "price": 0.5
+  },
+  {
+    "itemId": "fd9392ebc516fa462762f3e93b3283ed423d02c1bb57f08e8b7e64c7ca148e0e",
+    "timestamp": "2022-04-29T17:45:31.000Z",
+    "price": 0.5
+  },
+  {
+    "itemId": "06dbcefb5a549bf917d90b835d95874a60f8dfbecdb62d58979c37ab53ef13ac",
+    "timestamp": "2022-04-29T18:04:33.000Z",
+    "price": 0.55
+  },
+  {
+    "itemId": "2bf29e8a0890a49fed11d6a4b0c7a91d86ffd0b42a17cf178caa226c13969a13",
+    "timestamp": "2022-04-29T18:40:45.000Z",
+    "price": 0.45
+  },
+  {
+    "itemId": "fbb02501b0c5cad0828d15d7da10b9cd7dfec91f39dd45e1713835860d84df8c",
+    "timestamp": "2022-04-29T19:21:18.000Z",
+    "price": 0.45
+  },
+  {
+    "itemId": "093483083a901796126d143bf445b467480555d5fcb193b06c91e453ccad51d7",
+    "timestamp": "2022-04-29T19:28:36.000Z",
+    "price": 0.45
+  },
+  {
+    "itemId": "f82aa2f7c3395f83e787f50074057ae3df929a6892645e7509d6511f98906800",
+    "timestamp": "2022-04-29T20:28:32.000Z",
+    "price": 0.4
+  },
+  {
+    "itemId": "c378efb177ace6e6f0ad0f148c2fa5ba1155a35f2ec113000015b93d93e49724",
+    "timestamp": "2022-04-29T22:15:41.000Z",
+    "price": 0.5
+  },
+  {
+    "itemId": "82e5e11b0e73ae4ee0b69e7966ce612c75188c0b1319878abd7f0ff1dd133e52",
+    "timestamp": "2022-04-29T23:31:21.000Z",
+    "price": 0.7
+  },
+  {
+    "itemId": "eabe627dcbabc5a99affbdc186843742ae1bfb56d3653f80feefd51b68d80756",
+    "timestamp": "2022-04-30T01:19:27.000Z",
+    "price": 0.44
+  },
+  {
+    "itemId": "13f7a934bd2571059deb68102ff2fa1bcd50bd13017488c59e1688b113a94979",
+    "timestamp": "2022-04-30T02:47:19.000Z",
+    "price": 0.49
+  },
+  {
+    "itemId": "5e6ab545974cce28c858cd0d2b2c845b74a101800142147e703447600aa9432e",
+    "timestamp": "2022-04-30T03:04:56.000Z",
+    "price": 0.3493
+  },
+  {
+    "itemId": "6cc2c8aacb9327398eb4b5d2149ec2b825a546688cd53751f5da1efc29157bc3",
+    "timestamp": "2022-04-30T03:23:29.000Z",
+    "price": 0.55
+  },
+  {
+    "itemId": "43e7dea1ce65d8254a04d24832079fcf4c60ed1acdfeee4ab26e03ce0b6c8c27",
+    "timestamp": "2022-04-30T05:01:14.000Z",
+    "price": 0.449
+  },
+  {
+    "itemId": "b0f5a0eb150d558ba67109a2a255a6421e496b381da9a969d9b52cb7ddd2b709",
+    "timestamp": "2022-04-30T08:14:38.000Z",
+    "price": 0.4
+  },
+  {
+    "itemId": "75ca7504ed05a392e63a0b86149ac50390ddd45c281952f64ee8501a4517d9a8",
+    "timestamp": "2022-04-30T08:44:28.000Z",
+    "price": 0.469
+  },
+  {
+    "itemId": "9cbf5cf4168a71db44295bda4614b978f7032ca5ba584c9a923bf7061196ea4f",
+    "timestamp": "2022-04-30T20:35:51.000Z",
+    "price": 0.46
+  },
+  {
+    "itemId": "60affc124c1e014fe3d31da402a591e11da43eb34ab012d1c3781de7030743e5",
+    "timestamp": "2022-04-30T21:01:11.000Z",
+    "price": 0.5
+  },
+  {
+    "itemId": "812a1a5a2fe9a11bde34dfb0820c4c5c86040e5d37ce986a48d1309d75981943",
+    "timestamp": "2022-04-30T21:09:53.000Z",
+    "price": 0.45
+  },
+  {
+    "itemId": "4b4ecc78f5a48211321e0aa01f632d5f8781c608c5dbf6d5903919e6b5cec01d",
+    "timestamp": "2022-04-30T21:55:54.000Z",
+    "price": 0.3349
+  },
+  {
+    "itemId": "47538a81752f0309d8305154c3c5c334b83688649008e4b2046df0ad8d078f34",
+    "timestamp": "2022-05-01T07:00:06.000Z",
+    "price": 0.499
+  },
+  {
+    "itemId": "a3b95628ffab14cd7f69372ebc1485ecd08be66db8a04197068712d7d93a7f1d",
+    "timestamp": "2022-05-01T09:58:13.000Z",
+    "price": 0.59
+  },
+  {
+    "itemId": "0548a2f9d6e54a9ab828df83f5989d462aebf7a6bf358e4e7ee71c66e96cf7d0",
+    "timestamp": "2022-05-01T11:37:16.000Z",
+    "price": 0.6
+  },
+  {
+    "itemId": "8521cf1dfa208eab2be2aec46e7eb45e98b798e8cff06841f378ca679cdcfdbc",
+    "timestamp": "2022-05-01T12:15:38.000Z",
+    "price": 0.55
+  },
+  {
+    "itemId": "c48d4d751148a891c1f546b61c697d56505f570267ef360e1c5aba5c8ce165d7",
+    "timestamp": "2022-05-01T13:46:38.000Z",
+    "price": 0.49
+  },
+  {
+    "itemId": "f33246b7ca00781c7bbab985da3e19fc48890ba41a17ed2603809c7d3d0f3ee5",
+    "timestamp": "2022-05-01T13:46:38.000Z",
+    "price": 0.5
+  },
+  {
+    "itemId": "5603342f3eae4f56f04fe5314d2ff97469b1af74424b5ae403d28398e2d7947e",
+    "timestamp": "2022-05-01T13:46:38.000Z",
+    "price": 0.45
+  },
+  {
+    "itemId": "165eaa99b4069ae68f7679d7bb9cec12ae82caf8e9a6485f27e2845a3e595dbf",
+    "timestamp": "2022-05-01T14:31:31.000Z",
+    "price": 0.449
+  },
+  {
+    "itemId": "d046fdf10b64114a35d29ddef878c27b9495c6b15fb24ed33eafbc7b6ccb0174",
+    "timestamp": "2022-05-02T12:12:56.000Z",
+    "price": 0.69
+  },
+  {
+    "itemId": "d900b59cf0068f71e2dbb06aa44f06321795f9127e5e7c8b4c6cf574a4ea3d63",
+    "timestamp": "2022-05-02T14:57:00.000Z",
+    "price": 0.6
+  },
+  {
+    "itemId": "3faf402431eb043e64503322fe6e7f4e2d929e497b913c673b8a268d496844ea",
+    "timestamp": "2022-05-02T20:13:25.000Z",
+    "price": 0.48
+  },
+  {
+    "itemId": "e736f8ef7c122e3f9b288a592b96cf1ab735abb9f395166a2ec93b2fee18e653",
+    "timestamp": "2022-05-02T21:07:14.000Z",
+    "price": 0.9
+  },
+  {
+    "itemId": "76df76c1348fa7c71cefc6a3d6bb3f8f6ca3dbee90a280474d6cb61f7190562d",
+    "timestamp": "2022-05-02T21:42:54.000Z",
+    "price": 0.6
+  },
+  {
+    "itemId": "5bcf432939181af48997dea815beea2810e89907314b933d1533176e28ea4f3a",
+    "timestamp": "2022-05-02T21:51:00.000Z",
+    "price": 0.489
+  },
+  {
+    "itemId": "c57994d90c671a75e59295bee94ed376e6a26d350e4f100f2c03bbaf3736e513",
+    "timestamp": "2022-05-03T02:29:42.000Z",
+    "price": 0.595
+  },
+  {
+    "itemId": "a176bb18689fd9115aba8e40404daceae577c32a6ebf563c6beae9eac664ceee",
+    "timestamp": "2022-05-03T06:21:52.000Z",
+    "price": 0.5
+  },
+  {
+    "itemId": "7018ac457f7798494cfde9f0d564080ce60e9e697bf9907ccf92ee7448b80825",
+    "timestamp": "2022-05-03T14:08:48.000Z",
+    "price": 0.4
+  },
+  {
+    "itemId": "78f429505e5f01010d02b45e665c53fb9d36f4b19bf2c2440410b7702e52427e",
+    "timestamp": "2022-05-03T15:20:08.000Z",
+    "price": 0.5
+  },
+  {
+    "itemId": "e16935390c0d887dfda8db678069baf79055855dc097d1c587ee944f4378fd68",
+    "timestamp": "2022-05-03T15:53:28.000Z",
+    "price": 0.49
+  },
+  {
+    "itemId": "ea653013632b0b8646297bdf936198bf54f02565790bd0062262398126514d48",
+    "timestamp": "2022-05-03T17:17:13.000Z",
+    "price": 0.6
+  },
+  {
+    "itemId": "8a09654fc3e2b9626b65827427c176871a36f1a07b7d45eb1ba68e46f7b36a33",
+    "timestamp": "2022-05-03T19:34:10.000Z",
+    "price": 0.595
+  },
+  {
+    "itemId": "0abd3fc4edafc4e6852e8d9b8f178db2a7ee5dcd1f27eeda4b70f4aa6b1e3c8a",
+    "timestamp": "2022-05-03T19:56:54.000Z",
+    "price": 0.383
+  },
+  {
+    "itemId": "651c8d872fe26deec8b57657c5eae939a789b096fd09bab8956011a5f1e3f3a4",
+    "timestamp": "2022-05-03T22:52:19.000Z",
+    "price": 0.5
+  },
+  {
+    "itemId": "def92772caf900768e34935f98ae565e94d2f0238680c719e52fda6f7f72017f",
+    "timestamp": "2022-05-04T02:20:39.000Z",
+    "price": 0.65
+  },
+  {
+    "itemId": "2a0d760c64128284ca504c72081af8c8fd946c1c62112f2be7fdd8cf46ce8bd8",
+    "timestamp": "2022-05-04T03:20:49.000Z",
+    "price": 0.49
+  },
+  {
+    "itemId": "e2ad83a0832ab925e2a81a3681427a94b52e5fead0d9a388847bc2c2a02f8858",
+    "timestamp": "2022-05-04T06:31:52.000Z",
+    "price": 0.85
+  },
+  {
+    "itemId": "0c2cbfc5ec0a97c8fe0ae51ba9ee3f7ffd6a57895521a3c7b3991d75c4adb2d3",
+    "timestamp": "2022-05-04T10:12:31.000Z",
+    "price": 0.495
+  },
+  {
+    "itemId": "cb597a685eeefe81806feead0eea380d8801826988045bd5ba9e9dab508f9068",
+    "timestamp": "2022-05-04T12:47:00.000Z",
+    "price": 0.85
+  },
+  {
+    "itemId": "4459c540af74489f223cb6a322ab99245131c9c052de32ad5d94099ab32bb354",
+    "timestamp": "2022-05-04T14:27:46.000Z",
+    "price": 0.91
+  },
+  {
+    "itemId": "608fda4457705ef4a273390f5aec95f44a098d4d8e75bb82848add4eee337b45",
+    "timestamp": "2022-05-04T22:21:07.000Z",
+    "price": 0.493
+  },
+  {
+    "itemId": "1fb3f14caa7cfc1dbe702847fa0233f1d4a816d7ca5894cd4cd8e3ccf689d518",
+    "timestamp": "2022-05-04T23:15:35.000Z",
+    "price": 0.55
+  },
+  {
+    "itemId": "5dd879383ba78d00cf72b7d84c528345d98754c7b3530cbee6e83e3a84ec1d5b",
+    "timestamp": "2022-05-05T00:27:11.000Z",
+    "price": 0.7795
+  },
+  {
+    "itemId": "aa7d9ef131c89a90093e59430b55fa8ac462a36dfb52b03ae2a7c7f01741df26",
+    "timestamp": "2022-05-05T11:01:53.000Z",
+    "price": 0.45
+  },
+  {
+    "itemId": "f475e362b8fd3b01f762059e119436014438a6983c5bdf722465a9ea92246895",
+    "timestamp": "2022-05-05T13:30:18.000Z",
+    "price": 0.6
+  },
+  {
+    "itemId": "1ed6a97d27534b665e0ef41b75d1e5fe3b2a56575ef3efff438878c6eaeb3fab",
+    "timestamp": "2022-05-05T15:19:39.000Z",
+    "price": 0.55
+  },
+  {
+    "itemId": "038ab47841d7bb729bd96e1658ecd534a4cd888eb19095ea542cbadf11bf84b2",
+    "timestamp": "2022-05-05T19:56:25.000Z",
+    "price": 0.7
+  },
+  {
+    "itemId": "a60d603f1741e7e76c823c1fa5e3ae43f5f8edc1c3d62840f80fbc1ba07feb7e",
+    "timestamp": "2022-05-05T21:05:08.000Z",
+    "price": 0.4
+  },
+  {
+    "itemId": "c8214a63be574cf6007ae2a0d17c7296abe99ecb6e11f0e0b3dca77c4177507a",
+    "timestamp": "2022-05-05T21:24:29.000Z",
+    "price": 0.4
+  },
+  {
+    "itemId": "af2287ee6d96c37667e402e9cf7fbe4aed2b1818f60c75f994dd25983b1bccf0",
+    "timestamp": "2022-05-06T01:09:49.000Z",
+    "price": 0.5
+  },
+  {
+    "itemId": "0cedbf7af444d9830c706aa70a5e3346da0968cfbddf80d851e2715bdad87c9b",
+    "timestamp": "2022-05-06T01:10:44.000Z",
+    "price": 0.5
+  },
+  {
+    "itemId": "645b757b5f9de635badb2a43c273697b0013a9a40b97506c0ec8af471c5fe752",
+    "timestamp": "2022-05-06T01:53:49.000Z",
+    "price": 0.38
+  },
+  {
+    "itemId": "cc100006a92a49fa6ee22712fb60d5e60da7880e6c282c66b17beb9e5cbd6bf2",
+    "timestamp": "2022-05-06T03:08:58.000Z",
+    "price": 0.595
+  },
+  {
+    "itemId": "c0d0598a524aed3066e076ab0169a3deb80d29353ab087752134c8f69c6a857b",
+    "timestamp": "2022-05-06T14:29:00.000Z",
+    "price": 0.597
+  },
+  {
+    "itemId": "e48ee5ed719a9c2a41fc4e1028d54102c1de6eaff8e33799c8f585364263d50b",
+    "timestamp": "2022-05-06T18:48:55.000Z",
+    "price": 0.44
+  },
+  {
+    "itemId": "e6994196d4cf6bc8d7cbc2be183570c26d698f7419d15d6d48b3671922a16c09",
+    "timestamp": "2022-05-06T19:10:55.000Z",
+    "price": 0.45
+  },
+  {
+    "itemId": "07d7dde4e55d1d00a66513e28898648ccc0c07cc1c3c0acd93133c674bfe9393",
+    "timestamp": "2022-05-07T00:19:45.000Z",
+    "price": 0.47
+  },
+  {
+    "itemId": "042192d5e3df243ef647a7bf728f5efd7367cfd4b51c83125c63a2625c5e56b9",
+    "timestamp": "2022-05-07T01:24:31.000Z",
+    "price": 0.8
+  },
+  {
+    "itemId": "faccd6dc567396437d5a986a68b4deb3c79e285908f2da61bbc6c36a626e7105",
+    "timestamp": "2022-05-07T03:09:22.000Z",
+    "price": 0.7
+  },
+  {
+    "itemId": "a3cb36401e12221d97f43072f57242df5b5f448de530d058f5fbcf22cbc189ef",
+    "timestamp": "2022-05-07T05:31:32.000Z",
+    "price": 0.69
+  },
+  {
+    "itemId": "d204d1bde37fa42a63842c9c739e8ddf02b3f453e1362176346d5eb23410b08e",
+    "timestamp": "2022-05-07T05:45:48.000Z",
+    "price": 0.52
+  },
+  {
+    "itemId": "fe76884fcfac3fe1e52571ead88c89253fbc64bd16c8e38dedae36d84400a04f",
+    "timestamp": "2022-05-07T05:50:05.000Z",
+    "price": 0.5
+  },
+  {
+    "itemId": "60fa395e766ee5379c1789dbb1759f1fb8aba04733104b7bfb6fdb4239a39da0",
+    "timestamp": "2022-05-07T06:44:00.000Z",
+    "price": 0.6
+  },
+  {
+    "itemId": "b740cf9ac8d8a18f5d88ab1569aa3cb748f5b0c8f787d02ecf491eebcbf0ff20",
+    "timestamp": "2022-05-07T12:37:46.000Z",
+    "price": 0.89
+  },
+  {
+    "itemId": "400485217777a2e3bf8811447f2f2606bf1de67ed1beecc308bd68c1171ad3f0",
+    "timestamp": "2022-05-07T13:00:16.000Z",
+    "price": 0.567
+  },
+  {
+    "itemId": "1f70a731f37a5e54fe187ac27042866ef96255a75aff74144fa53cd2f1084740",
+    "timestamp": "2022-05-07T13:52:49.000Z",
+    "price": 0.75
+  },
+  {
+    "itemId": "c7dfe40917cddf5d474a816b0c16ab549a7329423efc2d0f09a439af9ef3df88",
+    "timestamp": "2022-05-07T13:53:14.000Z",
+    "price": 0.99
+  },
+  {
+    "itemId": "8e9b90d3ed1defdfa9b45193542d99ad058bce6768c76be834c000a5ff771642",
+    "timestamp": "2022-05-07T19:07:31.000Z",
+    "price": 0.749
+  },
+  {
+    "itemId": "7d0346a6e480d8404a78ebf09c92d48c9bf8601a12c67d80a881e18ad482ff17",
+    "timestamp": "2022-05-07T20:08:58.000Z",
+    "price": 1.5
+  },
+  {
+    "itemId": "d2d827f314bb7a0c2dcdb89c5d4e82e0216b71de62150e12e882eccb2a0de4b7",
+    "timestamp": "2022-05-07T20:25:52.000Z",
+    "price": 0.6333
+  },
+  {
+    "itemId": "c5dc0aa09496852430731ea6d13aa5ad914ee2ab41ddd64bbb452ebaf3f87cb8",
+    "timestamp": "2022-05-08T05:40:59.000Z",
+    "price": 0.5
+  },
+  {
+    "itemId": "8758cc82c891c6e6b15b8aa034c391343f84aa58d404c1e01215a0f169b09807",
+    "timestamp": "2022-05-08T11:35:40.000Z",
+    "price": 1
+  },
+  {
+    "itemId": "a9c8c8eeff258801f79b405c116081a004dba48b92cd90016c7c7b6354dbf138",
+    "timestamp": "2022-05-08T15:19:42.000Z",
+    "price": 0.44
+  },
+  {
+    "itemId": "d2045417397a853541f6ba951b0d8191fb6b190f7baecb0e688d32ac0a6bf709",
+    "timestamp": "2022-05-08T15:36:25.000Z",
+    "price": 0.7
+  },
+  {
+    "itemId": "3ffe38466a5c7c8dfda5085c2144e8698aa74480fa3c29ce2b1893c9c8e42043",
+    "timestamp": "2022-05-08T18:00:53.000Z",
+    "price": 0.587
+  },
+  {
+    "itemId": "840fb60ac20bfa051ab074d4e060df4e286db8eba4031230f4b2b463bdfe4152",
+    "timestamp": "2022-05-09T01:15:58.000Z",
+    "price": 0.5
+  },
+  {
+    "itemId": "9768e9bb7a127a5511e334cd94d97cfcf573e49dbb3e6dae23cf98d0d9bdcd83",
+    "timestamp": "2022-05-09T01:59:59.000Z",
+    "price": 0.5
+  },
+  {
+    "itemId": "4b03aa552a3c691e21a35655f7e7c823ddca0f6d69ed96b3e74c82942698d864",
+    "timestamp": "2022-05-09T01:59:59.000Z",
+    "price": 0.45
+  },
+  {
+    "itemId": "ef9c17c07fa3bd24f98da24cc786a705525b3fe029076558fa91ffb6925cf7f7",
+    "timestamp": "2022-05-09T02:57:26.000Z",
+    "price": 0.44
+  },
+  {
+    "itemId": "0aa02e384e2af966fa09c056d01c292dbc220d361cce737010137371d4b132be",
+    "timestamp": "2022-05-09T04:00:00.000Z",
+    "price": 2.5
+  },
+  {
+    "itemId": "5f774faca39b818759f2802dcdc2077a7c414620949e80fd7ee962a7d2ea9993",
+    "timestamp": "2022-05-09T04:24:27.000Z",
+    "price": 0.5
+  },
+  {
+    "itemId": "5413b0f9f867322f7ebbf8774f65b1f75511df081bd4e493a045f3f9b65c1522",
+    "timestamp": "2022-05-09T06:13:44.000Z",
+    "price": 0.5
+  },
+  {
+    "itemId": "daaa9137f5802eb7fbb91e13709b069ac7be7fd608e853ca2ffc5bf1d3fb503d",
+    "timestamp": "2022-05-09T10:23:03.000Z",
+    "price": 0.49
+  },
+  {
+    "itemId": "5454a6316237434f34295e9c4d49fec8b48348962cfba979c0f6961b66972bdd",
+    "timestamp": "2022-05-09T12:25:02.000Z",
+    "price": 0.43
+  },
+  {
+    "itemId": "a279dfecad80613db53aac31c14488b4c8cc18a0cb9ab424ea3047b62fff4b44",
+    "timestamp": "2022-05-09T13:27:35.000Z",
+    "price": 0.45
+  },
+  {
+    "itemId": "f6f5beeb2a6f150c702ff14b9057ae62ad8a853cde948a6988374e19906b3da8",
+    "timestamp": "2022-05-09T14:16:41.000Z",
+    "price": 0.59
+  },
+  {
+    "itemId": "8112f00aeffa1cb41d52e77f98ec79a198d62d65e4313f7f70c2eab460074f10",
+    "timestamp": "2022-05-09T15:37:58.000Z",
+    "price": 0.43
+  },
+  {
+    "itemId": "82107fadf056e0561ee04849bcabeb64479723205cedd221423be15a5f3b675f",
+    "timestamp": "2022-05-09T19:58:56.000Z",
+    "price": 0.4501
+  },
+  {
+    "itemId": "50bb6354a8652901de6024f34e12997c432c0975a609adae0c3f67b742f959de",
+    "timestamp": "2022-05-09T21:06:40.000Z",
+    "price": 0.5
+  },
+  {
+    "itemId": "1f99037ccc3c317b5ed905e55df883a9b7791778f45a9ddae68f329303e5e98e",
+    "timestamp": "2022-05-09T21:22:35.000Z",
+    "price": 0.3064
+  },
+  {
+    "itemId": "5f6502c8fef0ef82ec4df87d9ca4f4dca977503fb117b398fd1e6213e2eddc1b",
+    "timestamp": "2022-05-09T22:44:59.000Z",
+    "price": 0.45
+  },
+  {
+    "itemId": "269e218d5d31ea386ee21cff1d51ced60371155c277ca64a16aab40c62cd76e0",
+    "timestamp": "2022-05-09T23:04:28.000Z",
+    "price": 0.69
+  },
+  {
+    "itemId": "25e6f3e005863a76290e2d3c08d76aa721dd0df6e7c485786812cbfaafa63ab6",
+    "timestamp": "2022-05-10T01:45:05.000Z",
+    "price": 0.379
+  },
+  {
+    "itemId": "50e452c98ccc77314bdf74e65f323d11212fa621847d47f4d1db8525c17f12f2",
+    "timestamp": "2022-05-10T03:52:03.000Z",
+    "price": 0.35
+  },
+  {
+    "itemId": "df7077d2ed7512dd0112102d44eeabd5688b5b1df4a893630a459b457f2de9e8",
+    "timestamp": "2022-05-10T04:13:17.000Z",
+    "price": 0.5
+  },
+  {
+    "itemId": "019d192d608f5ec52f76739b03000946e8ab5220654c3854774de9e1fb63d3f4",
+    "timestamp": "2022-05-10T05:45:53.000Z",
+    "price": 0.32
+  },
+  {
+    "itemId": "1a01df3e47e6e1d3d21fac384a830d74ae0cde530afb9152c5fc463e788d6d4b",
+    "timestamp": "2022-05-10T05:45:53.000Z",
+    "price": 0.32
+  },
+  {
+    "itemId": "3d35085313650f089f0a10f8e8d9a90905d667e6e74321b21b33f3e01df29fd6",
+    "timestamp": "2022-05-10T06:07:28.000Z",
+    "price": 0.38
+  },
+  {
+    "itemId": "a09169e745d9170a8d43a4753f0e564fffde7276f2f0775732d1af631446522d",
+    "timestamp": "2022-05-10T08:42:29.000Z",
+    "price": 0.5
+  },
+  {
+    "itemId": "dec168b84a717b40b63694a2899b8b2cb3270628aef4b851e95270fe0f5ac922",
+    "timestamp": "2022-05-10T09:43:54.000Z",
+    "price": 0.369
+  },
+  {
+    "itemId": "c4d2dd6e6b08b1a99a96e25dc71c16913ab8e757743ab60ad74fdcf4ba95af5b",
+    "timestamp": "2022-05-10T09:43:54.000Z",
+    "price": 0.387
+  },
+  {
+    "itemId": "56ff57fdfe6c78f57d1d70694ebd5201d9c4878b9599674b237871e91e573474",
+    "timestamp": "2022-05-10T09:43:54.000Z",
+    "price": 0.37
+  },
+  {
+    "itemId": "ba3cb971e2691ebd841539b2de0f59ded195aa5503c01601610ce776f7a2113d",
+    "timestamp": "2022-05-10T14:19:25.000Z",
+    "price": 0.34
+  },
+  {
+    "itemId": "ed70cbc97944e0845cdb08e764fe691e6d37666a2343babd6305444a475b465c",
+    "timestamp": "2022-05-10T14:39:23.000Z",
+    "price": 0.55
+  },
+  {
+    "itemId": "7a04e60ff7465d323f1b43a848cde1d63684b5d9515fb8e98cd1f663d559f024",
+    "timestamp": "2022-05-10T14:44:31.000Z",
+    "price": 0.68
+  },
+  {
+    "itemId": "445f70636566d0ae3c218ad8077bb0ac2ef5844a3e23cce96d318c8c05cc31a1",
+    "timestamp": "2022-05-10T14:46:28.000Z",
+    "price": 0.35
+  },
+  {
+    "itemId": "62b952929b1b2ab1b5806d0ed27fc7b388f764461003745b77e1e49dcf4c03e3",
+    "timestamp": "2022-05-10T16:02:18.000Z",
+    "price": 0.48
+  },
+  {
+    "itemId": "2f0a35434f6dba7274cfe13340db0c373571d90efdcdd05251e79e26ffe62920",
+    "timestamp": "2022-05-10T16:33:21.000Z",
+    "price": 0.33
+  },
+  {
+    "itemId": "a0deb6174a2c83adec9728c742955eb0c75ec20e87a181b2cee390cde8486b5b",
+    "timestamp": "2022-05-10T17:05:15.000Z",
+    "price": 0.45
+  },
+  {
+    "itemId": "14f17fe449ad617c74abe4a834423c1c1ee8f002f774f7373462f2de46e78a37",
+    "timestamp": "2022-05-10T17:57:10.000Z",
+    "price": 0.42
+  },
+  {
+    "itemId": "5a5a47b058fd5d24262228b4b9eaeeac8801cd6b44eaf308d132ac3faf00422f",
+    "timestamp": "2022-05-10T18:06:36.000Z",
+    "price": 0.5
+  },
+  {
+    "itemId": "2e69002dc5a6651d42d640da951f60a84b7631ee7c12b4eee25943de299273d0",
+    "timestamp": "2022-05-10T22:48:52.000Z",
+    "price": 0.45
+  },
+  {
+    "itemId": "b76ca139ae586307de0d964814e8030c7aca13d41434cb0bff6d8f64c0b0bb06",
+    "timestamp": "2022-05-10T22:54:23.000Z",
+    "price": 0.4
+  },
+  {
+    "itemId": "b3fcf041ffaf80f5096d6291ca4ce1df7456dc850bd7257316fd052b8ceecebb",
+    "timestamp": "2022-05-11T10:22:17.000Z",
+    "price": 0.41
+  },
+  {
+    "itemId": "65d59bf342fb11b82b5997d0b3e5fe79e2da5444e91b118969d65934f2ee77be",
+    "timestamp": "2022-05-11T12:42:52.000Z",
+    "price": 0.42
+  },
+  {
+    "itemId": "08069df4ce9793caed7a2d6f62b322e7b57e9a48d88667bd9c724eb5e1379006",
+    "timestamp": "2022-05-11T15:50:23.000Z",
+    "price": 0.37
+  },
+  {
+    "itemId": "fc8030eb62e9519ebd1c0c134fb78794e503a035c7a7ad30648eb30f56697e85",
+    "timestamp": "2022-05-11T16:25:19.000Z",
+    "price": 0.374
+  },
+  {
+    "itemId": "8e3d5635ab6764c6c955d06d0b76279f4515cc27c6e995ea0e9880b4959ea2b1",
+    "timestamp": "2022-05-11T16:57:06.000Z",
+    "price": 0.399
+  },
+  {
+    "itemId": "8e18f29dbb604c3917af1ddb23e3948e8b5e1160e7273389ae43a8dcdb28f269",
+    "timestamp": "2022-05-11T23:29:12.000Z",
+    "price": 0.35
+  },
+  {
+    "itemId": "e8e89a5f78c19da96abae78171195645e24cc2a877d91b015830caa4c2fc9260",
+    "timestamp": "2022-05-11T23:44:24.000Z",
+    "price": 0.44
+  },
+  {
+    "itemId": "f18304688b0f1602313286778ca01b237351b0175db4edd1d397a0c72825a152",
+    "timestamp": "2022-05-12T01:53:35.000Z",
+    "price": 0.45
+  },
+  {
+    "itemId": "bb951da49f995fda64be01a1b87ead5145c8d760e57b1ca868ef10c30359e613",
+    "timestamp": "2022-05-12T04:40:34.000Z",
+    "price": 0.2
+  },
+  {
+    "itemId": "d3a8c7dff3a148f87788aba67576d72a0f7dabd29bbc88239b552b1efb61cbc8",
+    "timestamp": "2022-05-12T04:40:34.000Z",
+    "price": 0.2
+  },
+  {
+    "itemId": "ba273ccb021e054db3f2ad1718f6851796c4e8b05d6086e55b09be544e98a110",
+    "timestamp": "2022-05-12T10:39:19.000Z",
+    "price": 0.35
+  },
+  {
+    "itemId": "83e34e844348610b8fa91ee9c189518e351575a9d65e5d2dc8a8db84fdd3ed33",
+    "timestamp": "2022-05-12T18:45:14.000Z",
+    "price": 0.25
+  },
+  {
+    "itemId": "c3d911a03373f2c059e726481cda82d8cd12e6ad4b0bcd3284322db14b8a9361",
+    "timestamp": "2022-05-12T18:45:29.000Z",
+    "price": 0.25
+  },
+  {
+    "itemId": "a232d38aa8013ac09d1ddef372a4da81b9fccfe53e9ceb314e1b7ece324f3af6",
+    "timestamp": "2022-05-12T22:51:00.000Z",
+    "price": 0.4
+  },
+  {
+    "itemId": "ffdc58b4be0277d7cd5a98dbbb98b094c6ae6af9f4a31f451e2e753f9a90ab28",
+    "timestamp": "2022-05-12T23:29:59.000Z",
+    "price": 0.339
+  },
+  {
+    "itemId": "5afd56bba224b6df76e0a07440f74d62ecdf79b91a8017f11f5b49fabcdd46a9",
+    "timestamp": "2022-05-13T00:22:57.000Z",
+    "price": 0.51
+  },
+  {
+    "itemId": "2b5cb955ddac543b3690d2d5e5fa0d88c89ab399689a0c74db4ca85a25740ddf",
+    "timestamp": "2022-05-13T04:33:10.000Z",
+    "price": 0.41
+  },
+  {
+    "itemId": "25b856be7354c4d3a5f36fe76a6e75a7eea44c632ac7fb4e11d27d55c80c3d7c",
+    "timestamp": "2022-05-13T04:43:13.000Z",
+    "price": 0.439
+  },
+  {
+    "itemId": "17c6ef6242b5f2aefdfe9f3dc167adff37a8c63fe67b64989342895c828415c2",
+    "timestamp": "2022-05-13T06:12:15.000Z",
+    "price": 0.5
+  },
+  {
+    "itemId": "ee7f03e78a0a23044ea824f017a5bf06ee68f7cb942a86cbf77d1bba59a1b3f2",
+    "timestamp": "2022-05-13T09:38:46.000Z",
+    "price": 0.44
+  },
+  {
+    "itemId": "624a3886791bc875f12c2fd5a697bdc3b5a16a5a089d1382239eb1f4373cb67d",
+    "timestamp": "2022-05-13T13:55:08.000Z",
+    "price": 0.34
+  },
+  {
+    "itemId": "46416e9e4506fb1b2030298b2fd5d2922d4330e739d3b3fe49157f39b4719669",
+    "timestamp": "2022-05-13T14:09:32.000Z",
+    "price": 0.395
+  },
+  {
+    "itemId": "03a26cd47c5c1d2982ac26980ca23c8ec137099445d2f03353dfb5ccf450794b",
+    "timestamp": "2022-05-13T14:59:38.000Z",
+    "price": 0.3
+  },
+  {
+    "itemId": "aa0c07d5eba778d7153a53e57c40ba50bb35d5385331e6aca38d1ddb36170966",
+    "timestamp": "2022-05-13T15:49:13.000Z",
+    "price": 0.49
+  },
+  {
+    "itemId": "de05a1e0a87a41a53b6fb6d0458df05dc7cf3f45d87dbd6e988eca393d699999",
+    "timestamp": "2022-05-13T16:31:10.000Z",
+    "price": 0.35
+  },
+  {
+    "itemId": "aaf8aea008c780b69b3e11b6bd2b23df9d6ca028c10277dbc576c19c8ef9137f",
+    "timestamp": "2022-05-13T20:05:18.000Z",
+    "price": 0.3
+  },
+  {
+    "itemId": "8a35b101affae0a49747b5ff34ca351e5c04e33bd5fe099587a60362fef795ef",
+    "timestamp": "2022-05-13T23:19:28.000Z",
+    "price": 0.595
+  },
+  {
+    "itemId": "635ec156742f2196c1d4d05148f87b56e41d23774c6c724734bee1051e7344bd",
+    "timestamp": "2022-05-14T04:01:44.000Z",
+    "price": 0.44
+  },
+  {
+    "itemId": "9688efd1c1a792860c17a2a7b9e163d0d9c6b8c8a9184f44a45f21c40eaadcc4",
+    "timestamp": "2022-05-14T04:28:02.000Z",
+    "price": 0.35
+  },
+  {
+    "itemId": "32969db83550b82f782b571a765d51ea84ad53d0ea35bcf15f29048627542d10",
+    "timestamp": "2022-05-14T05:41:39.000Z",
+    "price": 0.44
+  },
+  {
+    "itemId": "1f737093f6b86a00b0ef5af3d2b5c19fd977592c99944c7ebcbb4b9128499659",
+    "timestamp": "2022-05-14T05:56:59.000Z",
+    "price": 0.31
+  },
+  {
+    "itemId": "65c74b9388ded2f4cbe91ae81c49c3dca1f9853ef354d8f2e5d43f1097446b4e",
+    "timestamp": "2022-05-14T06:03:16.000Z",
+    "price": 0.319
+  },
+  {
+    "itemId": "0658f2225f83f41ec592e97babe4b944a75072d41841645eaaa3d109f19e5eb4",
+    "timestamp": "2022-05-14T06:04:37.000Z",
+    "price": 0.325
+  },
+  {
+    "itemId": "4454d92b6bd72e64a645d59b2e62cb2580f489dd45e6499e9f910c3b882a44cb",
+    "timestamp": "2022-05-14T06:05:32.000Z",
+    "price": 0.324
+  },
+  {
+    "itemId": "cbf3b1023e54dc90d94f09efc5059b12efe9ec8fc5d3caa7a85816db0ba0774f",
+    "timestamp": "2022-05-14T06:07:49.000Z",
+    "price": 0.385
+  },
+  {
+    "itemId": "8543e22e2773948c97202f69c7795604b59a8bad97bce6e6bdfd8c17bfdd6b59",
+    "timestamp": "2022-05-14T06:33:47.000Z",
+    "price": 0.5
+  },
+  {
+    "itemId": "b6a5f5e6b33e996f63606a1f4b1ad4335e5f4b3c2bfafeddb17f2d2056f5bd17",
+    "timestamp": "2022-05-14T06:34:25.000Z",
+    "price": 0.5
+  },
+  {
+    "itemId": "b9cbc207de25542b03829b9c905c7c847c1315958e8b1b3342e5d08ceac4a63c",
+    "timestamp": "2022-05-14T06:35:37.000Z",
+    "price": 0.55
+  },
+  {
+    "itemId": "c7e40639ad6a3e63b1b10d1e1110b87ff398b67bc8da5100f53b801b89d191e8",
+    "timestamp": "2022-05-14T06:46:15.000Z",
+    "price": 0.45
+  },
+  {
+    "itemId": "fcae00460517b7bd65f19377918f4c30486e1700cce077365ab99b471a499102",
+    "timestamp": "2022-05-14T06:46:15.000Z",
+    "price": 0.45
+  },
+  {
+    "itemId": "c36090c04f7f54a536db28ef39973cc33912bc904758928bef774877c2961658",
+    "timestamp": "2022-05-14T06:46:15.000Z",
+    "price": 0.5
+  },
+  {
+    "itemId": "ad5606f04b105a091fab6e0d2e1e4052aa976b9be62625c403f6599448d0d31e",
+    "timestamp": "2022-05-14T07:25:38.000Z",
+    "price": 0.5
+  },
+  {
+    "itemId": "5934dd95dab52fe1dd8d62665cdfe9237f1e31253ac2bc68cf0165e42659b976",
+    "timestamp": "2022-05-14T10:46:08.000Z",
+    "price": 0.35
+  },
+  {
+    "itemId": "ade93a63e1132060286210de8c8017d6d2826b2b8972adc4205dcaa96bab28d9",
+    "timestamp": "2022-05-14T11:02:59.000Z",
+    "price": 0.4
+  },
+  {
+    "itemId": "b50b956bc0e9b6e6d79a4ea30b1fa8d6941d47d5f810d1e07eecb6872d13edad",
+    "timestamp": "2022-05-14T11:02:59.000Z",
+    "price": 0.42069
+  },
+  {
+    "itemId": "b717a656fd384a87d086e22ab32dc30a318c6b1eef3539212ec5231473f629eb",
+    "timestamp": "2022-05-14T14:28:01.000Z",
+    "price": 0.2703
+  },
+  {
+    "itemId": "000175bbdc668a76398b7da0af5068950433c9fbd12c218c4ff45f4cb9eadadf",
+    "timestamp": "2022-05-14T14:33:39.000Z",
+    "price": 0.7
+  },
+  {
+    "itemId": "eee162577e15870ac42ae51de281931ff61d93ab30ba986f3d6e35d130cef633",
+    "timestamp": "2022-05-14T16:25:30.000Z",
+    "price": 0.3998
+  },
+  {
+    "itemId": "1e5b4a233a55b4e12deeb44de36b2205012b8119a8f1501d4d25d00e6f32510b",
+    "timestamp": "2022-05-14T16:58:16.000Z",
+    "price": 0.5
+  },
+  {
+    "itemId": "9166e1bb9f35c041199ffe7f19dd28d123298921869d8948ca0fb668bb83eab1",
+    "timestamp": "2022-05-14T17:03:50.000Z",
+    "price": 0.48
+  },
+  {
+    "itemId": "f425fa1216f5cbed741f84d4eb6828bfe7ba30940fb281ed7fa91b8a0ff95ee0",
+    "timestamp": "2022-05-14T17:53:55.000Z",
+    "price": 0.49
+  },
+  {
+    "itemId": "ae927b7857ab91476efda23dcc603ab170bbe44b4815c4b8ac088728d3d80fef",
+    "timestamp": "2022-05-14T17:55:41.000Z",
+    "price": 0.6
+  },
+  {
+    "itemId": "b073f7a4398dd02ef7793313c00bf07596e1156006971fb9c10b9661e0ab283b",
+    "timestamp": "2022-05-14T17:56:36.000Z",
+    "price": 0.75
+  },
+  {
+    "itemId": "99f952da0acf52d13af1df18f9329667b84bc8a425c2c0a7ee06b95eb0fcd086",
+    "timestamp": "2022-05-14T20:28:44.000Z",
+    "price": 0.5
+  },
+  {
+    "itemId": "778c081d02ad7711249c89461f2858db6ac3c3676748622b1cb1aafb0e9bce35",
+    "timestamp": "2022-05-14T22:23:12.000Z",
+    "price": 0.425
+  },
+  {
+    "itemId": "d1cd968b7dbcb6092acfcf96c7ce4d41bc3902da6145fa8dc30b9afa7327e96e",
+    "timestamp": "2022-05-14T23:19:26.000Z",
+    "price": 0.01
+  },
+  {
+    "itemId": "5c08d155a4461c92cec014545b4a7773d3431434aad2bde15b80425dde5ec28f",
+    "timestamp": "2022-05-15T04:29:12.000Z",
+    "price": 0.38
+  },
+  {
+    "itemId": "406393c14d1e1dbd38a08378032819af546b8e9e34491f0687651b784e8adbf7",
+    "timestamp": "2022-05-15T14:15:26.000Z",
+    "price": 0.0591
+  },
+  {
+    "itemId": "7a70d131fcd736d9d3538acc173e1eec1938fad98f3ab88159ea9deff9699c1a",
+    "timestamp": "2022-05-15T14:35:11.000Z",
+    "price": 0.398
+  },
+  {
+    "itemId": "29fc913dd3e1e80cf5fbfd09584d7c2f6032a0ef33831b9e8148e9b266aa06d0",
+    "timestamp": "2022-05-15T14:45:10.000Z",
+    "price": 0.488
+  },
+  {
+    "itemId": "d12a00b0a1b1aee96f129fa57c973a5c295eec6a9a9717222015512271ecfcca",
+    "timestamp": "2022-05-15T16:22:31.000Z",
+    "price": 0.4
+  },
+  {
+    "itemId": "526ad77b73aee0bc0a5de327efafea913d0922b4c3855747c574c16fc5fe6b80",
+    "timestamp": "2022-05-15T16:50:49.000Z",
+    "price": 0.394
+  },
+  {
+    "itemId": "25d4bf0915f4b437e92e88fd5f87c3c5e29d16575d3ca0477297ddec72969dd3",
+    "timestamp": "2022-05-15T20:13:20.000Z",
+    "price": 0.41
+  },
+  {
+    "itemId": "f58a16e167fbaf0c94dc0f56d5aaa05c78434f97db241038b690718a99c05160",
+    "timestamp": "2022-05-15T20:29:44.000Z",
+    "price": 0.41
+  },
+  {
+    "itemId": "d0fffefd5e63b6df78d5c861a1b8abbbcf0ae64353f54d814cfc2929d65a6c50",
+    "timestamp": "2022-05-15T22:23:30.000Z",
+    "price": 0.45
+  },
+  {
+    "itemId": "30e25b9767b6ae02f6ee395ad0638003b2583394a083b3b2d5d026d3ffd9fd40",
+    "timestamp": "2022-05-16T00:54:26.000Z",
+    "price": 0.444
+  },
+  {
+    "itemId": "55b655dd5b32ecf570960c72a316d36453d209fdfc379ad473165f725fefcdc3",
+    "timestamp": "2022-05-16T01:00:01.000Z",
+    "price": 0.4
+  },
+  {
+    "itemId": "36299f14997b2c8b49a4b4a68972c115398a8450efbcdab80a9be640262b74ff",
+    "timestamp": "2022-05-16T01:33:48.000Z",
+    "price": 1
+  },
+  {
+    "itemId": "461cce5f6873866b56f2638aebea956ab6b9dbd9ea70bf72112edf81b6321a26",
+    "timestamp": "2022-05-16T04:38:50.000Z",
+    "price": 0.569
+  },
+  {
+    "itemId": "a53aa8664f69349f45bd303ca9cf4a49521ba1ca1c34770d413c00b7c3eb3ec6",
+    "timestamp": "2022-05-16T08:13:16.000Z",
+    "price": 0.2532
+  },
+  {
+    "itemId": "0272315d5d9ed42cee9e674d4a911d8543424e1a0ab0f526d917f0d075b627f7",
+    "timestamp": "2022-05-16T13:05:15.000Z",
+    "price": 0.493
+  },
+  {
+    "itemId": "0738a20eb7a9f0a2ae4d8f58a43895ea5b7e20819dc0b95af9e6d764bcaa81c8",
+    "timestamp": "2022-05-16T22:57:14.000Z",
+    "price": 0.545
+  },
+  {
+    "itemId": "e1700968c37be8858bfe73a41db04b505d5304091ee83f130698c170012274c3",
+    "timestamp": "2022-05-16T22:58:42.000Z",
+    "price": 0.4
+  },
+  {
+    "itemId": "0c2f50d251d7907e137b17f9a20cc641c446e3f7a8f8b22b71c726d96e23430e",
+    "timestamp": "2022-05-17T01:29:34.000Z",
+    "price": 0.4
+  },
+  {
+    "itemId": "5a7e1c5b8331654254a0ce0dfaf64e32c11109a94d5190b0aebc98be3dd712b6",
+    "timestamp": "2022-05-17T05:34:47.000Z",
+    "price": 0.4
+  },
+  {
+    "itemId": "6c8bb4dcf4b359a0dd130aef5e3fe446c17d27a4c5da3096feac5cc4871a1122",
+    "timestamp": "2022-05-17T08:31:31.000Z",
+    "price": 0.72
+  },
+  {
+    "itemId": "2842d9824982d892986f06feb4050933c592d8ae9297f5b181e7e2f6664b4b09",
+    "timestamp": "2022-05-17T08:49:41.000Z",
+    "price": 0.87
+  },
+  {
+    "itemId": "d831cb5f9fc0da5d3dff811023a21c60e222a07f92571c7affcc998708660c75",
+    "timestamp": "2022-05-17T11:59:14.000Z",
+    "price": 0.41
+  },
+  {
+    "itemId": "1ad2055af192b33d21d2272066d81c301a50a0c716577b476386cda6beb1b45b",
+    "timestamp": "2022-05-17T12:40:41.000Z",
+    "price": 0.58
+  },
+  {
+    "itemId": "bcc6632e2e1d00aba6998f263a043a74d38c7db0c9d78d198ca622828dabce11",
+    "timestamp": "2022-05-17T17:44:13.000Z",
+    "price": 0.52
+  },
+  {
+    "itemId": "a5cdc090bdfe339b7cd79e4ccf79080479f537a30a3cc2e0453218ea222dcfa0",
+    "timestamp": "2022-05-17T22:53:44.000Z",
+    "price": 0.45
+  },
+  {
+    "itemId": "f5a021d3da574a366700162c68446d6fd28151889cdd47d5a4918b5850bc0449",
+    "timestamp": "2022-05-18T02:05:42.000Z",
+    "price": 0.459
+  },
+  {
+    "itemId": "91125f35c9b3eacd370dc560711ec3de9e1accceef26b0e3d43fb884a740a16f",
+    "timestamp": "2022-05-18T15:34:39.000Z",
+    "price": 0.4
+  },
+  {
+    "itemId": "c4a478d83b5eae879afcfed142e59b2edb7fe1908946b63331a8616bb73522a3",
+    "timestamp": "2022-05-18T17:49:27.000Z",
+    "price": 0.45
+  },
+  {
+    "itemId": "ddc52175f6a02ffd122474ca671cb8a0371d4bbf6ed8c59ce0422e180333caa0",
+    "timestamp": "2022-05-18T19:13:19.000Z",
+    "price": 0.499
+  },
+  {
+    "itemId": "64c107dc0efb956e5c4aae2c102416a27cead9699e8b0c8bf45685350e55c7a3",
+    "timestamp": "2022-05-18T20:39:33.000Z",
+    "price": 0.5
+  },
+  {
+    "itemId": "5b1ce0b0b9c692fbb8586cee5cb21bd066c1ee89c64580b89d125b0f4b4bd89f",
+    "timestamp": "2022-05-19T03:04:51.000Z",
+    "price": 0.49
+  },
+  {
+    "itemId": "af92a01deac9bd08b0198d3ef08daa6619c936ebfe19b542bb6e331795046479",
+    "timestamp": "2022-05-19T03:12:24.000Z",
+    "price": 0.49
+  },
+  {
+    "itemId": "c92f74fc4a6588b3926b6868d28d598c4cf7eadfb368a81267b4d9acef79dd81",
+    "timestamp": "2022-05-19T05:11:46.000Z",
+    "price": 0.4
+  },
+  {
+    "itemId": "eef0879f0ce45fb533fc9e69b92798a72036f9f194af852f9812abd8771f4412",
+    "timestamp": "2022-05-19T05:21:06.000Z",
+    "price": 1.3
+  },
+  {
+    "itemId": "7083d1ac04469db0527fcf795366232c03a97014467a41c5041e8ff67f31d54f",
+    "timestamp": "2022-05-19T08:11:23.000Z",
+    "price": 0.49
+  },
+  {
+    "itemId": "557b5d21135be76864305884fc93f5eb94b47aae9ff57f1cfa4bb03685646653",
+    "timestamp": "2022-05-19T11:53:41.000Z",
+    "price": 0.88
+  },
+  {
+    "itemId": "22b4da9038dadb4e485b1bfc1fa1535cdcc4695ac1e8824aaca5c39732967534",
+    "timestamp": "2022-05-19T15:28:50.000Z",
+    "price": 0.369
+  },
+  {
+    "itemId": "13a8c0c6e88e293eb1eb1b47b8cb123accc89b488ed020c0997edb85e7906043",
+    "timestamp": "2022-05-20T03:23:12.000Z",
+    "price": 0.379
+  },
+  {
+    "itemId": "b23c781e7143fa49a1898d52a1b195e44c4420c78b3d46cd014b94bfe9879a07",
+    "timestamp": "2022-05-20T12:32:21.000Z",
+    "price": 0.2774
+  },
+  {
+    "itemId": "d28b12bd3dc3c489d585f98f3882afee7e317ced6dde8496eca54b64c4f88c10",
+    "timestamp": "2022-05-20T14:32:43.000Z",
+    "price": 0.2774
+  },
+  {
+    "itemId": "d9e94df4c8b5ec80302e0c9f2308b0a6d977d9cdb619aa9201298a093f1ded7b",
+    "timestamp": "2022-05-20T20:32:47.000Z",
+    "price": 0.5
+  },
+  {
+    "itemId": "d342f4c566117adcd18d47bca56ef00cf619707b643263a9324991218e5c4c0a",
+    "timestamp": "2022-05-21T01:52:27.000Z",
+    "price": 0.45
+  },
+  {
+    "itemId": "da34ae5aa5f0026ee3bbfeb18a49b34c9a9a2d3ef680868eb4cf5a940f7e03cf",
+    "timestamp": "2022-05-21T06:07:41.000Z",
+    "price": 0.175
+  },
+  {
+    "itemId": "4d2f54af2fb57c9fe50a4b7f970990b05f97e445fe7e29a22270b91a8dc066bd",
+    "timestamp": "2022-05-21T06:08:07.000Z",
+    "price": 0.175
+  },
+  {
+    "itemId": "7d20bde721bd7d591acba8dc662816404fe206df7e1233f41c3117d3531f4764",
+    "timestamp": "2022-05-21T07:09:26.000Z",
+    "price": 0.375
+  },
+  {
+    "itemId": "d1439abf898051c303b054cbbbdccf4f3d590f9f50c4f9e1b879a7ad81a1bbef",
+    "timestamp": "2022-05-21T14:15:26.000Z",
+    "price": 0.375
+  },
+  {
+    "itemId": "cfeff9796847217bbecf02de455537bc9657f0684048349e7b8bcffb31b60ca0",
+    "timestamp": "2022-05-22T01:58:20.000Z",
+    "price": 0.39
+  },
+  {
+    "itemId": "f167a0eb62c962c07f68f5c1f670b21aa8a038e6818ba3f366cffd4a83b1b0b1",
+    "timestamp": "2022-05-22T07:54:27.000Z",
+    "price": 0.376
+  },
+  {
+    "itemId": "6fb711b886fbe7573a195b0ecca057a850ccd8ef6d3b1a6091850fcc8290614a",
+    "timestamp": "2022-05-22T17:55:00.000Z",
+    "price": 0.386
+  },
+  {
+    "itemId": "485570d8846dd967081e2cef162e36af76e08ff31ebc7b05c8342b04937f2874",
+    "timestamp": "2022-05-22T18:27:13.000Z",
+    "price": 0.38
+  },
+  {
+    "itemId": "9ede549cf498dd5c68af625d363dab38a42080ecd8cb5040129769cded4f83b8",
+    "timestamp": "2022-05-22T20:33:12.000Z",
+    "price": 0.333
+  },
+  {
+    "itemId": "d717c012bf78907d7c59ea45262b2626320a9ad041d37d5fb6d70af767afbff4",
+    "timestamp": "2022-05-23T00:23:31.000Z",
+    "price": 0.387
+  },
+  {
+    "itemId": "eafbf22bf9611f2a36b9ed48f65ed2ab757afbe8feb9e8b4dd1ba11d280b0cbb",
+    "timestamp": "2022-05-23T01:05:42.000Z",
+    "price": 0.6
+  },
+  {
+    "itemId": "ffb68046b2d03dcfd4c0efceed726ff6d2659e21f95232992a2af608f92e9164",
+    "timestamp": "2022-05-23T01:31:50.000Z",
+    "price": 0.375
+  },
+  {
+    "itemId": "7f7315b2df42b55f8e56586ed40ddea4ec4038adcaadad86449afc7407331830",
+    "timestamp": "2022-05-23T04:22:46.000Z",
+    "price": 0.39
+  },
+  {
+    "itemId": "3420adf1c6c37c67ebe9556b9f72e54b3ad714df9cd1fa0ee62032d9850391f9",
+    "timestamp": "2022-05-23T04:54:51.000Z",
+    "price": 0.369
+  },
+  {
+    "itemId": "fe3e1f70b58d7939909f59a226e7ea9bd1041e421225a13bd50a8efc1d05a854",
+    "timestamp": "2022-05-23T05:04:28.000Z",
+    "price": 0.398
+  },
+  {
+    "itemId": "e61cc3c4b198f2bda9b86f4567edca526ba359a5b3719970c12e4af7e036c32a",
+    "timestamp": "2022-05-23T05:37:37.000Z",
+    "price": 0.2613
+  },
+  {
+    "itemId": "cd7a4929dafa6c3c2d61713ba8457ddbbee8b5357f28fd3e8e94de191c0c931b",
+    "timestamp": "2022-05-23T07:07:28.000Z",
+    "price": 0.382
+  },
+  {
+    "itemId": "293e6aee27ca3131291436f0b88c35c1c438826309cf8188d7e8c85d5260f16a",
+    "timestamp": "2022-05-23T08:34:40.000Z",
+    "price": 0.3
+  },
+  {
+    "itemId": "e47bed928bb5f667f4a200293159d8a8f30c31a5b3fa94d2e9bca7b2646efe11",
+    "timestamp": "2022-05-23T08:45:49.000Z",
+    "price": 0.28
+  },
+  {
+    "itemId": "dc419e27c56af110c16f0042c630eeeef801bd169ea76bd5e98f58857d479a4c",
+    "timestamp": "2022-05-23T10:23:53.000Z",
+    "price": 0.359
+  },
+  {
+    "itemId": "894fcbf5d08888b57a0e0410979180510305db1e651e42f6cf296540021bb308",
+    "timestamp": "2022-05-23T12:17:50.000Z",
+    "price": 0.37
+  },
+  {
+    "itemId": "6c0895df909720af03dc419865b9c8b6b13a15c768943707852784b739f147b3",
+    "timestamp": "2022-05-23T12:34:36.000Z",
+    "price": 0.39
+  },
+  {
+    "itemId": "dbad9d5e41788b727155af624b4c4d70646ab7c99ada7c69ec8ea9b148668f77",
+    "timestamp": "2022-05-23T15:39:50.000Z",
+    "price": 0.2775
+  },
+  {
+    "itemId": "50a67c09e0f1f53602589265bb336fff923e77ad5514768043e2afa773d72fca",
+    "timestamp": "2022-05-23T15:43:29.000Z",
+    "price": 0.259
+  },
+  {
+    "itemId": "30daaaee7310a77590313ddf31275b0ae038d269f5cb958b919ced616dd5e4c6",
+    "timestamp": "2022-05-23T15:46:03.000Z",
+    "price": 0.23
+  },
+  {
+    "itemId": "b83c2ff8ce54e905f79f9cbbb288ade1929f4edc30c599b99402a5ead1c5a68c",
+    "timestamp": "2022-05-23T16:12:36.000Z",
+    "price": 0.222
+  },
+  {
+    "itemId": "26594db101c1e96abcaa4d4d399f195ea2fa48065e4f937d99897d38d793dbf3",
+    "timestamp": "2022-05-23T16:43:12.000Z",
+    "price": 0.37
+  },
+  {
+    "itemId": "8667186a269a942ea148057f20af2249e8cb2759fbe66e7b4c695a948ccdab08",
+    "timestamp": "2022-05-23T16:44:15.000Z",
+    "price": 0.28
+  },
+  {
+    "itemId": "80725bbe5747183300a8a42cca7889cf1a8fbb8f14e5e23fb8fa604ae4a5570a",
+    "timestamp": "2022-05-23T20:59:52.000Z",
+    "price": 0.37
+  },
+  {
+    "itemId": "ff541e0f4e5bf0ad7dd0c535e8f1313de0c56795a7f77556b275088d0205af1e",
+    "timestamp": "2022-05-23T21:20:09.000Z",
+    "price": 0.4
+  },
+  {
+    "itemId": "f12189bf2580668ba7ed4dba5dab3ee75a339e4edfb553d576cee02c0798f29b",
+    "timestamp": "2022-05-23T21:56:27.000Z",
+    "price": 0.397
+  },
+  {
+    "itemId": "11d1723e8db50241db14d0d86f322ad2a48497100229da5d3eadb4bfe2227d89",
+    "timestamp": "2022-05-23T21:58:12.000Z",
+    "price": 0.38
+  },
+  {
+    "itemId": "41575bd67f11b6cdd42b9e2106745dc8d5d805bd39bbd66101203ff1b76c6372",
+    "timestamp": "2022-05-23T23:15:53.000Z",
+    "price": 0.383
+  },
+  {
+    "itemId": "1fd02d373ca0f2cca604dd45f11c569d3e96bc5a85d829a699c72e9cc804c2b4",
+    "timestamp": "2022-05-24T00:17:00.000Z",
+    "price": 0.389
+  },
+  {
+    "itemId": "8fb4c4121746fa0e0770a69ef0dc178aee914af7fce8cc8c5d61f29223b6906f",
+    "timestamp": "2022-05-24T00:26:01.000Z",
+    "price": 0.375
+  },
+  {
+    "itemId": "8546ac40bd68c7748fbbcb87b6f41b660a8e6da4518d170a7e74635b5b399b6c",
+    "timestamp": "2022-05-24T00:51:26.000Z",
+    "price": 0.39
+  },
+  {
+    "itemId": "11731d34cbfa35353e51bf70137fe5880f21ddf24d8e42094aa2b1aa72f53e1d",
+    "timestamp": "2022-05-24T06:28:51.000Z",
+    "price": 0.4
+  },
+  {
+    "itemId": "9705fac634d3dd724d5afd1ec2dbf10efaaed132487a0b830a162c3dd400c511",
+    "timestamp": "2022-05-24T06:34:58.000Z",
+    "price": 0.4
+  },
+  {
+    "itemId": "edc69a481045027020727d17262d9469a92f17958432b7bec81662caa9450691",
+    "timestamp": "2022-05-24T08:07:00.000Z",
+    "price": 0.9
+  },
+  {
+    "itemId": "dce2918a9f82a645abe159f61c22593450bbea3b7fe6c9ae9c7ebbac02536d9c",
+    "timestamp": "2022-05-24T10:48:04.000Z",
+    "price": 0.6
+  },
+  {
+    "itemId": "e189c56af13f72b523d5b6ae3698955dd37026be02e6440ddb4a0470ff3456ec",
+    "timestamp": "2022-05-24T17:33:42.000Z",
+    "price": 0.394
+  },
+  {
+    "itemId": "401a15859b2810234832d251abbab5cf94b64919fc2a5799ad8b17ebc26c7fb7",
+    "timestamp": "2022-05-24T17:43:41.000Z",
+    "price": 0.38
+  },
+  {
+    "itemId": "64538c455c9433d7a2aa94d92922734cb8768a09efda76aa2dbd2dd91de7cc26",
+    "timestamp": "2022-05-24T20:16:40.000Z",
+    "price": 0.45
+  },
+  {
+    "itemId": "0390b2a3f831508950c712f3cfc644111eb0be140936ef18dfb765275e07f0d6",
+    "timestamp": "2022-05-24T23:48:36.000Z",
+    "price": 0.49
+  },
+  {
+    "itemId": "7d2e4319f6b4244bb9407ea934bed77718cc11631a5f3573f6f9730c46092b36",
+    "timestamp": "2022-05-25T06:32:45.000Z",
+    "price": 0.2503
+  },
+  {
+    "itemId": "d1956e432bce90eb20d5409cca48678b3ebafa1069711ef450cd8deea7fe6dce",
+    "timestamp": "2022-05-25T17:25:47.000Z",
+    "price": 0.55
+  },
+  {
+    "itemId": "f3f575a8118c5a76b19d043923c6f90a0255739673aa5b1355695fb46d8f6ac9",
+    "timestamp": "2022-05-26T04:00:33.000Z",
+    "price": 0.5
+  },
+  {
+    "itemId": "893fb46649efa83c1149ab374dc7b2e7c2cd8138951cb93ec0b1b84fa9d58c92",
+    "timestamp": "2022-05-26T06:32:41.000Z",
+    "price": 0.69
+  },
+  {
+    "itemId": "b25dcb96061a187443173efc93b4ee8e2313a665570e70bcc4e082b58d3c96ad",
+    "timestamp": "2022-05-26T10:45:29.000Z",
+    "price": 0.275
+  },
+  {
+    "itemId": "f0df6591bded4568a4d162fb1bfd5d36ad0b58ac85d47f5d2a906428890e62e4",
+    "timestamp": "2022-05-26T18:15:09.000Z",
+    "price": 0.2555
+  },
+  {
+    "itemId": "20a4c4cf1f203d19e83f007d069a4def85f90e1be6832b807306904185f9ab4a",
+    "timestamp": "2022-05-26T18:28:21.000Z",
+    "price": 0.2555
+  },
+  {
+    "itemId": "011c2a973874fdf7c2b3f23c678600bee45f718a39784193cfd4d4f4eaf47126",
+    "timestamp": "2022-05-26T19:59:38.000Z",
+    "price": 0.35
+  },
+  {
+    "itemId": "d006b9a7cc6f887b9c89777e54c8908b1385a69c70d4ff05546be3d3575c28e0",
+    "timestamp": "2022-05-26T20:30:27.000Z",
+    "price": 0.4
+  },
+  {
+    "itemId": "7434319ddac75077bdcd4011ab76846cbf7713ac542a88b8c16a9ff69cc694e3",
+    "timestamp": "2022-05-26T23:49:21.000Z",
+    "price": 0.391
+  },
+  {
+    "itemId": "3c7db1c5f3a7335ef91ada99b546680ddd8650dde785c00fb4e1a77cf421e655",
+    "timestamp": "2022-05-27T00:57:44.000Z",
+    "price": 0.499
+  },
+  {
+    "itemId": "a66b8076270ec773318ff2c17abdb6f8d1b6d033f5227b2345f2640ae2f16347",
+    "timestamp": "2022-05-27T04:13:40.000Z",
+    "price": 0.349
+  },
+  {
+    "itemId": "c019cc47f3bd51c0bbe8c97687940a2edd5f74d532cb34378bd7efac439c8a6d",
+    "timestamp": "2022-05-27T04:32:22.000Z",
+    "price": 0.348
+  },
+  {
+    "itemId": "ffe3984f7335d84eab5ba9f0997c7758a7c67521a708e0dc54f0ed8eeab4c74e",
+    "timestamp": "2022-05-27T09:36:57.000Z",
+    "price": 0.33
+  },
+  {
+    "itemId": "fd99e8567183485dccc98afd5f637e62f301cbb237961d54542d640bad76a0be",
+    "timestamp": "2022-05-27T10:45:07.000Z",
+    "price": 0.4
+  },
+  {
+    "itemId": "1e284561d9abfdd7a830067d69b705e2a09449d5e90af3e5154224fa6b7c47d8",
+    "timestamp": "2022-05-27T11:37:23.000Z",
+    "price": 0.2555
+  },
+  {
+    "itemId": "5dbae6bb843a53ca9d8304845655b74c0ec564fe4b525ee571cda077f4b52e2a",
+    "timestamp": "2022-05-27T11:55:28.000Z",
+    "price": 0.45
+  },
+  {
+    "itemId": "4dbc713eb20963316dfd858b72637d2fb330c42f96da22144b7f534bbeea4e01",
+    "timestamp": "2022-05-27T12:44:16.000Z",
+    "price": 0.348
+  },
+  {
+    "itemId": "56ba96e9cf88a591c74e3e8c49fe53d70157f9daf1ff78d3e196607eed5de8e8",
+    "timestamp": "2022-05-27T12:45:07.000Z",
+    "price": 0.38
+  },
+  {
+    "itemId": "70993282e2e4b4ec45bbc686e1b48171d3b7ec20035c217d0329ef3dd97caf5e",
+    "timestamp": "2022-05-27T13:50:46.000Z",
+    "price": 0.41
+  },
+  {
+    "itemId": "3ed80a0ead6f2314463778670a8f22373e3a48874d470150fe2b0f199df0cb8b",
+    "timestamp": "2022-05-27T14:01:40.000Z",
+    "price": 0.388
+  },
+  {
+    "itemId": "1e8a0125c15a1102e8a17e8c6bb00af01615ffd2a729221eb39323f09eb061c0",
+    "timestamp": "2022-05-27T14:01:40.000Z",
+    "price": 0.32
+  },
+  {
+    "itemId": "78891b3c3286849988a7aceca160816e612c2d8bacf28f640995b60c1d7e6876",
+    "timestamp": "2022-05-27T16:34:35.000Z",
+    "price": 0.395
+  },
+  {
+    "itemId": "222f1b12cf9fbbcac0f3e1a8c5fbf5c3b72b5c2471b210dc5d1f24dac123eec7",
+    "timestamp": "2022-05-27T19:12:22.000Z",
+    "price": 0.35
+  },
+  {
+    "itemId": "1e73b2db6e68b168e7bebb69b8aaa0b274d47b0dbcae75b292f059f557e04c37",
+    "timestamp": "2022-05-27T19:59:25.000Z",
+    "price": 0.369
+  },
+  {
+    "itemId": "509c0b59439987785d4c61b923e9f08142113188af2d1e21bf75fbd9a1724b5d",
+    "timestamp": "2022-05-27T20:35:13.000Z",
+    "price": 0.44
+  },
+  {
+    "itemId": "6911e0d6e39692c3fecc92bddf347a9a956f10880c7d1f68126ab9153e96fe5d",
+    "timestamp": "2022-05-28T00:15:15.000Z",
+    "price": 0.41
+  },
+  {
+    "itemId": "c4a81d0389465c8a68bb3739ed775411ad57c796e2dd9085506f602f25e1f85e",
+    "timestamp": "2022-05-28T02:47:23.000Z",
+    "price": 0.256
+  },
+  {
+    "itemId": "b900a0800c62b582d7b4246b3e641a03aaead5aecf7e0cebc47b4dcf9fa9f0ba",
+    "timestamp": "2022-05-28T06:36:14.000Z",
+    "price": 0.419
+  },
+  {
+    "itemId": "9ffc66c46029be708731199f0171c671fdb97759035af243a124c41eacf1f9d5",
+    "timestamp": "2022-05-28T08:12:53.000Z",
+    "price": 0.459
+  },
+  {
+    "itemId": "b26e6cf48acf0d19a0570a4a6851b82e74fc717074f5288bb60e612d4d389ad6",
+    "timestamp": "2022-05-28T14:46:34.000Z",
+    "price": 0.31
+  },
+  {
+    "itemId": "24f9f36707eb11a58347cf56f3ad87725e52b6c5c0a26bb5e6ab0423966215bb",
+    "timestamp": "2022-05-28T14:47:15.000Z",
+    "price": 0.38
+  },
+  {
+    "itemId": "06a2cc1aa091286cda0d1859a767688ab657143ba296bb027121840a0707fd07",
+    "timestamp": "2022-05-29T09:16:41.000Z",
+    "price": 0.4
+  },
+  {
+    "itemId": "98ef7b24cc9052fb592c158056f7200964426ed2d2af8e877dfac036f3ad1296",
+    "timestamp": "2022-05-29T20:48:11.000Z",
+    "price": 1.2
+  },
+  {
+    "itemId": "e1762ab3e0de1e7c0c18e7e93712962c83021fab09115abd0a481384ee66f5fb",
+    "timestamp": "2022-05-30T09:57:44.000Z",
+    "price": 0.399
+  },
+  {
+    "itemId": "b77dc84ecd8b78531dee1aa75d33d36786f597e9823b831da76647be5bb63e5a",
+    "timestamp": "2022-05-30T10:45:28.000Z",
+    "price": 0.38
+  },
+  {
+    "itemId": "3c6e663dfc9773a103bba53e87cd69b60710a8441b24447dc04da63be3917bf1",
+    "timestamp": "2022-05-30T14:38:57.000Z",
+    "price": 0.38
+  },
+  {
+    "itemId": "b50babf172424f6c46b3ac577efc322bfd57de230cff700dabc27c09834db0e5",
+    "timestamp": "2022-05-30T14:38:57.000Z",
+    "price": 0.4
+  },
+  {
+    "itemId": "cbe6a0072fac0343cd5a0ccd120297bb44a4c20db4bd04f94d2d7aff1e1d384a",
+    "timestamp": "2022-05-30T19:38:02.000Z",
+    "price": 0.495
+  },
+  {
+    "itemId": "0a5deb0b2219e8b7911127e5982106033e43502a516c8b0b20a29bf5e3403c26",
+    "timestamp": "2022-05-30T22:41:24.000Z",
+    "price": 0.2701
+  },
+  {
+    "itemId": "6873c6f6506e56e411e792033741cdce7717c8253b5e6a71ce5a3b25428e0ffa",
+    "timestamp": "2022-05-31T00:35:40.000Z",
+    "price": 0.2701
+  },
+  {
+    "itemId": "634184cb7d2f996436633467817acdf8b23b3d56483074c7cbc97bdd56c03ce8",
+    "timestamp": "2022-05-31T03:36:06.000Z",
+    "price": 0.2895
+  },
+  {
+    "itemId": "c8dbdfc1ea71b40d3f705085075b79dfd9b849cbcaf04a44247a2c2f7ce8b5ee",
+    "timestamp": "2022-05-31T09:26:06.000Z",
+    "price": 0.374
+  },
+  {
+    "itemId": "c4441f44330c1333c2ee7b7904e60bc3098f7b1c9fe6d59d5ca811a4be90e8a1",
+    "timestamp": "2022-05-31T11:34:00.000Z",
+    "price": 0.42
+  },
+  {
+    "itemId": "377c68f1006087d25ce199b8eac5309f1fe42263bad07d195351a6a2c16f0e95",
+    "timestamp": "2022-05-31T11:46:34.000Z",
+    "price": 0.4
+  },
+  {
+    "itemId": "b65d55e0e87801a39310f582e8b2d272ef4b50679e228026693ba9a3ee798a4f",
+    "timestamp": "2022-05-31T12:41:10.000Z",
+    "price": 0.2701
+  },
+  {
+    "itemId": "f7896a5717f592293c337c9de9ccc98242c150a5a43565d8616331be4a09d6ef",
+    "timestamp": "2022-05-31T14:13:54.000Z",
+    "price": 0.375
+  },
+  {
+    "itemId": "f6ede111fa763d552aa05dd055755523455debba7d057009fdb0b258bb3c7bc2",
+    "timestamp": "2022-05-31T15:43:23.000Z",
+    "price": 0.42
+  },
+  {
+    "itemId": "f1b305f91b9d5a7ff0cd7bf018727e806900579e9ae51db1e5745091c83fee9e",
+    "timestamp": "2022-05-31T16:45:15.000Z",
+    "price": 0.469
+  },
+  {
+    "itemId": "6554eb332d3f4140308b2af148731eb1c135a168f81ebbf94d53fe7a6c207f7a",
+    "timestamp": "2022-05-31T22:45:10.000Z",
+    "price": 0.378
+  },
+  {
+    "itemId": "2628b154a25ea76ce885664a8db788cb742f17e14cefeea5a9f5426e7ef58f07",
+    "timestamp": "2022-05-31T22:45:10.000Z",
+    "price": 0.38
+  },
+  {
+    "itemId": "2ede5153a1cec4a743fb15220c714145af017159a8332bff8d4b5dba2db2970f",
+    "timestamp": "2022-05-31T22:45:10.000Z",
+    "price": 0.38
+  },
+  {
+    "itemId": "e495d03721f310c92d53ebbc1cf76b02725565a02f2ba27087b5084a936b08fb",
+    "timestamp": "2022-05-31T22:45:10.000Z",
+    "price": 0.38
+  },
+  {
+    "itemId": "c59f59c78c8cd77971979aa8773266cc9f63b02753b0e9880393984b9c88f2b3",
+    "timestamp": "2022-05-31T22:45:10.000Z",
+    "price": 0.375
+  },
+  {
+    "itemId": "f58d45efc2f51d52cf9dbe6ded14c548933c3d3969cb3036bb8990d18359e0c6",
+    "timestamp": "2022-05-31T22:45:10.000Z",
+    "price": 0.38
+  },
+  {
+    "itemId": "e347514bd5ea8bc02a201436abbfc14f372349eafc9294444cda9f9ea4883314",
+    "timestamp": "2022-05-31T22:45:10.000Z",
+    "price": 0.388
+  },
+  {
+    "itemId": "f0f72bb4804d21b1960173f0febcc3ce7f84cee8d30ed6a45fc1ff760f4ef22c",
+    "timestamp": "2022-06-01T01:13:54.000Z",
+    "price": 0.3355
+  },
+  {
+    "itemId": "c652398c6ae7cfcf6dd60e1db7c4f8d0f0b9a1a2709ecf07b9e943d9c620fb30",
+    "timestamp": "2022-06-01T05:05:38.000Z",
+    "price": 0.38
+  },
+  {
+    "itemId": "188cc2bae950171bb025a603fa53af2a23595a7b57cc3abdcf1c084d439771a4",
+    "timestamp": "2022-06-01T05:18:06.000Z",
+    "price": 0.38
+  },
+  {
+    "itemId": "a024600f74b407b2bd21a27c9ad5dd976ddd3472d2d2699a2ee1eba29d621596",
+    "timestamp": "2022-06-01T20:26:05.000Z",
+    "price": 0.2701
+  },
+  {
+    "itemId": "03979190bcea512b3f07e1db0ed7b067fc00e8f1f3b768ad1338450e6e81e882",
+    "timestamp": "2022-06-02T01:32:06.000Z",
+    "price": 0.69
+  },
+  {
+    "itemId": "c61e5a6855d62cf92795d841c42663b5cbe66b4560db243f07b22b8e7bf5b90b",
+    "timestamp": "2022-06-02T01:54:51.000Z",
+    "price": 0.4
+  },
+  {
+    "itemId": "5fa8c3a897d13063922fe9d3a209e150d5d2f5c848e9ff85f72c38856e7594fe",
+    "timestamp": "2022-06-02T01:54:51.000Z",
+    "price": 0.38
+  },
+  {
+    "itemId": "78bb915725178439c4a9139c33778374a2637876cf41969ae214d54c89e7d89a",
+    "timestamp": "2022-06-02T03:06:38.000Z",
+    "price": 0.37
+  },
+  {
+    "itemId": "df6a55b298d01bb60b6ec38212fa2aed21217c12bbc29e3bbc4bb87d68613f85",
+    "timestamp": "2022-06-02T04:33:37.000Z",
+    "price": 0.4
+  },
+  {
+    "itemId": "4bac079db5b34cfe28970ea35a5ec74150d7948b0b905a155936749447f35e93",
+    "timestamp": "2022-06-02T19:13:01.000Z",
+    "price": 0.42
+  },
+  {
+    "itemId": "9c7f5fdf5dda02e8d89bfe670143e0a6b2d4621f1e2fab75ea641a04fa012032",
+    "timestamp": "2022-06-02T21:52:20.000Z",
+    "price": 0.48
+  },
+  {
+    "itemId": "2a604a84646e04605a7de7190ee26d76367a6a1dfd264ca325948f97835c54a9",
+    "timestamp": "2022-06-02T23:59:19.000Z",
+    "price": 0.4
+  },
+  {
+    "itemId": "4546446b840bf2553c9aa45dbfd537698305d0789664dba2ac0a89b9e4b1e26d",
+    "timestamp": "2022-06-03T01:19:31.000Z",
+    "price": 0.69
+  },
+  {
+    "itemId": "1234a891222e78e0b3177df0d614ee6d129b5aebc8846afb2a812fb2ca62807c",
+    "timestamp": "2022-06-03T03:26:18.000Z",
+    "price": 0.39
+  },
+  {
+    "itemId": "16eba2adb7d9f3fea10fe8a35fb610a9bba2302c1afbe20b5aa39ed629d05ef3",
+    "timestamp": "2022-06-03T03:28:47.000Z",
+    "price": 0.5
+  },
+  {
+    "itemId": "062f64b90e29d1f7e6c2e5b4cc5ca83a4925ec958907231d7853bcf7cdfb1868",
+    "timestamp": "2022-06-03T16:40:59.000Z",
+    "price": 0.39
+  },
+  {
+    "itemId": "31f6b9371403e848fe2d214ad774e7abd48dd355ada68ae313c3847b5d6eaeb1",
+    "timestamp": "2022-06-03T18:23:35.000Z",
+    "price": 0.4
+  },
+  {
+    "itemId": "94714a7fa4c46c6c5abce2e64b947cc21ae892764cdad6a85592e870bc57e1f4",
+    "timestamp": "2022-06-03T19:58:27.000Z",
+    "price": 0.49
+  },
+  {
+    "itemId": "0716626e8ca9875ebe8e8a50a67cb8c45dafb6bbc16befc9417d74df2a1e1a1e",
+    "timestamp": "2022-06-03T22:06:23.000Z",
+    "price": 0.55
+  },
+  {
+    "itemId": "2366a189cf01303d5da1d0501a3728c8c90933aa49985a757bc30fa53396f360",
+    "timestamp": "2022-06-04T00:05:02.000Z",
+    "price": 0.429
+  },
+  {
+    "itemId": "5e034a55356808d75cf626fd6799e23b909bc30b4d36b1fa97e0d7bc79854ac2",
+    "timestamp": "2022-06-04T12:35:55.000Z",
+    "price": 0.48
+  },
+  {
+    "itemId": "031338e4f1899fe11136c161b2bffb405e400ea5dc01abca7fe1637922a26c8a",
+    "timestamp": "2022-06-04T13:53:57.000Z",
+    "price": 0.49
+  },
+  {
+    "itemId": "224b612f30877e3710c8248e6effed0ece251f3fd57ae486ac80710592aeff3e",
+    "timestamp": "2022-06-04T15:41:12.000Z",
+    "price": 0.5
+  },
+  {
+    "itemId": "231f0978170e9dfbf3f571ba5d6801311f7a105e710946c4db96bac7bef58b05",
+    "timestamp": "2022-06-04T20:03:57.000Z",
+    "price": 0.37
+  },
+  {
+    "itemId": "e3c39098f945fd2dfbd49b1983b165f06c97509c4694d63bf26f3b6c0cef3f98",
+    "timestamp": "2022-06-04T20:13:51.000Z",
+    "price": 0.89
+  },
+  {
+    "itemId": "b41eb3c0a3b14e26bb4816fd68926a847cde724ab8b665d16d5ba5f130192988",
+    "timestamp": "2022-06-04T20:21:56.000Z",
+    "price": 0.75
+  },
+  {
+    "itemId": "141b856447ad56ada3bb95fe727a70aa78186503fb9ff0847539990a981a0346",
+    "timestamp": "2022-06-04T20:37:30.000Z",
+    "price": 0.365
+  },
+  {
+    "itemId": "d87dc26a96c01e02056b1f62e9fcd535bad31435ab6ae324360af177651e9e9d",
+    "timestamp": "2022-06-05T04:35:02.000Z",
+    "price": 0.3639
+  },
+  {
+    "itemId": "821ec93953a2a2a6b3bafa04b9c13da8f7aa017fbc58727941e868cf99aece22",
+    "timestamp": "2022-06-05T09:43:50.000Z",
+    "price": 0.364
+  },
+  {
+    "itemId": "500ee4f1bd797bfbfaa824fb6e3cabf9fcd53669c41743f538802e3de24f7167",
+    "timestamp": "2022-06-05T17:07:13.000Z",
+    "price": 0.369
+  },
+  {
+    "itemId": "728a1ba58a81a25a68cbd8d1e2343d170b9dea869e8369c90f0d20cf2778fa8a",
+    "timestamp": "2022-06-05T19:15:29.000Z",
+    "price": 0.375
+  },
+  {
+    "itemId": "51098d3e9297559e1fcbd8e558dc4a35b4d7873332ca767131824b27a512b8bd",
+    "timestamp": "2022-06-05T23:28:40.000Z",
+    "price": 0.395
+  },
+  {
+    "itemId": "65ad71051ca51d680debc3fa000f0d3842d683a0d48538bbd47b34ba08d24c20",
+    "timestamp": "2022-06-06T02:38:47.000Z",
+    "price": 0.38
+  },
+  {
+    "itemId": "406f80086f8380281073281c775b89c68a46ed08ad2d69adca9ced3e0416aaec",
+    "timestamp": "2022-06-06T02:52:33.000Z",
+    "price": 0.48
+  },
+  {
+    "itemId": "aca46f2848cdee09e1df515bcbbc0f5f42f3dedd863aa6456556f4263a23b8dc",
+    "timestamp": "2022-06-06T05:49:14.000Z",
+    "price": 0.44
+  },
+  {
+    "itemId": "d985041c87eb61814b0ce8c60a42fbd344d809cebc4eb9b490ce3ef388052cf0",
+    "timestamp": "2022-06-06T15:33:58.000Z",
+    "price": 0.8
+  },
+  {
+    "itemId": "b029972a470a4fb9fe2d7de4c5fec2e98a366d87f8b03da71a48329ab10b728f",
+    "timestamp": "2022-06-06T19:50:58.000Z",
+    "price": 0.425
+  },
+  {
+    "itemId": "95c67162ae142d5ef56c3432333e83bee8e1e7ff4bc12689366514f68df4b5cb",
+    "timestamp": "2022-06-07T00:49:13.000Z",
+    "price": 0.2774
+  },
+  {
+    "itemId": "d4a64d9b257040c204bb6e8443d0a18da2a8578417bc7cf554d1c165ff5654fd",
+    "timestamp": "2022-06-07T00:56:28.000Z",
+    "price": 0.4
+  },
+  {
+    "itemId": "2fb59cb0d4fd73461941d6d41b0590300e6e4256ed33f56c5df96e621968a93c",
+    "timestamp": "2022-06-08T11:44:22.000Z",
+    "price": 0.395
+  },
+  {
+    "itemId": "6d672332d59e7138b2ecf84cbcb06b3799c97ddee86787d5790f02fdc280e862",
+    "timestamp": "2022-06-09T03:29:35.000Z",
+    "price": 0.395
+  },
+  {
+    "itemId": "99f8b6b078f6a7ea7442ede19da3e432062551e5ad3091c910f85710249f751e",
+    "timestamp": "2022-06-09T17:09:08.000Z",
+    "price": 0.33
+  },
+  {
+    "itemId": "c0723b9ffa2fa31039f0b58c5a7b318c4c0d8a1afc9f25765cc24110a8bd64b3",
+    "timestamp": "2022-06-09T21:53:42.000Z",
+    "price": 0.69
+  },
+  {
+    "itemId": "b6f7c70a8d3ee835c9e7955a6892b8c6b6d961e3c994b47dd2fe5731954d8f17",
+    "timestamp": "2022-06-09T22:11:20.000Z",
+    "price": 0.44
+  },
+  {
+    "itemId": "3c9317bcf2fd3fc6c5a8d339d29199ace89b6c9ff6efce5e3006fc5735ed1c79",
+    "timestamp": "2022-06-09T22:12:40.000Z",
+    "price": 0.49
+  },
+  {
+    "itemId": "98d131c80ca7126d57efbbb8594b95d89495cf97f070835b1c483413ee2e5da6",
+    "timestamp": "2022-06-09T22:49:08.000Z",
+    "price": 0.328
+  },
+  {
+    "itemId": "4846597c64ac58f91989f58fca1ab463b7ade958313f5d7ea61adcf4ecbe87db",
+    "timestamp": "2022-06-09T23:26:12.000Z",
+    "price": 0.6
+  },
+  {
+    "itemId": "658d74250159524bacd64e719eb25d31ba6dd5bff8bc3cc4bc91bc23332ca47a",
+    "timestamp": "2022-06-10T08:46:11.000Z",
+    "price": 0.3
+  },
+  {
+    "itemId": "9ee897912667587df01e5d040e5b1c53568e9df1ffea52e7d657d082750dfbae",
+    "timestamp": "2022-06-10T11:41:15.000Z",
+    "price": 0.4
+  },
+  {
+    "itemId": "b56ed0422847933c482b3790a29d2ebc4b6b48b5b4c0fd65f018bcea14b53c3e",
+    "timestamp": "2022-06-10T11:57:08.000Z",
+    "price": 0.34
+  },
+  {
+    "itemId": "84bc33c22fd664d86de6f553938b14e50052664fbc98eedf5c2a89eed4e793de",
+    "timestamp": "2022-06-10T17:20:09.000Z",
+    "price": 0.4
+  },
+  {
+    "itemId": "57f7dadcc6dd689052d889353b6eaaee379debc25e4f5f1f5879f0053dca61cc",
+    "timestamp": "2022-06-10T19:17:44.000Z",
+    "price": 0.36
+  },
+  {
+    "itemId": "1b2c58512c2ffca569acb01f0b743fcb1d21b0a29cf4039603e791a4ef2d4dd8",
+    "timestamp": "2022-06-11T02:07:27.000Z",
+    "price": 0.41
+  },
+  {
+    "itemId": "3bb60535f28a192f4dcb83867a4660b9470a6644c9a3e095883cc9111f38de40",
+    "timestamp": "2022-06-11T04:33:23.000Z",
+    "price": 0.34
+  },
+  {
+    "itemId": "ef612f6fa452bbfdbe56c9b59847ea47ecce95a290bed5be2966ce53aec77d87",
+    "timestamp": "2022-06-11T09:26:10.000Z",
+    "price": 0.3
+  },
+  {
+    "itemId": "fed8de792775bdffc0a00b410a340ac2240c5e6dca4260c8ff0fbcffba02592c",
+    "timestamp": "2022-06-11T09:39:04.000Z",
+    "price": 0.2409
+  },
+  {
+    "itemId": "6d6525d0a4c0003eb699f42c8e0518e1895de8c2d9397b8ff0d431276cac3133",
+    "timestamp": "2022-06-11T09:54:59.000Z",
+    "price": 0.27
+  },
+  {
+    "itemId": "06a7d27d2bb7e402e07871767fab3f92634f7a74abaf4963694f5fc9082a1322",
+    "timestamp": "2022-06-11T09:58:09.000Z",
+    "price": 0.2409
+  },
+  {
+    "itemId": "a53459816d4ea1aad5022ac88a05da5306ca7097c4e6d5a4eebfee5340e7981c",
+    "timestamp": "2022-06-11T10:06:21.000Z",
+    "price": 0.2446
+  },
+  {
+    "itemId": "880f35dd828e268cbb2dcdbe75e0ea3df21ce59ba0a904545aa184271a4f0870",
+    "timestamp": "2022-06-11T10:06:34.000Z",
+    "price": 0.2409
+  },
+  {
+    "itemId": "d606b0c4c737a4b1925db2a7cd40ecd7e7fa1e5a79d3eca0828cd0151f1f4243",
+    "timestamp": "2022-06-11T10:06:34.000Z",
+    "price": 0.2409
+  },
+  {
+    "itemId": "edbc9ea014de2174390e3c388a2caf4cce12c34d271f22788991152d1f0a7eb1",
+    "timestamp": "2022-06-11T10:13:02.000Z",
+    "price": 0.2446
+  },
+  {
+    "itemId": "d4dd08db964adbbaa18015791bc74565afd61211d20ff53f36e1ad9e07934aa5",
+    "timestamp": "2022-06-11T10:19:38.000Z",
+    "price": 0.25
+  },
+  {
+    "itemId": "41a658aef2a109a8fc775d0ccfb7507f417d391d86b0c933b36d857860aa3eea",
+    "timestamp": "2022-06-11T10:20:19.000Z",
+    "price": 0.2446
+  },
+  {
+    "itemId": "543472c5577dfe4d8b02569754bd6d17b48c9b98280276b842c485332f93a2c2",
+    "timestamp": "2022-06-11T10:22:25.000Z",
+    "price": 0.2446
+  },
+  {
+    "itemId": "1d4ffbd8a432f945a1e541c4b33d501b6cf07930d9509b6cbe46b621447cb55a",
+    "timestamp": "2022-06-11T10:31:42.000Z",
+    "price": 0.2446
+  },
+  {
+    "itemId": "b87bf636e8a92e08278396600c0579f4220c3982698df2cd05533e5f1c7cc628",
+    "timestamp": "2022-06-11T10:31:50.000Z",
+    "price": 0.2446
+  },
+  {
+    "itemId": "52cf769136c16005617a93fbb6090adc76ce43bb55cb0fe8e2328080b0665c8f",
+    "timestamp": "2022-06-11T10:32:27.000Z",
+    "price": 0.2446
+  },
+  {
+    "itemId": "678d7ad76c11603426bfed3045b300da7a8eb4ef8e94ed15c83248d776e8cfe3",
+    "timestamp": "2022-06-11T10:32:48.000Z",
+    "price": 0.25
+  },
+  {
+    "itemId": "c0a5ef57bf42a711174ac599d77759dfb2c655b3361b42a5e6c69c05c3e52b66",
+    "timestamp": "2022-06-11T10:57:33.000Z",
+    "price": 0.29
+  },
+  {
+    "itemId": "96df0fb104b5aa17b5e3721fc43a8dd79c42351a5bbe6ca874b274fb76c22cb9",
+    "timestamp": "2022-06-11T12:09:15.000Z",
+    "price": 0.24
+  },
+  {
+    "itemId": "9f40959653d3589ea1ddba2d539705d6525dbb8b44d472c65852cd59eddab849",
+    "timestamp": "2022-06-11T12:09:19.000Z",
+    "price": 0.24
+  },
+  {
+    "itemId": "71a3be91a95e43f9bf3d11d850e6a5664907a6849d1742cb4022de6bb915f41c",
+    "timestamp": "2022-06-11T12:09:19.000Z",
+    "price": 0.24
+  },
+  {
+    "itemId": "b93982df2420e51dbbed4fdb64530580913a690e666bd7e49485d4cd3c19f22a",
+    "timestamp": "2022-06-11T12:09:32.000Z",
+    "price": 0.298
+  },
+  {
+    "itemId": "3165dd4f34e78b2047c999de18d2b6333afb4fd44bcfa0188f8f14db0d4f6554",
+    "timestamp": "2022-06-11T12:12:39.000Z",
+    "price": 0.24
+  },
+  {
+    "itemId": "74342889a5f85dcecdc7e5407d4208b75ee8378c0c99ed28972696c7cefc8874",
+    "timestamp": "2022-06-11T12:16:40.000Z",
+    "price": 0.24
+  },
+  {
+    "itemId": "56b8b339c056c3641d459432d5e6880e8afc2d4347510d5b952fe744e67d0226",
+    "timestamp": "2022-06-11T12:17:43.000Z",
+    "price": 0.24
+  },
+  {
+    "itemId": "b80004fc35bd3c83257bddcb273fe4ed92c2969f72e16a925aa073b3f33a15d0",
+    "timestamp": "2022-06-11T12:49:51.000Z",
+    "price": 0.239
+  },
+  {
+    "itemId": "1744f921f6a7f52c0e44138d2a4fda3020ea0df4baba14983260270f42a56274",
+    "timestamp": "2022-06-11T12:49:51.000Z",
+    "price": 0.2395
+  },
+  {
+    "itemId": "ab87ad796a9839e1b9160257ea841471fa8bdca23c169a7e054e0eea3f3c2b1c",
+    "timestamp": "2022-06-11T13:09:34.000Z",
+    "price": 0.24
+  },
+  {
+    "itemId": "a95b51020bb925a082280226162a541e1a45e8ca83df28418d6c96b4b1fe9e2e",
+    "timestamp": "2022-06-11T13:36:40.000Z",
+    "price": 0.24
+  },
+  {
+    "itemId": "c1b5c574b6e5d74f248a515585ea68b17378dc637dfa63ae6866a4adcf491619",
+    "timestamp": "2022-06-11T13:38:47.000Z",
+    "price": 0.24
+  },
+  {
+    "itemId": "f9da9b583bcb47bfa7fc2972c6de9b835165e66e5cebe491e61d555629483f71",
+    "timestamp": "2022-06-11T13:38:47.000Z",
+    "price": 0.24
+  },
+  {
+    "itemId": "115351f0f27b17e15c02ebbd3b8f82c8e557d523ba3b78131eddcff4188ef9a9",
+    "timestamp": "2022-06-11T13:38:47.000Z",
+    "price": 0.24
+  },
+  {
+    "itemId": "5aa533abb96af311fd69ece43af08808f9b6885de0d2d2e70e91bc5b5b817546",
+    "timestamp": "2022-06-11T13:38:47.000Z",
+    "price": 0.24
+  },
+  {
+    "itemId": "b72ffdd5e014422defb3cbf69a35c16a598496b6768e3319a760de96a2a340e9",
+    "timestamp": "2022-06-11T13:38:47.000Z",
+    "price": 0.24
+  },
+  {
+    "itemId": "b6a14ef220fc7b71009476e3e145a57925f4a9c06db8817e3bb1f2086cb03a82",
+    "timestamp": "2022-06-11T13:38:47.000Z",
+    "price": 0.24
+  },
+  {
+    "itemId": "add181b6dad6ea6280b1e153e48085191c5f0fee93c04f24c5cc597ecb634ea0",
+    "timestamp": "2022-06-11T13:38:47.000Z",
+    "price": 0.24
+  },
+  {
+    "itemId": "651d296f878377ebb5e5f02776f66d68679814b55a63831e75f404ce8fb551d7",
+    "timestamp": "2022-06-11T13:38:47.000Z",
+    "price": 0.24
+  },
+  {
+    "itemId": "f307dec322b0dd1686dba1a0d17e67d8567ebe5a6d6e5e20751bd0be3936aa09",
+    "timestamp": "2022-06-11T13:38:47.000Z",
+    "price": 0.24
+  },
+  {
+    "itemId": "b24e998c410481df50f17fccab5c3230d5bdf9b2d557b5cd451de5e7ac3ea261",
+    "timestamp": "2022-06-11T13:38:47.000Z",
+    "price": 0.24
+  },
+  {
+    "itemId": "0421c935c2923bdac9d26277bdde09d434bca9ddbc63ee5919c3152db38eecff",
+    "timestamp": "2022-06-11T13:38:47.000Z",
+    "price": 0.24
+  },
+  {
+    "itemId": "7e8922c46ab14fdb473e72131caa3f5831bdf173b3da4cef6a5beeccd83dd6f9",
+    "timestamp": "2022-06-11T13:38:47.000Z",
+    "price": 0.24
+  },
+  {
+    "itemId": "b886aec20456e407bb5a39b4e9dea3ee5c08dca94a509eb55659cf49f5d14b2f",
+    "timestamp": "2022-06-11T13:38:47.000Z",
+    "price": 0.24
+  },
+  {
+    "itemId": "51be687b4b6a83563683b47f888108dc59596826e233512983b36cb640b7dfa8",
+    "timestamp": "2022-06-11T13:38:47.000Z",
+    "price": 0.24
+  },
+  {
+    "itemId": "bd05161f736c638a929fd011a07326d7bcb1b99521b0c8b644501960194ad53d",
+    "timestamp": "2022-06-11T13:38:47.000Z",
+    "price": 0.24
+  },
+  {
+    "itemId": "09a171cd56650a6f337e59c9952443e8b37ec73c6cbeb47a30529925dd61eabd",
+    "timestamp": "2022-06-11T13:47:58.000Z",
+    "price": 0.24
+  },
+  {
+    "itemId": "f977190b4f0ce6f59738f7d25935788f69667828f15806d7426ba682e4fc6e3b",
+    "timestamp": "2022-06-11T13:57:23.000Z",
+    "price": 0.24
+  },
+  {
+    "itemId": "e7ce3c1f5bf2464519da725bbdac6ecbb8f2c071b728a78f8b9303612af47af5",
+    "timestamp": "2022-06-11T13:57:23.000Z",
+    "price": 0.24
+  },
+  {
+    "itemId": "f69d82e863b43e3a40de1b1476a695a28b3c598f97405b2a0f52fa0a253b8287",
+    "timestamp": "2022-06-11T14:12:15.000Z",
+    "price": 0.24
+  },
+  {
+    "itemId": "1139f73fd4756fffda84c71f8fa5838429e44c0607208eb5fb40fe104c40196a",
+    "timestamp": "2022-06-11T14:20:16.000Z",
+    "price": 0.31
+  },
+  {
+    "itemId": "3b6cd23399f7abbfff5b03f4d634664ae22511d96a993e099a4e5b9b58572c59",
+    "timestamp": "2022-06-11T15:05:16.000Z",
+    "price": 0.24
+  },
+  {
+    "itemId": "2f515e08221d7a11c3862ebaabea7e174047f6ec481396b0cb04d341c1f790e8",
+    "timestamp": "2022-06-11T15:05:16.000Z",
+    "price": 0.24
+  },
+  {
+    "itemId": "d14fced3c7c29a5f66c696b81fe7300ebe68245009fa44f258ec14b6e80d6deb",
+    "timestamp": "2022-06-11T15:05:16.000Z",
+    "price": 0.24
+  },
+  {
+    "itemId": "c99ec994676d46d629aefa1926752d79fccd6377f59494f196fd0a4086ce3709",
+    "timestamp": "2022-06-11T15:05:16.000Z",
+    "price": 0.24
+  },
+  {
+    "itemId": "9c0a98a2c9f69ec17bb34dd00c440dda0e649e87bc137161c71ec6b2551cdd56",
+    "timestamp": "2022-06-11T15:05:16.000Z",
+    "price": 0.24
+  },
+  {
+    "itemId": "2d6250db2fc23eee4b1cdafc46f5e341e7a5b2232d5cecde6926cc96cb0c3e88",
+    "timestamp": "2022-06-11T15:05:16.000Z",
+    "price": 0.24
+  },
+  {
+    "itemId": "c5ada3f70b278372be172bd1e6d9fe9f1e5637e74a30f0a3a857900efd05a446",
+    "timestamp": "2022-06-11T15:05:16.000Z",
+    "price": 0.24
+  },
+  {
+    "itemId": "bded7655d29212091290226dcc797ec2bbb6075b0cebe60024942cd1cabd71a8",
+    "timestamp": "2022-06-11T15:05:16.000Z",
+    "price": 0.24
+  },
+  {
+    "itemId": "7baafce2c2ac1982d3f2e28e4e245016c42c80e8c3abf60fa85a2b077e34b771",
+    "timestamp": "2022-06-11T15:05:16.000Z",
+    "price": 0.24
+  },
+  {
+    "itemId": "ac67b3ff7bf3fa4f5b057d87c9a6d394dd82b2f3ab71cd3a626dc37ce7c34134",
+    "timestamp": "2022-06-11T15:05:16.000Z",
+    "price": 0.24
+  },
+  {
+    "itemId": "94afc72b9a04e919335819c5cd5050050756dc2f792ab89eed4da8b7a1e6630c",
+    "timestamp": "2022-06-11T15:05:16.000Z",
+    "price": 0.24
+  },
+  {
+    "itemId": "26b3aa4a090c446af25d9c6f89d98b81ef791e096f168845c7b4f750b01c9e06",
+    "timestamp": "2022-06-11T15:05:16.000Z",
+    "price": 0.24
+  },
+  {
+    "itemId": "0a5e628009ea1d208520e002515c92bc1dfd0d4bdce80c20385667d095267255",
+    "timestamp": "2022-06-11T15:05:16.000Z",
+    "price": 0.24
+  },
+  {
+    "itemId": "155e818db0086e9914087b4818c6a11cc1926fd6d19da9b14bcd9da89df7eaf1",
+    "timestamp": "2022-06-11T15:05:16.000Z",
+    "price": 0.24
+  },
+  {
+    "itemId": "710d589fb3d1b4aa94829cd593f6fe03bf73e29566b7b3b7752c7ad9705c6753",
+    "timestamp": "2022-06-11T15:05:16.000Z",
+    "price": 0.24
+  },
+  {
+    "itemId": "c75211230d6316b0d3588cfff98fcdfa4fb84338a7fa9e52e2ee90945d5112fa",
+    "timestamp": "2022-06-11T15:05:16.000Z",
+    "price": 0.239
+  },
+  {
+    "itemId": "bc5dbb1338b0d5081578473d59ba90872862d65944ab43586f0fc3be3951450f",
+    "timestamp": "2022-06-11T15:05:16.000Z",
+    "price": 0.239
+  },
+  {
+    "itemId": "5580e7512b836cad1bdfe59a42c9ff73855f07c1c472d192e0303e7eefbdc8ce",
+    "timestamp": "2022-06-11T15:37:50.000Z",
+    "price": 0.3
+  },
+  {
+    "itemId": "0873b3dd81b3476d590989aac2db1981dd26af014dca8cf59227e28195ea31fe",
+    "timestamp": "2022-06-11T15:55:13.000Z",
+    "price": 0.24
+  },
+  {
+    "itemId": "2a6d8364555cc402cf0f2d840c297838aa03ec32ec8b9532461db4366d4e5d08",
+    "timestamp": "2022-06-11T16:51:37.000Z",
+    "price": 0.319
+  },
+  {
+    "itemId": "e295da07ae66d9dfa4708ef907559e5ac978c02700a7e0e1d592eafb4ac47df3",
+    "timestamp": "2022-06-11T17:57:00.000Z",
+    "price": 0.499
+  },
+  {
+    "itemId": "a7e5123b4f52a526fa68f59746e35e482a946e4fc802290f974c02651cc71e92",
+    "timestamp": "2022-06-11T20:02:10.000Z",
+    "price": 0.311
+  },
+  {
+    "itemId": "a6454a445195adf66c0f462bcd05925ef6d24b0038a1038ad23c322fd73f27b6",
+    "timestamp": "2022-06-12T06:12:04.000Z",
+    "price": 0.4
+  },
+  {
+    "itemId": "3c757c1ad67e1bf50d62fb84d5abd00599a45141859bd293d3d0dfa2b032a1a3",
+    "timestamp": "2022-06-12T07:03:43.000Z",
+    "price": 0
+  },
+  {
+    "itemId": "8af2c4d7f3d5a951e3f223b04a3c1afb98a27a938b796b9063baf75c22f680c2",
+    "timestamp": "2022-06-12T07:14:32.000Z",
+    "price": 0.22362
+  },
+  {
+    "itemId": "af8bd84196171753aadfa3e12c7faa91525030827880df1c7dd50cb9f4bb6228",
+    "timestamp": "2022-06-12T07:15:59.000Z",
+    "price": 0.2
+  },
+  {
+    "itemId": "b6683161fff5309116399f10764088e60e047d2ffc74a7276ca177d972c28455",
+    "timestamp": "2022-06-12T13:31:52.000Z",
+    "price": 0.333
+  },
+  {
+    "itemId": "848f30836faf992d734ed0e5892268942d3e4e56ae36a730546552cf893eb73c",
+    "timestamp": "2022-06-12T13:40:58.000Z",
+    "price": 0.3
+  },
+  {
+    "itemId": "02d18bfae614163cd4c839448af0549bf8c43f309a67340398dd392fabe7732c",
+    "timestamp": "2022-06-12T18:04:58.000Z",
+    "price": 0.5
+  },
+  {
+    "itemId": "891c363e785846ad8214343f2eb3d97ba2d143cdfd01bef9d6751ca295047803",
+    "timestamp": "2022-06-12T19:40:06.000Z",
+    "price": 0.32
+  },
+  {
+    "itemId": "36463c44d4de8147316ce97050109e0d5837fcd64c0c88893e21b8b22576f467",
+    "timestamp": "2022-06-13T02:46:43.000Z",
+    "price": 0.33
+  },
+  {
+    "itemId": "3db856af809be9b8a15d50726daeac0b0d746ddb7d7750674d483ab2d7e601e1",
+    "timestamp": "2022-06-13T03:02:26.000Z",
+    "price": 0.28
+  },
+  {
+    "itemId": "ca310e1e41ea615051b9486e236869b2ff375cd103727eb7bf6fed9295167cb7",
+    "timestamp": "2022-06-13T13:37:40.000Z",
+    "price": 0.1971
+  },
+  {
+    "itemId": "873e02c6115e6ab48a6b363b4716581ba3b9ad0194f730e434a375a42f74b1b8",
+    "timestamp": "2022-06-13T14:40:31.000Z",
+    "price": 0.269
+  },
+  {
+    "itemId": "38a87ee33ffcabfe77fc522541eccef93dece02e8e67660b4c621135a25e2ab4",
+    "timestamp": "2022-06-13T16:30:38.000Z",
+    "price": 0.27
+  },
+  {
+    "itemId": "5f4ed33fb40048325b6dfb5d06be13e6104de700b8556472b2acf8489c28c2bd",
+    "timestamp": "2022-06-13T17:40:19.000Z",
+    "price": 0.28
+  },
+  {
+    "itemId": "b8131abc2e0145bf03f02c6615fc4ff2e07a5e6626a56b060f700964197f70ea",
+    "timestamp": "2022-06-13T18:25:44.000Z",
+    "price": 0.335
+  },
+  {
+    "itemId": "168e6241d179a381a94b3dfa728061551a5e4468c613ef27b93f917e32ca6251",
+    "timestamp": "2022-06-13T20:15:55.000Z",
+    "price": 0.269
+  },
+  {
+    "itemId": "ab15a0f42fcee7d51703552e485d7904d267c1d276e4838810e01ba7d0402376",
+    "timestamp": "2022-06-13T23:55:36.000Z",
+    "price": 0.45
+  },
+  {
+    "itemId": "accae39010be7820565aeafb68ee7558ea6cdd8d3b1100ba134c94c261a5d178",
+    "timestamp": "2022-06-14T02:08:16.000Z",
+    "price": 0.33
+  },
+  {
+    "itemId": "a0bb1e5c783d0e9389d03b4b1eafe4b8c175dac7003e64a5181e44e4223b3115",
+    "timestamp": "2022-06-14T02:20:09.000Z",
+    "price": 0.365
+  },
+  {
+    "itemId": "fd3c3ebc645d33de0ba014b7cbd3fcbabd0f2b604a0392f6f5081246ae3d9e1f",
+    "timestamp": "2022-06-14T05:52:16.000Z",
+    "price": 0.455
+  },
+  {
+    "itemId": "2c6d15e277cd40310f26826edffe3e974bc66bfdd27a90975dadba3f874499ac",
+    "timestamp": "2022-06-14T06:46:26.000Z",
+    "price": 0.365
+  },
+  {
+    "itemId": "2cfd6073a254767817cf9531bc333ab4affd036f201d5fc47693e66dded61972",
+    "timestamp": "2022-06-14T09:37:29.000Z",
+    "price": 0.88
+  },
+  {
+    "itemId": "10535ed118a7c232f71aa6c15958e5ca2a66be9de6077f98b771c0c85b949d74",
+    "timestamp": "2022-06-14T11:34:03.000Z",
+    "price": 0.278
+  },
+  {
+    "itemId": "a3ac148dcdc29f64edb6ff7744d6d091403b58f03d21dea486398c607dea0be6",
+    "timestamp": "2022-06-14T12:10:12.000Z",
+    "price": 0.269
+  },
+  {
+    "itemId": "00241510e70b090ae73ccabed7a5161abb7b46038dcd537debed62e5edf37568",
+    "timestamp": "2022-06-14T12:56:59.000Z",
+    "price": 0.65
+  },
+  {
+    "itemId": "07a59f8fede24293cfc34cf7614e5031d0c834a5466e296a4ffed9bec60298b0",
+    "timestamp": "2022-06-14T13:00:19.000Z",
+    "price": 0.1752
+  },
+  {
+    "itemId": "5bd0b851952e10af2c3942e0561a1a05e9a5a5f505e80bd8472d2c64084972bc",
+    "timestamp": "2022-06-14T14:11:15.000Z",
+    "price": 0.239
+  },
+  {
+    "itemId": "60e135b05033a9f6014307b6f471bf31e38d1ceea02bf00f8b94ddbbd45244c7",
+    "timestamp": "2022-06-14T14:41:11.000Z",
+    "price": 0.3
+  },
+  {
+    "itemId": "991fc3bf3b86bc8f52dc5297e6ad007428bb9512fc29ca3a91a0766bba438752",
+    "timestamp": "2022-06-14T18:49:26.000Z",
+    "price": 0.25
+  },
+  {
+    "itemId": "495d9ed37c9cc996485b8917f8e718ec3fd73ec2c28c5801e04567b7c38e37ad",
+    "timestamp": "2022-06-14T18:58:58.000Z",
+    "price": 0.38
+  },
+  {
+    "itemId": "ec7ad8c93641451fa0f92f91c6feede73d541033857dd9581ad13a2451fd5abd",
+    "timestamp": "2022-06-14T19:43:03.000Z",
+    "price": 0.24
+  },
+  {
+    "itemId": "aa9018a18b9e072dcf366f6376d0ab4191f0d34e4f33d25e9f9cb7ea638c0507",
+    "timestamp": "2022-06-14T20:11:14.000Z",
+    "price": 0.365
+  },
+  {
+    "itemId": "4299d28f16611e9c54d22b4e84426549761ab8e60f8c0cdba21fc695d062aad8",
+    "timestamp": "2022-06-14T21:00:38.000Z",
+    "price": 0.45
+  },
+  {
+    "itemId": "7ba2f29591ccc0485502d7308ab34a6d8b6d99542e6049467eb2dac556e3dccd",
+    "timestamp": "2022-06-15T00:13:18.000Z",
+    "price": 0.366
+  },
+  {
+    "itemId": "c48282612bea2ab005c7d83280db077badd1e12792234b525f7c52e877e3c5cb",
+    "timestamp": "2022-06-15T02:51:16.000Z",
+    "price": 0.468
+  },
+  {
+    "itemId": "a7615671f9331fb9e51223d277cf0db700453b849f15411a2955eb52f4b6bd9c",
+    "timestamp": "2022-06-15T05:29:37.000Z",
+    "price": 0.24
+  },
+  {
+    "itemId": "f9c20135f3f499149eae25d78dc40fde0cd7d86381cd5c9be9fd0e8f89d2a137",
+    "timestamp": "2022-06-15T12:39:02.000Z",
+    "price": 0.5
+  },
+  {
+    "itemId": "3c81fae12706f7d83d85db2336c134db543485303dd35b9cd8acd8aaffb4d394",
+    "timestamp": "2022-06-15T15:35:48.000Z",
+    "price": 0
+  },
+  {
+    "itemId": "797d1ed10bc81aab2b84a91505a119490ff02845b87b3f380efd898fc16eef1e",
+    "timestamp": "2022-06-15T16:18:46.000Z",
+    "price": 0.4
+  },
+  {
+    "itemId": "eece857f97cc83515342f2819adf6561a21ed5e620feee0e378ccc00f45c1957",
+    "timestamp": "2022-06-15T16:23:37.000Z",
+    "price": 0.239
+  },
+  {
+    "itemId": "229443795b652a79de08eef406c91dd1998457e039a9700808b76d736d266384",
+    "timestamp": "2022-06-15T18:27:40.000Z",
+    "price": 0.28
+  },
+  {
+    "itemId": "700688f85f946a562667ba1eb1bff7b8b3878c30c57edfdf8e210426b4cdc58f",
+    "timestamp": "2022-06-15T18:52:22.000Z",
+    "price": 0.425
+  },
+  {
+    "itemId": "d0dde397c4b183b8ffe1025ca424af04b3b79a1269a85b7d9819ede0966bc246",
+    "timestamp": "2022-06-15T21:52:34.000Z",
+    "price": 0.389
+  },
+  {
+    "itemId": "ca550a9ae3418cf33b833af75e1669c2a4c65f3e8e098456f24746b118059479",
+    "timestamp": "2022-06-16T01:13:44.000Z",
+    "price": 0.24
+  },
+  {
+    "itemId": "4726382744837f41bc12050050ecf092bd2711cc80886bca4a4b0e0e67ab9827",
+    "timestamp": "2022-06-16T03:46:17.000Z",
+    "price": 0.28
+  },
+  {
+    "itemId": "7e38bcbdcd8c0f307e520a70d2361d276246d2979b4ffc0199240a53cc406ea3",
+    "timestamp": "2022-06-16T04:47:58.000Z",
+    "price": 0.269
+  },
+  {
+    "itemId": "278457b9c873eba7deaaf0b8a818339bf2611edb11a9d63f8ab8d11b5b56b153",
+    "timestamp": "2022-06-16T05:02:44.000Z",
+    "price": 0.5
+  },
+  {
+    "itemId": "9448f4e0914c3097c168184b9a16f5031e92ce0603dc001b501ee246175bbaa9",
+    "timestamp": "2022-06-16T16:38:09.000Z",
+    "price": 0.301
+  },
+  {
+    "itemId": "60293a264659f8890891c6e20ccb507b5acd335dfc219bd47ca82326452042a4",
+    "timestamp": "2022-06-16T18:39:37.000Z",
+    "price": 0.35
+  },
+  {
+    "itemId": "fec46e3479fa4ccccfa758734166c1e01fb4771862c4f245005d4a6b9e249483",
+    "timestamp": "2022-06-16T19:08:40.000Z",
+    "price": 0.74
+  },
+  {
+    "itemId": "7ad3857f9848230fc7908b3e0ca5ba9a7ce07527b95dd6e7020b09d5d6dc3801",
+    "timestamp": "2022-06-16T20:01:34.000Z",
+    "price": 0.5
+  },
+  {
+    "itemId": "63e400dcf90d5c76f68cb61bae9581c7d41c5286d53e1785bfd095c81e1f7083",
+    "timestamp": "2022-06-16T23:17:52.000Z",
+    "price": 0.5
+  },
+  {
+    "itemId": "5efe3c20954e486e14f6c59fb2d570a7cf6ce92795252d0ed66cb0914007f97b",
+    "timestamp": "2022-06-16T23:24:57.000Z",
+    "price": 0.3
+  },
+  {
+    "itemId": "855d108eb8ba5a73b140ee21831b0dc9ab7a0bee5924ba475a703c1dea7c3975",
+    "timestamp": "2022-06-16T23:36:11.000Z",
+    "price": 0.25
+  },
+  {
+    "itemId": "58b85bceef39ef36c3989f02e8c50ea61a8187aa9fc37e1a7bb86782933ba9c1",
+    "timestamp": "2022-06-17T03:16:11.000Z",
+    "price": 0.5
+  },
+  {
+    "itemId": "6d98017b754c4152d1177f14ec9020909f5b7faa776c24e2b3386ef4c3399a25",
+    "timestamp": "2022-06-17T03:28:48.000Z",
+    "price": 0.475
+  },
+  {
+    "itemId": "9712847ca3b72a96cb84cbe136b7b65b1a817dfe746efc0052a795ce3e24bc8c",
+    "timestamp": "2022-06-17T03:49:39.000Z",
+    "price": 0.28
+  },
+  {
+    "itemId": "5b9168d6184b57ba85d35fae14ea2d82821e1d6fe4f068b5883c5098845cf793",
+    "timestamp": "2022-06-17T08:57:08.000Z",
+    "price": 0.29
+  },
+  {
+    "itemId": "46c4b4494966482fc67547334b093b729edf34353e771411a2c83af55960a585",
+    "timestamp": "2022-06-17T11:37:38.000Z",
+    "price": 0.2699
+  },
+  {
+    "itemId": "d06d50b5b908d2f8217f12e2dce616fdaad98743da013c9cb63b208ab6460436",
+    "timestamp": "2022-06-17T13:51:47.000Z",
+    "price": 0.475
+  },
+  {
+    "itemId": "6d7abcfd7fcaf897c3a06f1ac305995c9c00dc15ff8e4303120cd7b04b0c78fc",
+    "timestamp": "2022-06-17T15:05:01.000Z",
+    "price": 0.425
+  },
+  {
+    "itemId": "ae01a48b6a59b3d0ea6249a900f2e28ab3e20ce612d92ed021b7968f196b70ab",
+    "timestamp": "2022-06-17T15:54:29.000Z",
+    "price": 0.255
+  },
+  {
+    "itemId": "59679535c88cb8b8ffb947b2c1bd35eeb822bf4e90306dc51815d1c645a6a13c",
+    "timestamp": "2022-06-17T15:56:02.000Z",
+    "price": 0.245
+  },
+  {
+    "itemId": "75c92d0df9561b9bdd8f7ef1ff3559fc8cbb242491e6e48035aaadd862397b58",
+    "timestamp": "2022-06-17T17:14:13.000Z",
+    "price": 0.4
+  },
+  {
+    "itemId": "02d54d35765393708ab77a4d504ff5ed871c6f78a8996b3f300818fe545830c5",
+    "timestamp": "2022-06-17T17:51:58.000Z",
+    "price": 0.26
+  },
+  {
+    "itemId": "dae8d406776dd4f29dc813b68643457d769c29f3e21eb96056e4ebbeadf5425c",
+    "timestamp": "2022-06-17T18:17:23.000Z",
+    "price": 0.283
+  },
+  {
+    "itemId": "0f9d98110e6a881de4e272ad3d04d1366934afc23fae907b529034b4dd64a4ad",
+    "timestamp": "2022-06-17T19:42:08.000Z",
+    "price": 0.6
+  },
+  {
+    "itemId": "cdcca11d0c0d14d12866fad253345a89dbfe2064ebee36f9a065b84fca20b277",
+    "timestamp": "2022-06-17T21:10:16.000Z",
+    "price": 0.295
+  },
+  {
+    "itemId": "86aceb865423ea38876436fddad15b25ce3cdd9dfcef0f894b59207b0a18b68f",
+    "timestamp": "2022-06-17T23:22:16.000Z",
+    "price": 0.349
+  },
+  {
+    "itemId": "004a019e73d8f680a3e49998a55d34580d0473b68c3c0f5f85df573f27dd4cad",
+    "timestamp": "2022-06-18T08:44:30.000Z",
+    "price": 0.295
+  },
+  {
+    "itemId": "f40d01018b5cd27711607e2e4081b1fa7116b045f2b5cbd59a0fc47ec7482910",
+    "timestamp": "2022-06-18T09:29:19.000Z",
+    "price": 0.4
+  },
+  {
+    "itemId": "98c1af53e8558f6a06453b0bac7a6a88e1b02e5c8db914bec3a11f36b60c246f",
+    "timestamp": "2022-06-18T09:43:32.000Z",
+    "price": 0.375
+  },
+  {
+    "itemId": "e43b32c156de101cfd7398df2d7d95fa9e76fbd986701138ffeda84e1cc234fa",
+    "timestamp": "2022-06-18T09:46:32.000Z",
+    "price": 0.329
+  },
+  {
+    "itemId": "89204a42aa4e99d49c1d2fe576d10407d4bb20fbd52e42e2231b59433db0a371",
+    "timestamp": "2022-06-18T09:48:13.000Z",
+    "price": 0.5
+  },
+  {
+    "itemId": "91c98d81c508147febcb84d956c6d28f38ad20b82e1860b6477b7e4e857f095e",
+    "timestamp": "2022-06-18T13:26:15.000Z",
+    "price": 0.275
+  },
+  {
+    "itemId": "f700fb25b77395fb2669a529de24c55634608aa39e5ef1c26df5bc9ed14744f5",
+    "timestamp": "2022-06-18T13:26:38.000Z",
+    "price": 0.28
+  },
+  {
+    "itemId": "554aaa43c96126130edc65b4ae5d649f73d9fd9270f7fd40cadc1a0c64ff428b",
+    "timestamp": "2022-06-18T13:28:09.000Z",
+    "price": 0.59
+  },
+  {
+    "itemId": "c2a3a5ec9545cdeb65a04405a03be70704935063c216db38dc0f07a910321b11",
+    "timestamp": "2022-06-18T17:36:20.000Z",
+    "price": 0.26
+  },
+  {
+    "itemId": "c5c41364d2d3e945b586f36b07a16b8a7a449db0562f2f0dc93f7bcbf73f1a71",
+    "timestamp": "2022-06-18T19:26:16.000Z",
+    "price": 0.5
+  },
+  {
+    "itemId": "6c79500b395c013ae4d875b2bcc4ccd36b372e4d1cb10faf0314b1afe51050e1",
+    "timestamp": "2022-06-19T00:15:02.000Z",
+    "price": 0.59
+  },
+  {
+    "itemId": "f859114ba41935bdf5414b0783b1041a58f7efa2f4741d314ad18e2ca3bb8b70",
+    "timestamp": "2022-06-19T02:21:39.000Z",
+    "price": 0.278
+  },
+  {
+    "itemId": "cd5e4598e811f5dead132bbd7084ae69dff5b0ecb64a694ecabe682814500db0",
+    "timestamp": "2022-06-19T02:22:35.000Z",
+    "price": 0.28
+  },
+  {
+    "itemId": "4712ce84394313082787f88424ff84bcde8d0bae2e36e00e774b45ce08516877",
+    "timestamp": "2022-06-19T03:42:35.000Z",
+    "price": 0.32
+  },
+  {
+    "itemId": "bcaebdc7ddb13c19634ee2ae140f1dd57f9678b7cc2301d52d38b125ffda3b05",
+    "timestamp": "2022-06-19T03:42:35.000Z",
+    "price": 0.28
+  },
+  {
+    "itemId": "2a58bcc915c9f659ef32fa314254342301c177eeea1bc6a07fd7b42c6392001a",
+    "timestamp": "2022-06-19T03:44:32.000Z",
+    "price": 0.28
+  },
+  {
+    "itemId": "938ebdd09158e091d2d06d76c84b0d9a1b3c17a68e92935cc40ffae8e7473a8a",
+    "timestamp": "2022-06-19T03:54:49.000Z",
+    "price": 0.28
+  },
+  {
+    "itemId": "b5e5541e0e6d5ee04746441919117a8d2dd8ecdff6e2fd2a1d5f3df648abc3a5",
+    "timestamp": "2022-06-19T04:04:38.000Z",
+    "price": 0.28
+  },
+  {
+    "itemId": "61646fb3e47c33cdaa25fd53a2c8564bdea32827df57ce36159842f3f6f4ff26",
+    "timestamp": "2022-06-19T04:17:41.000Z",
+    "price": 0.28
+  },
+  {
+    "itemId": "a91559a964326988be50d8b13186f361af3484f43e23ca88f18c428ef500a71b",
+    "timestamp": "2022-06-19T06:00:52.000Z",
+    "price": 0.049
+  },
+  {
+    "itemId": "33894741d9c29fc1a87f9d922d7a82d6d0c2eab67af251f1970a40d846a97ce2",
+    "timestamp": "2022-06-19T08:17:29.000Z",
+    "price": 0.283
+  },
+  {
+    "itemId": "c2620a8a06e1cb679119a6b41b82ba64cb395eabc065897f7a6f297e292a845e",
+    "timestamp": "2022-06-19T09:28:02.000Z",
+    "price": 0.258
+  },
+  {
+    "itemId": "769de4b0f1b1976b32ca2d6de39d256391c1f95d84fdd890a22ac3c1903580a2",
+    "timestamp": "2022-06-19T09:29:31.000Z",
+    "price": 0.25101
+  },
+  {
+    "itemId": "4ded555f501b100321ece2cc2aebf9df3a3b594dc8a78cab4c5ecd87e784fa86",
+    "timestamp": "2022-06-19T09:48:52.000Z",
+    "price": 0.25001
+  },
+  {
+    "itemId": "c6e44aaa69ec52f182acc228fae6f8141d39eebb090846ccd0af947ab904a27c",
+    "timestamp": "2022-06-19T09:50:29.000Z",
+    "price": 0.252
+  },
+  {
+    "itemId": "d34acfca5eea3c00e28ff482169163520c1792dddc426bc454cd7d1560c3003f",
+    "timestamp": "2022-06-19T10:04:43.000Z",
+    "price": 0.35
+  },
+  {
+    "itemId": "f79cf66328625a503a948029244c6f5e60b08ea4609336ee4d9c5d47fc20ff8e",
+    "timestamp": "2022-06-19T10:04:43.000Z",
+    "price": 0.4
+  },
+  {
+    "itemId": "6d092adaaee4028ad52d6a4f51edcb7ce0910de04d28bd0cdf88a71cf5d8cdf1",
+    "timestamp": "2022-06-19T10:06:57.000Z",
+    "price": 0.6
+  },
+  {
+    "itemId": "bbecc3a43480190e4b238a176370dfc472da8b8fff97a7037f6844c934e01829",
+    "timestamp": "2022-06-19T10:34:01.000Z",
+    "price": 0.328
+  },
+  {
+    "itemId": "73776ae49e85e90f9d46d2c1b2d8ac67026e9f2ea7a85bdd0312e0ddb3b26363",
+    "timestamp": "2022-06-19T10:43:53.000Z",
+    "price": 0.4
+  },
+  {
+    "itemId": "8e2f61a60d03799c950929b61bd263f7d8dbb63432ed4f3d50523a68b5f14659",
+    "timestamp": "2022-06-19T15:43:15.000Z",
+    "price": 0.265
+  },
+  {
+    "itemId": "510de8a7a7ed5ec5910cc49d6052ff2ad54ae0dfe8ee9dd855e31c31a2a99e33",
+    "timestamp": "2022-06-19T16:36:39.000Z",
+    "price": 0.35
+  },
+  {
+    "itemId": "211e6c125067733e2f6c2079f8686b057c6b3b4b868b9aa1ee378109086aed9b",
+    "timestamp": "2022-06-19T16:54:51.000Z",
+    "price": 0.28
+  },
+  {
+    "itemId": "ac4bee6b4dc22bfb46bda0dfed1711d0272c2631ea38eb8e7056e144ba756a85",
+    "timestamp": "2022-06-19T17:42:09.000Z",
+    "price": 0.44
+  },
+  {
+    "itemId": "104f1f740fd7fc5653afd89663d62e520014d9ef55d0146f90b0b3176b722f32",
+    "timestamp": "2022-06-19T19:30:19.000Z",
+    "price": 0.4
+  },
+  {
+    "itemId": "84d6c309302ae237f8e2f2b8df11416f476e5a99ea7ffd6587663f0ceb01a871",
+    "timestamp": "2022-06-19T23:04:05.000Z",
+    "price": 0.388
+  },
+  {
+    "itemId": "375c2e55605d10dbfd2e07d7596b1cd583b76752621333052a0d340587e9de4c",
+    "timestamp": "2022-06-20T02:00:43.000Z",
+    "price": 0.32
+  },
+  {
+    "itemId": "6f8523846a70f0b27c5d6a1faa95e2b24ca597bcb5c619fa5939e24e499682ca",
+    "timestamp": "2022-06-20T09:11:23.000Z",
+    "price": 0.499
+  },
+  {
+    "itemId": "fa24ea4b178a4f34dc884c8821a7b5a9e684a96da18b39d82573f96a3bfe6190",
+    "timestamp": "2022-06-20T11:28:00.000Z",
+    "price": 0.395
+  },
+  {
+    "itemId": "dda737e7a8816d5198cda27a40f870b77778154be59f176685f92c3db152cb80",
+    "timestamp": "2022-06-20T13:30:03.000Z",
+    "price": 0.399
+  },
+  {
+    "itemId": "93f59fef1de2462daf4abee17458222f5f6160ce576c3571b296c4f9cadc8025",
+    "timestamp": "2022-06-20T17:41:21.000Z",
+    "price": 0.4
+  },
+  {
+    "itemId": "402028fe5053f81ebe41e03b808ade73b70d7d9dc05bd72b0628a739d2685daf",
+    "timestamp": "2022-06-20T17:42:01.000Z",
+    "price": 0.41
+  },
+  {
+    "itemId": "a0926970ab7bea36008397abcdb82a35f83b8c2b8ec9e6725c0eb6a994fc6775",
+    "timestamp": "2022-06-20T17:43:30.000Z",
+    "price": 0.395
+  },
+  {
+    "itemId": "ae6808fe310496742fa6b486bcd656646a48c6411f9daf9374ced6cfa9b541b3",
+    "timestamp": "2022-06-20T20:20:54.000Z",
+    "price": 0.455
+  },
+  {
+    "itemId": "c51d7bb1156cacf3d0e8528444e1c7018a4ebb03e34f91a312b75833997b2a0a",
+    "timestamp": "2022-06-20T22:07:46.000Z",
+    "price": 0.375
+  },
+  {
+    "itemId": "75b23b3e8e7432fceb372801972c3dedd48fad0bfb03ab3ef7d702e7fe190682",
+    "timestamp": "2022-06-21T02:32:53.000Z",
+    "price": 0.4
+  },
+  {
+    "itemId": "c4051cc80be2fc29271d96476be8a18fc8da61aeab1d6c104768ae538e67c308",
+    "timestamp": "2022-06-21T04:49:21.000Z",
+    "price": 0.6
+  },
+  {
+    "itemId": "fe2bf50c28381069f025daf6fdd122b8ba9d6f71ea1a529fbac3c58432b3f655",
+    "timestamp": "2022-06-21T08:14:53.000Z",
+    "price": 0
+  },
+  {
+    "itemId": "6a54a84539ec967257d5011af0fea89812098f21a2fb7acad493714659fa867b",
+    "timestamp": "2022-06-21T08:31:23.000Z",
+    "price": 0.286
+  },
+  {
+    "itemId": "8b7e73ceda9a3958833449295841aaa4adc7687c69cf2306d8830ccf8d5a7241",
+    "timestamp": "2022-06-21T16:27:25.000Z",
+    "price": 0.345
+  },
+  {
+    "itemId": "2a640e027443abdaec7e06eb18e6022eecd45a1c99351c757987f1bb8199f2db",
+    "timestamp": "2022-06-21T16:43:07.000Z",
+    "price": 0.45
+  },
+  {
+    "itemId": "d5287344afb61c8779c91dc88d9cee8bbac9fa7b4c84eaa6c390d2a15f478258",
+    "timestamp": "2022-06-21T17:37:00.000Z",
+    "price": 0.384
+  },
+  {
+    "itemId": "bd8868a29ca046fd6715f66ef46f6950d167de5cd8a63163ae17379f62ba52f5",
+    "timestamp": "2022-06-22T01:39:12.000Z",
+    "price": 0.65
+  },
+  {
+    "itemId": "e3434dad23da3ca16fa7acd7fbf2514efd75f8a4166bdf3c980f2d79471054f2",
+    "timestamp": "2022-06-22T04:02:15.000Z",
+    "price": 0.69
+  },
+  {
+    "itemId": "ac9537165126d8c4a1d5ea5db6ebc342871f34125a5ac36e52e957bfd7a14cb2",
+    "timestamp": "2022-06-22T10:47:36.000Z",
+    "price": 0.418
+  },
+  {
+    "itemId": "bdacf75ffa9425d46d69385e30014b92fa43460ac60a980758fb853752dee232",
+    "timestamp": "2022-06-22T16:45:59.000Z",
+    "price": 0.55
+  },
+  {
+    "itemId": "ecce8e5a1da2483d4646e35e7b342aedb7a886c530a500d8f0b7012fe4edc79f",
+    "timestamp": "2022-06-22T19:40:37.000Z",
+    "price": 0.42
+  },
+  {
+    "itemId": "04030c18977607f24fde39ee17b629a9eb191ef496e0d783a6148dfcb038cbac",
+    "timestamp": "2022-06-22T22:21:17.000Z",
+    "price": 0.4
+  },
+  {
+    "itemId": "da1f844b0ad5b2af642c038d9e8c8a90d83634f90dd91be9d3ce32477981da1e",
+    "timestamp": "2022-06-23T03:36:05.000Z",
+    "price": 0.5
+  },
+  {
+    "itemId": "ade757eeafa9409eeba8ada4340f51f7403244dba7f239ee9311802517bd5c12",
+    "timestamp": "2022-06-23T06:48:27.000Z",
+    "price": 0.45
+  },
+  {
+    "itemId": "991541c87713120ae467c63eb0d8f98674c4fcd4304dc922aec31a0b64831596",
+    "timestamp": "2022-06-23T14:58:27.000Z",
+    "price": 0.4
+  },
+  {
+    "itemId": "6c038a75adaf38aaeae5dc5d39b791037e20a84cd313ae4839d7da6e8ab50011",
+    "timestamp": "2022-06-23T15:43:45.000Z",
+    "price": 0.385
+  },
+  {
+    "itemId": "b0524ed1aa4d5d2b34a6d4d4e945b0eb9575010d4b8cac8e4276a43c1b437d2f",
+    "timestamp": "2022-06-24T01:39:32.000Z",
+    "price": 0.96
+  },
+  {
+    "itemId": "26c8c2d78ab4d30006107e8d5d4f18e6add32aeaee57e47f102914328ab9433b",
+    "timestamp": "2022-06-24T02:01:10.000Z",
+    "price": 0.498
+  },
+  {
+    "itemId": "b597ef7f9e3a4e045be42e66d2a5873e8a3421862d8729aeba660a7719c2fbb3",
+    "timestamp": "2022-06-24T11:20:18.000Z",
+    "price": 0.444
+  },
+  {
+    "itemId": "6d9355e7de3cd647504c470cdf5dfd9df30cd5ba627439338d3bb25d9c71785a",
+    "timestamp": "2022-06-24T13:47:03.000Z",
+    "price": 0.745
+  },
+  {
+    "itemId": "7011c8a84388936df689cedf6dd6f265ba5de1d108d054d4395cf6d7259cc2b2",
+    "timestamp": "2022-06-24T14:26:50.000Z",
+    "price": 0.41
+  },
+  {
+    "itemId": "e4ecfa133e52e36e21356d82cd055cd13a2aa042598ba50b581da861acec23b3",
+    "timestamp": "2022-06-24T16:43:33.000Z",
+    "price": 0.888
+  },
+  {
+    "itemId": "6009dddd76ee2077e124a476b733195e2dab4a86abc2eaa418fadaaffb150097",
+    "timestamp": "2022-06-24T19:18:53.000Z",
+    "price": 0.3847
+  },
+  {
+    "itemId": "c84caa828ee05d613f40aa1bb3469c7394e7cfa11c2d759fd49dd4a141ade5d6",
+    "timestamp": "2022-06-24T22:47:34.000Z",
+    "price": 0.999
+  },
+  {
+    "itemId": "f028a84abee962b09f09f7de35e0261fae58d3785e7de743d25bdc8434df7b1a",
+    "timestamp": "2022-06-25T03:57:03.000Z",
+    "price": 0.59
+  },
+  {
+    "itemId": "75ea21385c30a6ca518be9384c68698b5241dfdb492965ef6106beb04be60b08",
+    "timestamp": "2022-06-26T12:34:21.000Z",
+    "price": 0.3697
+  },
+  {
+    "itemId": "7a24302bcff9285483dc3645b5cad6be61f4c9ef018b70a9bf724c7b8f5fb76e",
+    "timestamp": "2022-06-27T03:20:30.000Z",
+    "price": 0.435
+  },
+  {
+    "itemId": "0fd7d40b7d075ee555f92d82fed5da52b4bb08b439723ad7a92c1ea00bb44c6c",
+    "timestamp": "2022-06-27T06:00:21.000Z",
+    "price": 1.5
+  },
+  {
+    "itemId": "0ca41a54959eba1089eda49761cf93782d4616178c5dc72ed83be7942d453545",
+    "timestamp": "2022-06-27T11:22:14.000Z",
+    "price": 0.395
+  },
+  {
+    "itemId": "b975228972174d9bd0f0a4d320c526a33712eea04750a9f0f0e638ccb4a10072",
+    "timestamp": "2022-06-27T11:23:02.000Z",
+    "price": 0.44
+  },
+  {
+    "itemId": "b95588288036c2929e91a23ae1e0ff36cd8711038abebf094755e1da23f3ccdd",
+    "timestamp": "2022-06-27T21:12:02.000Z",
+    "price": 0.36
+  },
+  {
+    "itemId": "da2cfed145ece8e4f9301702561fdffb198c7d06557a076acc2eee694cd5fa18",
+    "timestamp": "2022-06-27T22:52:50.000Z",
+    "price": 0.365
+  },
+  {
+    "itemId": "3dfa79f6bfc0f9c8ac7cb13f82295e7017b50069c5a00e5a3b508d1313b6a510",
+    "timestamp": "2022-06-28T01:00:31.000Z",
+    "price": 0.666
+  },
+  {
+    "itemId": "67b2e0f5cac7ada6fc5763229dae0e7a78428d86edb2424f6244a0d26312fcb6",
+    "timestamp": "2022-06-28T03:16:31.000Z",
+    "price": 0.379
+  },
+  {
+    "itemId": "b08c4bf94a66e63fa539ff6952b919bbf98ecb1eb6f68bae4e72f50ab9932583",
+    "timestamp": "2022-06-28T03:18:21.000Z",
+    "price": 1.9
+  },
+  {
+    "itemId": "2cf912d28c7cba161cd383d403e475734b23adf9c62fd5c8b4c6adcf4cce6fac",
+    "timestamp": "2022-06-28T05:18:56.000Z",
+    "price": 0.395
+  },
+  {
+    "itemId": "11cd68260ddc17285b923b47520bf168420f3fc33fb3234a0ca2324ddfd6a327",
+    "timestamp": "2022-06-28T22:25:31.000Z",
+    "price": 0.2716
+  },
+  {
+    "itemId": "eb7cf62d7c485d693d79d10d222f0b473130af7495a3706978a97d834fe2c4e8",
+    "timestamp": "2022-06-28T23:23:43.000Z",
+    "price": 0.35
+  },
+  {
+    "itemId": "adedc43f8df4859c056119c24b22d54ef4650cb8fc63ea6099d9b9590742f861",
+    "timestamp": "2022-06-29T01:15:06.000Z",
+    "price": 0.5
+  },
+  {
+    "itemId": "836ae5fbd4aa48740ce17f8a7ef8dc19bb32b0e101fbb0743cbaa533214f0acd",
+    "timestamp": "2022-06-29T05:31:14.000Z",
+    "price": 0.385
+  },
+  {
+    "itemId": "d000868c6bec368984656f5b1c7ab3454626f130e3cfb11793b6c06522d636ce",
+    "timestamp": "2022-06-29T10:25:20.000Z",
+    "price": 0.385
+  },
+  {
+    "itemId": "c7f2ba65ed6f2099aa5446888175785ae10a85bb3bb39f90239177e094ae2785",
+    "timestamp": "2022-06-29T14:33:57.000Z",
+    "price": 0.339
+  },
+  {
+    "itemId": "8266cb12060303ad8857541b8e10cde2fb7f664cb24fe6b202a1ed342b449530",
+    "timestamp": "2022-06-29T15:52:34.000Z",
+    "price": 0.28
+  },
+  {
+    "itemId": "6f7cfaf5ab46ab23b088c6ecddf5743f59a03fd4e7db1b6c7bc2eac6bb7612dd",
+    "timestamp": "2022-06-29T22:50:33.000Z",
+    "price": 1.4
+  },
+  {
+    "itemId": "1021621b14c3f9398bc7cf44f56d0f67efee5872cc2b36858fb044c964b33b2e",
+    "timestamp": "2022-06-30T01:12:18.000Z",
+    "price": 0.282
+  },
+  {
+    "itemId": "c8eb69a94f17a3ffd4ffdf1f13f2eb6e97719527183f6d93f06cef05c2b72411",
+    "timestamp": "2022-06-30T06:58:39.000Z",
+    "price": 0.38
+  },
+  {
+    "itemId": "931b163e461507984f72f29bdd7da71b4e826ecf30ff1ef6d20db9cff7cd6591",
+    "timestamp": "2022-06-30T14:07:23.000Z",
+    "price": 0.42
+  },
+  {
+    "itemId": "8d070358003bc1d9b1fa572bb54ad0fb11164a769c1133e290e802f28bd501d1",
+    "timestamp": "2022-06-30T20:48:09.000Z",
+    "price": 1.5
+  },
+  {
+    "itemId": "0bca1735eb9031db3c78a99c7bc15df71b954f70a86cc2731ba2c66e1ba06b10",
+    "timestamp": "2022-06-30T22:35:38.000Z",
+    "price": 0.2633
+  },
+  {
+    "itemId": "a2832c963e38c4aa07ed489bfb24aa8a3a1c160418830dc5af7ced2d835015ba",
+    "timestamp": "2022-07-01T02:44:25.000Z",
+    "price": 0.34
+  },
+  {
+    "itemId": "8e29f500ef30f8a18b5dd0cc6df22e28027e98f28e7ae6dd094d24af75f91525",
+    "timestamp": "2022-07-01T03:00:26.000Z",
+    "price": 2.5
+  },
+  {
+    "itemId": "05a1e82f219228869d79df09986035542b82465f58efe219bdb42532c432b8ef",
+    "timestamp": "2022-07-01T14:17:09.000Z",
+    "price": 0.33
+  },
+  {
+    "itemId": "ddf51012172bd0d443fa9a1159aec1a7b2de58a1d7a83f3512c8af6c30dafc11",
+    "timestamp": "2022-07-01T14:27:14.000Z",
+    "price": 0.4
+  },
+  {
+    "itemId": "eb518625f9904451fd65373b1f37b053fbb57390d82a46cdc45b67d28c8f3307",
+    "timestamp": "2022-07-01T15:11:41.000Z",
+    "price": 0.335
+  },
+  {
+    "itemId": "8c2aef4c6cd739337fd6bea7e16aee28f7c8e90472793578b39b518a6a81e413",
+    "timestamp": "2022-07-01T15:28:40.000Z",
+    "price": 0.385
+  },
+  {
+    "itemId": "6ae6e4cd07982447f2dbb0a642a05e276a28832fa3e8678924979c0c9a89acad",
+    "timestamp": "2022-07-01T15:43:32.000Z",
+    "price": 0.395
+  },
+  {
+    "itemId": "38f44bdeef8f1d368387762edb4075ba72b1b76a450846daa5ab5fb84ec633a4",
+    "timestamp": "2022-07-01T16:26:17.000Z",
+    "price": 0.335
+  },
+  {
+    "itemId": "54172bd636d1ba4df08e0d61b1edf6d34e218192af09a8b4600af3ee6bb84dcf",
+    "timestamp": "2022-07-01T17:24:51.000Z",
+    "price": 0.45
+  },
+  {
+    "itemId": "0b667df5eea5eb7ed4bba45b8a0ec080e16e18b5b7ad1644d5ab1ad627935f28",
+    "timestamp": "2022-07-01T20:40:39.000Z",
+    "price": 0.5
+  },
+  {
+    "itemId": "55f2c0ca5eff449ffcb5ff297678ddb79a62f4eea72732defbf42d78eb72aecc",
+    "timestamp": "2022-07-01T23:04:18.000Z",
+    "price": 0.3296
+  },
+  {
+    "itemId": "7eee2e2577575d4e10d9fb5f4001a1cfc030375c53ef742494feb0302a29d3f3",
+    "timestamp": "2022-07-02T10:48:20.000Z",
+    "price": 0.49
+  },
+  {
+    "itemId": "f0005c70bad54bfde03196040e69b66d608ffe9b0a41a0b4036122109040caaa",
+    "timestamp": "2022-07-02T12:04:00.000Z",
+    "price": 0.3297
+  },
+  {
+    "itemId": "b38a4b4ae591cd4c3ed0f33034d45dc860f2a1cfc1fdd093eed739aed4c362b0",
+    "timestamp": "2022-07-02T12:21:36.000Z",
+    "price": 0.395
+  },
+  {
+    "itemId": "79b002b46a5e4df3970f1ab6f0be2b8569a38a1bca0de950e41802b3cfab18da",
+    "timestamp": "2022-07-02T14:27:41.000Z",
+    "price": 0.88
+  },
+  {
+    "itemId": "b8e25b0ea629b8de1d092477afc36a1446ff9b4269c353e40ab908236edd27d2",
+    "timestamp": "2022-07-02T15:02:04.000Z",
+    "price": 0.36
+  },
+  {
+    "itemId": "10fbd6e8daa4d079ac76438bec123232a556fce1b087e8bc7ed841a08f9e45c1",
+    "timestamp": "2022-07-02T15:45:50.000Z",
+    "price": 0
+  },
+  {
+    "itemId": "e098e5e186f91ca1ba42008a0864e3f612fee505fc8f92b043a14ea70f591808",
+    "timestamp": "2022-07-02T19:47:47.000Z",
+    "price": 0.385
+  },
+  {
+    "itemId": "a926177cb7dfe1e29165d9d819c5763ecd73a7d5bd7b43f2f4bdade0fb9617da",
+    "timestamp": "2022-07-03T03:22:03.000Z",
+    "price": 0.345
+  },
+  {
+    "itemId": "d74f445c8e90218a9d50eec9dded2741402bd5d120694cdb6b5d8c47e3a94f09",
+    "timestamp": "2022-07-03T12:46:25.000Z",
+    "price": 0.35
+  },
+  {
+    "itemId": "e9d316f9e9e54134542c67e08081d943c59a527b1a62a4cbbbd5f6d8831e1903",
+    "timestamp": "2022-07-03T12:46:25.000Z",
+    "price": 0.365
+  },
+  {
+    "itemId": "d601e92aca9f0e68824a734fa3aa1b14be9852b4e4bf931a50e6cab64641fa3c",
+    "timestamp": "2022-07-03T12:46:25.000Z",
+    "price": 0.336
+  },
+  {
+    "itemId": "bb7a450489d12468de2c9e2f19acfaed04caa7308889576d33323623a552baf4",
+    "timestamp": "2022-07-04T00:48:03.000Z",
+    "price": 0.27
+  },
+  {
+    "itemId": "e7dff8caeaef9e3b0a228848347ea5844cdb430bcd94ef2f428517cdc85dd300",
+    "timestamp": "2022-07-04T01:32:57.000Z",
+    "price": 0.444
+  },
+  {
+    "itemId": "d6e648067c380bcaf16e4c217b40cf62ecf83baaabc2e2c776087e980a71381a",
+    "timestamp": "2022-07-04T02:26:44.000Z",
+    "price": 0.34
+  },
+  {
+    "itemId": "594f3d890c17e9fb804c95e98671fd96391ccfaf62db65bf8a5d02b844e9345f",
+    "timestamp": "2022-07-04T07:52:48.000Z",
+    "price": 0.49
+  },
+  {
+    "itemId": "bc7b63e105b0edd00c2ad980eefddd1794da4c4a0c7ce8cb6a938c740e9300d9",
+    "timestamp": "2022-07-04T08:57:21.000Z",
+    "price": 0.395
+  },
+  {
+    "itemId": "a8c927f95ecca2de50c58cac70b1555e07db31801f9660f6b25f2e33398cf447",
+    "timestamp": "2022-07-04T12:21:38.000Z",
+    "price": 0.45
+  },
+  {
+    "itemId": "8aa2fe1bfcdc24d4f326c33845c526f69539cd658814645a2e7f7636e5f3a8c0",
+    "timestamp": "2022-07-04T16:35:41.000Z",
+    "price": 0.38
+  },
+  {
+    "itemId": "556559ebb62b9a3d08235069d0cf83c4ea3e41b9c60bad09824695ad3962296c",
+    "timestamp": "2022-07-04T21:08:18.000Z",
+    "price": 0.39
+  },
+  {
+    "itemId": "f70be75c9ef1fbff9a3103b9daae222fad661dd7e142fa9d9637ae7dc0ff752b",
+    "timestamp": "2022-07-05T04:45:19.000Z",
+    "price": 0.35
+  },
+  {
+    "itemId": "a6d87d29657ef4013a614eefbc133c87271ca27e6e846dfac9dc752ce79bcdc2",
+    "timestamp": "2022-07-05T09:29:25.000Z",
+    "price": 0.4
+  },
+  {
+    "itemId": "64cb2ee25379ce4a6f1f8990b4ed182054167ae30e25e37fa1643f7e6de66020",
+    "timestamp": "2022-07-05T09:36:20.000Z",
+    "price": 0.395
+  },
+  {
+    "itemId": "de4b6efcb199bd74a2d992452520821f00b8e1184648672f2c5eeb0d93d6cca6",
+    "timestamp": "2022-07-05T17:52:18.000Z",
+    "price": 0.37
+  },
+  {
+    "itemId": "267b8507d42b4901b3c9cbda308da8b971487d471d6ae23be4f98e67b8514a4e",
+    "timestamp": "2022-07-05T18:28:38.000Z",
+    "price": 0.6
+  },
+  {
+    "itemId": "ebcf65c1b0f114d01a340f4dd9429bb2037d5d0a70a889a16bd42a852373ccf1",
+    "timestamp": "2022-07-06T05:42:20.000Z",
+    "price": 4.2
+  },
+  {
+    "itemId": "6cbd943495a5255746c3e83ba39681eaab2381f9a385755ee718c3f1936f59fa",
+    "timestamp": "2022-07-06T15:24:40.000Z",
+    "price": 1.9
+  },
+  {
+    "itemId": "7cf753bb77f3615fb3ccddaac95a5cc5330c2b8f8126fa7e901003be774c3a9b",
+    "timestamp": "2022-07-06T15:33:42.000Z",
+    "price": 1
+  },
+  {
+    "itemId": "ba4fcebf9ee33408dce0d5eb275e4a7063c2a92d9e70ebb5f5014f9bb80dd435",
+    "timestamp": "2022-07-06T22:49:48.000Z",
+    "price": 0.38
+  },
+  {
+    "itemId": "87e45d4c5e28ac7fe565565e72164e82a5600cd7b38fcb1a133c549e08613ccd",
+    "timestamp": "2022-07-07T04:19:02.000Z",
+    "price": 0.445
+  },
+  {
+    "itemId": "a0b33c74fc9266253b9dc0e32d0b4a727cde49e27936bdeaa3340b68a1785b6e",
+    "timestamp": "2022-07-07T04:21:13.000Z",
+    "price": 0.4
+  },
+  {
+    "itemId": "287ae8520203c0e857e69873e52f08678ff8af783716abc317daf62a72392d1f",
+    "timestamp": "2022-07-07T04:26:09.000Z",
+    "price": 0.4
+  },
+  {
+    "itemId": "c4f611409c421a12b32789c3bcbd21dadf337065117ee24163d7d0e2470633e0",
+    "timestamp": "2022-07-07T13:34:25.000Z",
+    "price": 0.545
+  },
+  {
+    "itemId": "910a8bbcc1b87314aa206cfdfc8f1f4750e63ebc2e8fbdf29f777c159f5372d5",
+    "timestamp": "2022-07-07T14:16:40.000Z",
+    "price": 1.1
+  },
+  {
+    "itemId": "17e0c0f1420466520cc651c87298ec17d5a184e021f51a8d0a7994345a81e300",
+    "timestamp": "2022-07-07T23:04:48.000Z",
+    "price": 0.445
+  },
+  {
+    "itemId": "014a36698d6e0e2a8aa37826d11afe4f8d18cd9f7df82da3c316135b7402e38f",
+    "timestamp": "2022-07-07T23:54:53.000Z",
+    "price": 0.345
+  },
+  {
+    "itemId": "37c585361be249e154e5e06b4a558ce2a9a242ababfac28a5fd7dea72d33f1b7",
+    "timestamp": "2022-07-08T02:42:16.000Z",
+    "price": 0.449
+  },
+  {
+    "itemId": "869ced93bac5bc0137c0947a6e3742cef33205ece0c41acd26c9430e414cd77d",
+    "timestamp": "2022-07-08T17:06:19.000Z",
+    "price": 0.5
+  },
+  {
+    "itemId": "bb2615bb250e30440b9c117b9391eee98419a2b0915906f1cfc4be35370dc540",
+    "timestamp": "2022-07-08T19:31:58.000Z",
+    "price": 0.479
+  },
+  {
+    "itemId": "52562dc4acdb400f4086e200c81392bc3b49d468cdf4cbc29a24c4c0516d3bfa",
+    "timestamp": "2022-07-09T14:13:36.000Z",
+    "price": 0.41
+  },
+  {
+    "itemId": "0a79d4c5a03f792fa2c1f804a655605f601ea3b22871af42c9bbfa93236e3f40",
+    "timestamp": "2022-07-09T19:36:17.000Z",
+    "price": 0.3417
+  },
+  {
+    "itemId": "9341ca25c5bed6b4ec756fa97e7831392005f9b42c9e0780098d500f36036bf7",
+    "timestamp": "2022-07-10T18:08:15.000Z",
+    "price": 0.3318
+  },
+  {
+    "itemId": "4d60a2fe04cb17339bc0b62f17b7bbf38e49b6472089b5522d050d52580adf0d",
+    "timestamp": "2022-07-10T18:08:29.000Z",
+    "price": 0.3312
+  },
+  {
+    "itemId": "9a2303709db8a124372065bfe53a3971502484d6d3d751bbe4b8bfbdd1a2c90b",
+    "timestamp": "2022-07-10T18:42:43.000Z",
+    "price": 0.3899
+  },
+  {
+    "itemId": "0e35e167bd52a2cded7dbe36346f0b7c21e4bcb79e8145c34026089ad795d1ec",
+    "timestamp": "2022-07-10T20:52:58.000Z",
+    "price": 0.3312
+  },
+  {
+    "itemId": "6d336da36c67c5f1405aae429dda1145c2f0ff9f999dafa94935fefff78f4fbd",
+    "timestamp": "2022-07-11T08:33:19.000Z",
+    "price": 0.4
+  },
+  {
+    "itemId": "f27d9509044c6ae2b720f0dbf46023be4caca98535e018bb18f9e0c251a836f2",
+    "timestamp": "2022-07-11T09:51:58.000Z",
+    "price": 0.999
+  },
+  {
+    "itemId": "de06b4a7c7c64df2c31cf17db0c5083967631e965babfe0c4dafc873cb8d2fb4",
+    "timestamp": "2022-07-11T14:09:34.000Z",
+    "price": 0.35
+  },
+  {
+    "itemId": "a788e8dc5660d4ca4eaf86dc6c50de0259d3f0f9d5e6da9005ac0087b232ab97",
+    "timestamp": "2022-07-12T00:29:58.000Z",
+    "price": 0.46
+  },
+  {
+    "itemId": "bc5ff6436648270f8db6069ad521e7016c91fcba9dce2b80e9381ebe8017db85",
+    "timestamp": "2022-07-12T02:11:38.000Z",
+    "price": 0.37
+  },
+  {
+    "itemId": "bfb3b1b342f13ec1875bc8b49dd2b36730eb1379ffed8db62bee0fc4189ba7d5",
+    "timestamp": "2022-07-12T03:11:49.000Z",
+    "price": 0.394
+  },
+  {
+    "itemId": "9660c291e0f18a773ac8f3b3ec878eb321a0ae4893ed20ac0a0c2e760e34ddb6",
+    "timestamp": "2022-07-12T15:29:18.000Z",
+    "price": 0.5
+  },
+  {
+    "itemId": "d877d1da45fc72251bbca22956ce5da22c4a64d352fe59d49cb0fe31925017b1",
+    "timestamp": "2022-07-12T18:12:57.000Z",
+    "price": 0.231
+  },
+  {
+    "itemId": "4947a8a1a5a85d8d7a0361822723e9910a5ff72bc36d10c562deb3d7d724e1a1",
+    "timestamp": "2022-07-12T18:12:57.000Z",
+    "price": 0.15
+  },
+  {
+    "itemId": "b76f998701413f4a16119b5abc712bebdb4a1c92d6bf7d46ec4ae9d4a227a381",
+    "timestamp": "2022-07-12T18:39:40.000Z",
+    "price": 0.3799
+  },
+  {
+    "itemId": "b5e6aadd73c70c87c6b4e8880297f42acc66d4157cde072bac3435b09a95e11c",
+    "timestamp": "2022-07-13T11:31:02.000Z",
+    "price": 0.55
+  },
+  {
+    "itemId": "648379be79132220a1766fdff89df6e93f5311747e37e3e7e2cc790350a19b1f",
+    "timestamp": "2022-07-13T15:55:06.000Z",
+    "price": 0.385
+  },
+  {
+    "itemId": "a749a069601f58827b0db1b013a999e01e5eee7df73fdeeb40603685192d6d65",
+    "timestamp": "2022-07-13T17:58:28.000Z",
+    "price": 0.8
+  },
+  {
+    "itemId": "f787694e09a076f0c623bc3342cdbebc8270ff3f3d34059899b17dcbd74997b2",
+    "timestamp": "2022-07-13T19:40:07.000Z",
+    "price": 0.378
+  },
+  {
+    "itemId": "49213fd28107b43877c72ffd391f27451e9ee2991c4b0dfe6bde361b20f0fec4",
+    "timestamp": "2022-07-13T21:17:19.000Z",
+    "price": 0.55
+  },
+  {
+    "itemId": "25d4b53305cba07d5eb42e5a95d091e23ece051712b2e14cee24ad5d777de6f2",
+    "timestamp": "2022-07-14T12:39:21.000Z",
+    "price": 0.35
+  },
+  {
+    "itemId": "8d44d5dff55aeb7994e4076cc8ccc195fabfab95fd0ae8f59c4efe80bd212ff2",
+    "timestamp": "2022-07-14T13:42:44.000Z",
+    "price": 1
+  },
+  {
+    "itemId": "5d6f498e34fb12a67d4a31a2f816656a06a7367382f7acca8f21ab8dc678e4a7",
+    "timestamp": "2022-07-14T17:00:20.000Z",
+    "price": 0.7125
+  },
+  {
+    "itemId": "581283fb9d5627aa98a8ac978e875e7fa2bbf7f26b695d88db2656a2b0c474d8",
+    "timestamp": "2022-07-14T22:25:40.000Z",
+    "price": 0.39
+  },
+  {
+    "itemId": "41eb7638b577036992680d85e74a4854a3459c31ea5387ed0c2a8e2f4d0e8c2d",
+    "timestamp": "2022-07-15T00:51:39.000Z",
+    "price": 0.65
+  },
+  {
+    "itemId": "8bd63785e5c36b208aed259078150ff3a484014ced3e0945e6ec7b1fd26429c0",
+    "timestamp": "2022-07-15T14:18:39.000Z",
+    "price": 0.2865
+  },
+  {
+    "itemId": "f7e8d84fc7fbc9feb36a2d16d1e055927a3729eb3a69d4912d9f57320a2881d4",
+    "timestamp": "2022-07-15T14:30:14.000Z",
+    "price": 0.3879
+  },
+  {
+    "itemId": "2bc7193aa535226e65d0256d63de8a2c42e02d55c5e436c500aa1805cdac5f0c",
+    "timestamp": "2022-07-15T16:55:18.000Z",
+    "price": 0.55
+  },
+  {
+    "itemId": "97e39d8abf20206baec3d5352dd716e09c836f4dd0478a3bca2950fd91b27669",
+    "timestamp": "2022-07-16T00:27:43.000Z",
+    "price": 0.69
+  },
+  {
+    "itemId": "3bec5d1f31450c6a37048ef70b3a632ae447182a1715bd80635a397eb9554c24",
+    "timestamp": "2022-07-16T09:10:53.000Z",
+    "price": 0.39
+  },
+  {
+    "itemId": "622cd8c7fe4837a8071419a0645c54b2972957d3fd317c2ad33adcbc07d13a99",
+    "timestamp": "2022-07-16T18:57:54.000Z",
+    "price": 0.45
+  },
+  {
+    "itemId": "da26efe87ab4d9b3755d2aad7070c4b97aa914605cf2fa8bb8058842be8593ae",
+    "timestamp": "2022-07-16T19:54:05.000Z",
+    "price": 0.4
+  },
+  {
+    "itemId": "72ab35cae65c31f7339bbfc67b8b6b931cecd43586f37902ccb5e6154ae6c0e6",
+    "timestamp": "2022-07-17T08:42:37.000Z",
+    "price": 0.6
+  },
+  {
+    "itemId": "30274d6adaa30b06bd18c720192eff39b45e09bd374fc6fd92c46d4dcf248d26",
+    "timestamp": "2022-07-17T14:26:09.000Z",
+    "price": 0.38
+  },
+  {
+    "itemId": "2ed447c4fdb1d5313153e7066876d11b8420eb4ea1a54db08b302668e063d4c8",
+    "timestamp": "2022-07-18T03:27:08.000Z",
+    "price": 0.389
+  },
+  {
+    "itemId": "df21c432d0d5029006b060f01abf4ae6d5e0bc3da96dbad837091310bf88b640",
+    "timestamp": "2022-07-19T05:49:27.000Z",
+    "price": 0.2901
+  },
+  {
+    "itemId": "fcb30b4ae89033aecd32a62073b454555e4cc22dc720a4cef837b99ca10da8ff",
+    "timestamp": "2022-07-19T16:40:36.000Z",
+    "price": 0.8
+  },
+  {
+    "itemId": "bf56d4e4a316ad2730738473f4397ee2b647c26df7d00b9748b20ade1330b448",
+    "timestamp": "2022-07-19T18:54:53.000Z",
+    "price": 0.73
+  },
+  {
+    "itemId": "36f71fe6c91bc5b58f4a79bd5ac593e60db7c742764d6eb65d243cc121e99588",
+    "timestamp": "2022-07-20T05:38:52.000Z",
+    "price": 0.27432
+  },
+  {
+    "itemId": "6779c6f81081adb2f90a7f40b4de9bf7921c56911e111abd9b1fa1425292751f",
+    "timestamp": "2022-07-20T14:51:33.000Z",
+    "price": 0.45
+  },
+  {
+    "itemId": "544294383265b1abe9e8d04a022ed2855bd456e36b28243436b7984a6538de89",
+    "timestamp": "2022-07-20T15:40:54.000Z",
+    "price": 0.349
+  },
+  {
+    "itemId": "fdeb8428d9945d1fbaff4881e300dc3e849a1de9f47996aee721fbbaf197f812",
+    "timestamp": "2022-07-20T22:37:46.000Z",
+    "price": 0.488
+  },
+  {
+    "itemId": "5dc860b20590a79252c0b040fd4fbeb2a06e47d56171094695ca1253c7c64c10",
+    "timestamp": "2022-07-20T22:40:50.000Z",
+    "price": 0.35
+  },
+  {
+    "itemId": "0c16800ccf16f7d3e4ce0b2a2ee69a32865897da1706d639e14eab56f7ae9448",
+    "timestamp": "2022-07-22T13:42:27.000Z",
+    "price": 0.569
+  },
+  {
+    "itemId": "1b9960a7bea9d20237874cc7b0b697c49c4db33a61914b30283abb026f27a423",
+    "timestamp": "2022-07-22T15:54:41.000Z",
+    "price": 0.274
+  },
+  {
+    "itemId": "83249e771f71b772cda5d92a41c28cbe96ce001cc827815aa65e75b2f789e646",
+    "timestamp": "2022-07-22T19:08:55.000Z",
+    "price": 0.275
+  },
+  {
+    "itemId": "b7cde0390fd9ae9b5084ef68f971acc37c77047cda9c0b090dd3fe6922c05be0",
+    "timestamp": "2022-07-23T08:26:41.000Z",
+    "price": 0.2737
+  },
+  {
+    "itemId": "aad32e97ece76a6955e198ce6eb460d43b7ee4888814bbed91a1f7d1af5dccd7",
+    "timestamp": "2022-07-23T10:46:34.000Z",
+    "price": 0.2735
+  },
+  {
+    "itemId": "abfc063a42e0e75e3eb87380631493933d9244e9a735e3b471f86e61f5d2df2a",
+    "timestamp": "2022-07-23T18:06:10.000Z",
+    "price": 0.33
+  },
+  {
+    "itemId": "f0bd1a990a7291aa83041e5061195eb9688c1956ab7a52e1e3bfb565ce7bb710",
+    "timestamp": "2022-07-23T18:24:36.000Z",
+    "price": 0.4
+  },
+  {
+    "itemId": "fce96adbf6db3d8c6e5f2707532c0f4f2886803ebb3b6316ef4081d78a9843f8",
+    "timestamp": "2022-07-24T06:09:45.000Z",
+    "price": 0.369
+  },
+  {
+    "itemId": "e8163a69ed44d13c8f8150edccc7fb4555875b2b43546ac4d763469f8da798c6",
+    "timestamp": "2022-07-24T23:51:54.000Z",
+    "price": 0.369
+  },
+  {
+    "itemId": "8a6595f200f6f5235dfa01b9b93f9f56a91ec7e185e0ef4ff179ddfdb10c4fa3",
+    "timestamp": "2022-07-24T23:52:46.000Z",
+    "price": 0.369
+  },
+  {
+    "itemId": "592b2cb635021aab9ef95521b87fcfe42c28fd79b629b1c0f547a69725ff89e1",
+    "timestamp": "2022-07-25T08:20:33.000Z",
+    "price": 0.3088
+  },
+  {
+    "itemId": "e0d3aa60371666acb78622cc89c87980a3d7347e6b6d7b7c05f1296495c9cc92",
+    "timestamp": "2022-07-25T20:25:52.000Z",
+    "price": 0.269
+  },
+  {
+    "itemId": "d2cb6c1e6ef42a27fd887310542cfd87de68b07ceccd97cdbb02abf2efa8f9e9",
+    "timestamp": "2022-07-27T04:30:10.000Z",
+    "price": 0.98
+  },
+  {
+    "itemId": "520f6cd715ad94b2216e0c83266be38566b2effa6fdb2319883cae2ed3750f68",
+    "timestamp": "2022-07-27T08:05:01.000Z",
+    "price": 0.25
+  },
+  {
+    "itemId": "caef4fd6966a44edf783dfa352ff92f3ecf266e7319b62b6ff36f95413583b56",
+    "timestamp": "2022-07-28T00:33:08.000Z",
+    "price": 0.369
+  },
+  {
+    "itemId": "2098adac5f2efcb0af0e9ea6eda9da0564a8c172fe9b1c66e3f87e18d081a2c2",
+    "timestamp": "2022-07-28T04:12:56.000Z",
+    "price": 0.38
+  },
+  {
+    "itemId": "f2c91dc15f4ed65e5d75571226f06ba2b01e6b233d9f764efff41b22f6f32419",
+    "timestamp": "2022-07-28T04:55:25.000Z",
+    "price": 0.3
+  }
+]
