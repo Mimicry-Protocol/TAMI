@@ -3,7 +3,6 @@ import type {
   Transaction,
   TransactionMap,
 } from '../types';
-import { filterExtremeOutliers } from '../utils/filterExtremeOutliers';
 import { filterValidTransactions } from '../utils/filterValidTransactions';
 import { sortTransactions } from '../utils/sortTransactions';
 
@@ -109,9 +108,7 @@ export function getIndexRatios(indexValueHistory: IndexValueHistoryItem[]) {
  */
 export function tami(transactionHistory: Transaction[]): number | null {
   const sortedTransactions = sortTransactions(transactionHistory);
-  const validTransactions = filterValidTransactions(
-    filterExtremeOutliers(sortedTransactions)
-  );
+  const validTransactions = filterValidTransactions(sortedTransactions);
   const indexValueHistory = createIndexValueHistory(validTransactions);
 
   if (indexValueHistory.length === 0) {
