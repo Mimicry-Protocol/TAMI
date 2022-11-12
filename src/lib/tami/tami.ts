@@ -7,7 +7,7 @@ import { filterValidTransactions } from '../utils/filterValidTransactions';
 import { sortTransactions } from '../utils/sortTransactions';
 
 /**
- * Given a list of transactions, this crates a list that contains the index value at the
+ * Given a list of transactions, this creates a list that contains the index value at the
  * time of each transaction, and includes the transaction as well.
  * @see {@link https://github.com/Mimicry-Protocol/TAMI/blob/main/reference/card-ladder-white-paper.pdf}
  */
